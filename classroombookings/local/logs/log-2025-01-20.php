@@ -1595,3 +1595,563 @@ INFO - 2025-01-20 15:40:57 --> Helper loaded: user_file_helper
 INFO - 2025-01-20 15:40:57 --> Language file loaded: language/french/calendar_lang.php
 INFO - 2025-01-20 15:40:57 --> Final output sent to browser
 DEBUG - 2025-01-20 15:40:57 --> Total execution time: 0.0513
+INFO - 2025-01-20 15:42:39 --> Config Class Initialized
+INFO - 2025-01-20 15:42:39 --> Hooks Class Initialized
+DEBUG - 2025-01-20 15:42:39 --> UTF-8 Support Enabled
+INFO - 2025-01-20 15:42:39 --> Utf8 Class Initialized
+INFO - 2025-01-20 15:42:39 --> URI Class Initialized
+INFO - 2025-01-20 15:42:39 --> Router Class Initialized
+INFO - 2025-01-20 15:42:39 --> Output Class Initialized
+INFO - 2025-01-20 15:42:39 --> Security Class Initialized
+DEBUG - 2025-01-20 15:42:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 15:42:39 --> Input Class Initialized
+INFO - 2025-01-20 15:42:39 --> Language Class Initialized
+INFO - 2025-01-20 15:42:39 --> Config Class Initialized
+INFO - 2025-01-20 15:42:39 --> Loader Class Initialized
+INFO - 2025-01-20 15:42:39 --> Helper loaded: url_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: form_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: date_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: directory_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: text_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: html_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: array_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 15:42:39 --> Model "Settings_model" initialized
+INFO - 2025-01-20 15:42:39 --> Model "Menu_model" initialized
+INFO - 2025-01-20 15:42:39 --> Controller Class Initialized
+INFO - 2025-01-20 15:42:39 --> Helper loaded: file_helper
+INFO - 2025-01-20 15:42:39 --> Database Driver Class Initialized
+INFO - 2025-01-20 15:42:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 15:42:39 --> Form Validation Class Initialized
+INFO - 2025-01-20 15:42:39 --> Model "Users_model" initialized
+INFO - 2025-01-20 15:42:39 --> Migrations Class Initialized
+INFO - 2025-01-20 15:42:39 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 15:42:39 --> Database Forge Class Initialized
+INFO - 2025-01-20 15:42:39 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 15:42:39 --> Helper loaded: language_helper
+INFO - 2025-01-20 15:42:39 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 15:42:39 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 15:42:39 --> Final output sent to browser
+DEBUG - 2025-01-20 15:42:39 --> Total execution time: 0.0748
+INFO - 2025-01-20 16:01:59 --> Config Class Initialized
+INFO - 2025-01-20 16:01:59 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:01:59 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:01:59 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:01:59 --> URI Class Initialized
+INFO - 2025-01-20 16:01:59 --> Router Class Initialized
+INFO - 2025-01-20 16:01:59 --> Output Class Initialized
+INFO - 2025-01-20 16:01:59 --> Security Class Initialized
+DEBUG - 2025-01-20 16:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:01:59 --> Input Class Initialized
+INFO - 2025-01-20 16:01:59 --> Language Class Initialized
+INFO - 2025-01-20 16:01:59 --> Config Class Initialized
+INFO - 2025-01-20 16:01:59 --> Loader Class Initialized
+INFO - 2025-01-20 16:01:59 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:01:59 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:01:59 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:01:59 --> Controller Class Initialized
+INFO - 2025-01-20 16:01:59 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:01:59 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:01:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:01:59 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:01:59 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:01:59 --> Migrations Class Initialized
+INFO - 2025-01-20 16:01:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:01:59 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:01:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:01:59 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:01:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:01:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:01:59 --> Final output sent to browser
+DEBUG - 2025-01-20 16:01:59 --> Total execution time: 0.0726
+INFO - 2025-01-20 16:07:02 --> Config Class Initialized
+INFO - 2025-01-20 16:07:02 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:07:02 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:07:02 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:07:02 --> URI Class Initialized
+INFO - 2025-01-20 16:07:02 --> Router Class Initialized
+INFO - 2025-01-20 16:07:02 --> Output Class Initialized
+INFO - 2025-01-20 16:07:02 --> Security Class Initialized
+DEBUG - 2025-01-20 16:07:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:07:02 --> Input Class Initialized
+INFO - 2025-01-20 16:07:02 --> Language Class Initialized
+INFO - 2025-01-20 16:07:02 --> Config Class Initialized
+INFO - 2025-01-20 16:07:02 --> Loader Class Initialized
+INFO - 2025-01-20 16:07:02 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:07:02 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:07:02 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:07:02 --> Controller Class Initialized
+INFO - 2025-01-20 16:07:02 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:07:02 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:07:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:07:02 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:07:02 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:07:02 --> Migrations Class Initialized
+INFO - 2025-01-20 16:07:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:07:02 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:07:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:07:02 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:07:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:07:02 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:07:02 --> Final output sent to browser
+DEBUG - 2025-01-20 16:07:02 --> Total execution time: 0.0559
+INFO - 2025-01-20 16:07:23 --> Config Class Initialized
+INFO - 2025-01-20 16:07:23 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:07:23 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:07:23 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:07:23 --> URI Class Initialized
+INFO - 2025-01-20 16:07:23 --> Router Class Initialized
+INFO - 2025-01-20 16:07:23 --> Output Class Initialized
+INFO - 2025-01-20 16:07:23 --> Security Class Initialized
+DEBUG - 2025-01-20 16:07:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:07:23 --> Input Class Initialized
+INFO - 2025-01-20 16:07:23 --> Language Class Initialized
+INFO - 2025-01-20 16:07:24 --> Config Class Initialized
+INFO - 2025-01-20 16:07:24 --> Loader Class Initialized
+INFO - 2025-01-20 16:07:24 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:07:24 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:07:24 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:07:24 --> Controller Class Initialized
+INFO - 2025-01-20 16:07:24 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:07:24 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:07:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:07:24 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:07:24 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:07:24 --> Migrations Class Initialized
+INFO - 2025-01-20 16:07:24 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:07:24 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:07:24 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:07:24 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:07:24 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:07:24 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:07:24 --> Final output sent to browser
+DEBUG - 2025-01-20 16:07:24 --> Total execution time: 0.0628
+INFO - 2025-01-20 16:09:28 --> Config Class Initialized
+INFO - 2025-01-20 16:09:28 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:09:28 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:09:28 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:09:28 --> URI Class Initialized
+INFO - 2025-01-20 16:09:28 --> Router Class Initialized
+INFO - 2025-01-20 16:09:28 --> Output Class Initialized
+INFO - 2025-01-20 16:09:28 --> Security Class Initialized
+DEBUG - 2025-01-20 16:09:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:09:28 --> Input Class Initialized
+INFO - 2025-01-20 16:09:28 --> Language Class Initialized
+INFO - 2025-01-20 16:09:28 --> Config Class Initialized
+INFO - 2025-01-20 16:09:28 --> Loader Class Initialized
+INFO - 2025-01-20 16:09:28 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:09:28 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:09:28 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:09:28 --> Controller Class Initialized
+INFO - 2025-01-20 16:09:28 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:09:28 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:09:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:09:28 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:09:28 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:09:28 --> Migrations Class Initialized
+INFO - 2025-01-20 16:09:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:09:28 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:09:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:09:28 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:09:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:09:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:09:28 --> Final output sent to browser
+DEBUG - 2025-01-20 16:09:28 --> Total execution time: 0.0663
+INFO - 2025-01-20 16:09:46 --> Config Class Initialized
+INFO - 2025-01-20 16:09:46 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:09:46 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:09:46 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:09:46 --> URI Class Initialized
+INFO - 2025-01-20 16:09:46 --> Router Class Initialized
+INFO - 2025-01-20 16:09:46 --> Output Class Initialized
+INFO - 2025-01-20 16:09:46 --> Security Class Initialized
+DEBUG - 2025-01-20 16:09:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:09:46 --> Input Class Initialized
+INFO - 2025-01-20 16:09:46 --> Language Class Initialized
+INFO - 2025-01-20 16:09:46 --> Config Class Initialized
+INFO - 2025-01-20 16:09:46 --> Loader Class Initialized
+INFO - 2025-01-20 16:09:46 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:09:46 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:09:46 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:09:46 --> Controller Class Initialized
+INFO - 2025-01-20 16:09:46 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:09:46 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:09:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:09:46 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:09:46 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:09:46 --> Migrations Class Initialized
+INFO - 2025-01-20 16:09:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:09:46 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:09:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:09:46 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:09:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:09:46 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:09:46 --> Final output sent to browser
+DEBUG - 2025-01-20 16:09:46 --> Total execution time: 0.0491
+INFO - 2025-01-20 16:09:57 --> Config Class Initialized
+INFO - 2025-01-20 16:09:57 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:09:57 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:09:57 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:09:57 --> URI Class Initialized
+INFO - 2025-01-20 16:09:57 --> Router Class Initialized
+INFO - 2025-01-20 16:09:57 --> Output Class Initialized
+INFO - 2025-01-20 16:09:57 --> Security Class Initialized
+DEBUG - 2025-01-20 16:09:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:09:57 --> Input Class Initialized
+INFO - 2025-01-20 16:09:57 --> Language Class Initialized
+INFO - 2025-01-20 16:09:57 --> Config Class Initialized
+INFO - 2025-01-20 16:09:57 --> Loader Class Initialized
+INFO - 2025-01-20 16:09:57 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:09:57 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:09:57 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:09:57 --> Controller Class Initialized
+INFO - 2025-01-20 16:09:57 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:09:57 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:09:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:09:57 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:09:57 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:09:57 --> Migrations Class Initialized
+INFO - 2025-01-20 16:09:57 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:09:57 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:09:57 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:09:57 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:09:57 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:09:57 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:09:57 --> Final output sent to browser
+DEBUG - 2025-01-20 16:09:57 --> Total execution time: 0.0609
+INFO - 2025-01-20 16:10:24 --> Config Class Initialized
+INFO - 2025-01-20 16:10:24 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:10:24 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:10:24 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:10:24 --> URI Class Initialized
+INFO - 2025-01-20 16:10:24 --> Router Class Initialized
+INFO - 2025-01-20 16:10:24 --> Output Class Initialized
+INFO - 2025-01-20 16:10:24 --> Security Class Initialized
+DEBUG - 2025-01-20 16:10:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:10:24 --> Input Class Initialized
+INFO - 2025-01-20 16:10:24 --> Language Class Initialized
+INFO - 2025-01-20 16:10:24 --> Config Class Initialized
+INFO - 2025-01-20 16:10:24 --> Loader Class Initialized
+INFO - 2025-01-20 16:10:24 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:10:24 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:10:24 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:10:24 --> Controller Class Initialized
+INFO - 2025-01-20 16:10:24 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:10:24 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:10:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:10:24 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:10:24 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:10:24 --> Migrations Class Initialized
+INFO - 2025-01-20 16:10:24 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:10:24 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:10:24 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:10:24 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:10:24 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:10:24 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:10:24 --> Final output sent to browser
+DEBUG - 2025-01-20 16:10:24 --> Total execution time: 0.0663
+INFO - 2025-01-20 16:11:22 --> Config Class Initialized
+INFO - 2025-01-20 16:11:22 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:11:22 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:11:22 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:11:22 --> URI Class Initialized
+INFO - 2025-01-20 16:11:22 --> Router Class Initialized
+INFO - 2025-01-20 16:11:22 --> Output Class Initialized
+INFO - 2025-01-20 16:11:22 --> Security Class Initialized
+DEBUG - 2025-01-20 16:11:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:11:22 --> Input Class Initialized
+INFO - 2025-01-20 16:11:22 --> Language Class Initialized
+INFO - 2025-01-20 16:11:22 --> Config Class Initialized
+INFO - 2025-01-20 16:11:22 --> Loader Class Initialized
+INFO - 2025-01-20 16:11:22 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:11:22 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:11:22 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:11:22 --> Controller Class Initialized
+INFO - 2025-01-20 16:11:22 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:11:22 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:11:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:11:22 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:11:22 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:11:22 --> Migrations Class Initialized
+INFO - 2025-01-20 16:11:22 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:11:22 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:11:22 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:11:22 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:11:22 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:11:22 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:11:22 --> Final output sent to browser
+DEBUG - 2025-01-20 16:11:22 --> Total execution time: 0.0621
+INFO - 2025-01-20 16:11:27 --> Config Class Initialized
+INFO - 2025-01-20 16:11:27 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:11:27 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:11:27 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:11:27 --> URI Class Initialized
+INFO - 2025-01-20 16:11:27 --> Router Class Initialized
+INFO - 2025-01-20 16:11:27 --> Output Class Initialized
+INFO - 2025-01-20 16:11:27 --> Security Class Initialized
+DEBUG - 2025-01-20 16:11:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:11:27 --> Input Class Initialized
+INFO - 2025-01-20 16:11:27 --> Language Class Initialized
+INFO - 2025-01-20 16:11:27 --> Config Class Initialized
+INFO - 2025-01-20 16:11:27 --> Loader Class Initialized
+INFO - 2025-01-20 16:11:27 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:11:27 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:11:27 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:11:27 --> Controller Class Initialized
+INFO - 2025-01-20 16:11:27 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:11:27 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:11:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:11:27 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:11:27 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:11:27 --> Migrations Class Initialized
+INFO - 2025-01-20 16:11:27 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:11:27 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:11:27 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:11:27 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:11:27 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:11:27 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:11:27 --> Final output sent to browser
+DEBUG - 2025-01-20 16:11:27 --> Total execution time: 0.0500
+INFO - 2025-01-20 16:12:06 --> Config Class Initialized
+INFO - 2025-01-20 16:12:06 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:12:06 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:12:06 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:12:06 --> URI Class Initialized
+INFO - 2025-01-20 16:12:06 --> Router Class Initialized
+INFO - 2025-01-20 16:12:06 --> Output Class Initialized
+INFO - 2025-01-20 16:12:06 --> Security Class Initialized
+DEBUG - 2025-01-20 16:12:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:12:06 --> Input Class Initialized
+INFO - 2025-01-20 16:12:06 --> Language Class Initialized
+INFO - 2025-01-20 16:12:06 --> Config Class Initialized
+INFO - 2025-01-20 16:12:06 --> Loader Class Initialized
+INFO - 2025-01-20 16:12:06 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:12:06 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:12:06 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:12:06 --> Controller Class Initialized
+INFO - 2025-01-20 16:12:06 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:12:06 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:12:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:12:06 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:12:06 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:12:06 --> Migrations Class Initialized
+INFO - 2025-01-20 16:12:06 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:12:06 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:12:06 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:12:06 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:12:06 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:12:06 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:12:06 --> Final output sent to browser
+DEBUG - 2025-01-20 16:12:06 --> Total execution time: 0.0789
+INFO - 2025-01-20 16:12:49 --> Config Class Initialized
+INFO - 2025-01-20 16:12:49 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:12:49 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:12:49 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:12:49 --> URI Class Initialized
+INFO - 2025-01-20 16:12:49 --> Router Class Initialized
+INFO - 2025-01-20 16:12:49 --> Output Class Initialized
+INFO - 2025-01-20 16:12:49 --> Security Class Initialized
+DEBUG - 2025-01-20 16:12:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:12:49 --> Input Class Initialized
+INFO - 2025-01-20 16:12:49 --> Language Class Initialized
+INFO - 2025-01-20 16:12:49 --> Config Class Initialized
+INFO - 2025-01-20 16:12:49 --> Loader Class Initialized
+INFO - 2025-01-20 16:12:49 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:12:49 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:12:49 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:12:49 --> Controller Class Initialized
+INFO - 2025-01-20 16:12:49 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:12:49 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:12:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:12:49 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:12:49 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:12:49 --> Migrations Class Initialized
+INFO - 2025-01-20 16:12:49 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:12:49 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:12:49 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:12:49 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:12:49 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:12:49 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:12:49 --> Final output sent to browser
+DEBUG - 2025-01-20 16:12:49 --> Total execution time: 0.0623
+INFO - 2025-01-20 16:12:52 --> Config Class Initialized
+INFO - 2025-01-20 16:12:52 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:12:52 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:12:52 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:12:52 --> URI Class Initialized
+INFO - 2025-01-20 16:12:52 --> Router Class Initialized
+INFO - 2025-01-20 16:12:52 --> Output Class Initialized
+INFO - 2025-01-20 16:12:52 --> Security Class Initialized
+DEBUG - 2025-01-20 16:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:12:52 --> Input Class Initialized
+INFO - 2025-01-20 16:12:52 --> Language Class Initialized
+INFO - 2025-01-20 16:12:52 --> Config Class Initialized
+INFO - 2025-01-20 16:12:52 --> Loader Class Initialized
+INFO - 2025-01-20 16:12:52 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:12:52 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:12:52 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:12:52 --> Controller Class Initialized
+INFO - 2025-01-20 16:12:52 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:12:52 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:12:52 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:12:52 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:12:52 --> Migrations Class Initialized
+INFO - 2025-01-20 16:12:52 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:12:52 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:12:52 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:12:52 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:12:52 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:12:52 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:12:52 --> Final output sent to browser
+DEBUG - 2025-01-20 16:12:52 --> Total execution time: 0.0592
+INFO - 2025-01-20 16:12:54 --> Config Class Initialized
+INFO - 2025-01-20 16:12:54 --> Hooks Class Initialized
+DEBUG - 2025-01-20 16:12:54 --> UTF-8 Support Enabled
+INFO - 2025-01-20 16:12:54 --> Utf8 Class Initialized
+INFO - 2025-01-20 16:12:54 --> URI Class Initialized
+INFO - 2025-01-20 16:12:54 --> Router Class Initialized
+INFO - 2025-01-20 16:12:54 --> Output Class Initialized
+INFO - 2025-01-20 16:12:54 --> Security Class Initialized
+DEBUG - 2025-01-20 16:12:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-20 16:12:54 --> Input Class Initialized
+INFO - 2025-01-20 16:12:54 --> Language Class Initialized
+INFO - 2025-01-20 16:12:54 --> Config Class Initialized
+INFO - 2025-01-20 16:12:54 --> Loader Class Initialized
+INFO - 2025-01-20 16:12:54 --> Helper loaded: url_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: form_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: date_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: cookie_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: directory_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: text_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: html_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: array_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: crbs_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: unpoly_helper
+INFO - 2025-01-20 16:12:54 --> Model "Settings_model" initialized
+INFO - 2025-01-20 16:12:54 --> Model "Menu_model" initialized
+INFO - 2025-01-20 16:12:54 --> Controller Class Initialized
+INFO - 2025-01-20 16:12:54 --> Helper loaded: file_helper
+INFO - 2025-01-20 16:12:54 --> Database Driver Class Initialized
+INFO - 2025-01-20 16:12:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-20 16:12:54 --> Form Validation Class Initialized
+INFO - 2025-01-20 16:12:54 --> Model "Users_model" initialized
+INFO - 2025-01-20 16:12:54 --> Migrations Class Initialized
+INFO - 2025-01-20 16:12:54 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-20 16:12:54 --> Database Forge Class Initialized
+INFO - 2025-01-20 16:12:54 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-20 16:12:54 --> Helper loaded: language_helper
+INFO - 2025-01-20 16:12:54 --> Helper loaded: user_file_helper
+INFO - 2025-01-20 16:12:54 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-20 16:12:54 --> Final output sent to browser
+DEBUG - 2025-01-20 16:12:54 --> Total execution time: 0.0639
