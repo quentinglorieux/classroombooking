@@ -81,27 +81,22 @@ class Header
 			
 				$start_date = $this->context->week_start->format(setting('date_format_long'));
 
-				// Get the localized day name
 				$day_name_key = 'calendar_day_' . strtolower($this->context->week_start->format('l'));
 				$localized_day_name = lang($day_name_key);
 
-				// Get the localized month name
 				$month_name_key = 'calendar_month_' . strtolower($this->context->week_start->format('F'));
 				$localized_month_name = lang($month_name_key);
 
-				// Get the day of the month and determine the ordinal suffix
 				$day_number = $this->context->week_start->format('j');
 				$day_suffix_loc = $lang['calendar_suffix_' . $day_number] ?? lang('calendar_suffix_default') ?? $this->get_ordinal_suffix($day_number);
 
-				// Rebuild the localized start date string
 				$start_date = $this->context->week_start->format(setting('date_format_long'));
 				$localized_start_date = str_replace(
-					$this->context->week_start->format('l'), // Original English day name
-					$localized_day_name,                    // Localized day name
-					$start_date                             // The original formatted date
+					$this->context->week_start->format('l'), 
+					$localized_day_name,                    
+					$start_date                             
 				);
 
-								// Combine into a fully localized date
 				$localized_start_date = sprintf(
 					'%s %d%s %s %d',
 					$localized_day_name,
@@ -111,13 +106,8 @@ class Header
 					$this->context->week_start->format('Y')
 				);
 
-				// Generate the week text
 				$week_text = sprintf(lang('week_commencing'), $localized_start_date);
-				
 
-				log_message('debug', 'Localized day name: ' . $localized_day_name);
-				log_message('debug', 'Original start date: ' . $start_date);
-				log_message('debug', 'Localized start date: ' . $localized_start_date);
 			
 				$data['title'] = $this->context->timetable_week
 					? sprintf(lang('timetable_week_title'), $week_text, html_escape($this->context->timetable_week->name))
@@ -127,7 +117,6 @@ class Header
 			default:
 
 				return $data;
-				// retrun '1'
 		}
 
 		// Links
