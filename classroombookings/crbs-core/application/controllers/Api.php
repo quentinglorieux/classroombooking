@@ -16,9 +16,24 @@ class Api extends MY_Controller {
             exit; 
         }
     }
-
     public function bookings() {
-        $query = $this->db->get('bookings'); 
+        $this->db->select('
+            bookings.*, 
+            users.username as user_name, 
+            users.email as user_email, 
+            rooms.name as room_name,
+            periods.name as period_name,
+            periods.time_start as period_time_start,
+            periods.time_end as period_time_end
+        ');
+        $this->db->from('bookings');
+        $this->db->join('users', 'users.user_id = bookings.user_id', 'left');
+        $this->db->join('rooms', 'rooms.room_id = bookings.room_id', 'left');
+        $this->db->join('periods', 'periods.period_id = bookings.period_id', 'left');
+
+    
+        $query = $this->db->get();
+    
         $this->output
             ->set_content_type('application/json')
             ->set_output(json_encode($query->result_array()));
@@ -140,4 +155,32 @@ class Api extends MY_Controller {
                 ->set_output(json_encode(['status' => 'error', 'message' => 'Room not found']));
         }
     }    
+
+    public function users() {
+        $query = $this->db->get('users'); 
+        $this->output
+            ->set_content_type('application/json')
+            ->set_output(json_encode($query->result_array()));
+    }
+
+    public function user($id) {
+        if (!is_numeric($id)) {
+            $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode(['status' => 'error', 'message' => 'Invalid ID']));
+            return;
+        }
+
+        $this->db->where('user_id', $id); 
+        $query = $this->db->get('users');
+        if ($query->num_rows() > 0) {
+            $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode($query->row_array()));
+        } else {
+            $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode(['status' => 'error', 'message' => 'User not found']));
+        }
+    }
 }
