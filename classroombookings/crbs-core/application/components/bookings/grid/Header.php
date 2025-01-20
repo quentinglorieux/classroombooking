@@ -78,7 +78,25 @@ class Header
 				$next_label = lang('next_label');
 			
 				$start_date = $this->context->week_start->format(setting('date_format_long'));
-				$week_text = sprintf(lang('week_commencing'), $start_date);
+
+				// If day or month names need localization, replace them
+				// Get the localized full day name
+				// Get the full day name in lowercase
+				$day_name_key = 'calendar_day_' . strtolower($this->context->week_start->format('l')); // e.g., calendar_day_monday
+				$localized_day_name = lang($day_name_key);
+
+				// Rebuild the localized start date string
+				$start_date = $this->context->week_start->format(setting('date_format_long'));
+				$localized_start_date = str_replace(
+					$this->context->week_start->format('l'), // Original English day name
+					$localized_day_name,                    // Localized day name
+					$start_date                             // The original formatted date
+				);
+
+				// Generate the week text
+				$week_text = sprintf(lang('week_commencing'), $localized_start_date);
+				
+
 			
 				$data['title'] = $this->context->timetable_week
 					? sprintf(lang('timetable_week_title'), $week_text, html_escape($this->context->timetable_week->name))
@@ -88,7 +106,7 @@ class Header
 			default:
 
 				return $data;
-
+				// retrun '1'
 		}
 
 		// Links
