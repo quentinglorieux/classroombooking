@@ -59,3 +59,19 @@ $lang['calendar_day_thu'] = 'Jeu';
 $lang['calendar_day_fri'] = 'Ven';
 $lang['calendar_day_sat'] = 'Sam';
 $lang['calendar_day_sun'] = 'Dim';
+
+$lang['calendar_month_january'] = 'Janvier';
+$lang['calendar_month_february'] = 'Février';
+$lang['calendar_month_march'] = 'Mars';
+$lang['calendar_month_april'] = 'Avril';
+$lang['calendar_month_may'] = 'Mai';
+$lang['calendar_month_june'] = 'Juin';
+$lang['calendar_month_july'] = 'Juillet';
+$lang['calendar_month_august'] = 'Août';
+$lang['calendar_month_september'] = 'Septembre';
+$lang['calendar_month_october'] = 'Octobre';
+$lang['calendar_month_november'] = 'Novembre';
+$lang['calendar_month_december'] = 'Décembre';
+
+$lang['calendar_suffix_1'] = 'er'; // e.g., 1er
+$lang['calendar_suffix_default'] = ''; // No suffix for other days in French

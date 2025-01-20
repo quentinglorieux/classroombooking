@@ -58,3 +58,21 @@ $lang['calendar_day_thu'] = 'Thu';
 $lang['calendar_day_fri'] = 'Fri';
 $lang['calendar_day_sat'] = 'Sat';
 $lang['calendar_day_sun'] = 'Sun';
+
+$lang['calendar_month_january'] = 'January';
+$lang['calendar_month_february'] = 'February';
+$lang['calendar_month_march'] = 'March';
+$lang['calendar_month_april'] = 'April';
+$lang['calendar_month_may'] = 'May';
+$lang['calendar_month_june'] = 'June';
+$lang['calendar_month_july'] = 'July';
+$lang['calendar_month_august'] = 'August';
+$lang['calendar_month_september'] = 'September';
+$lang['calendar_month_october'] = 'October';
+$lang['calendar_month_november'] = 'November';
+$lang['calendar_month_december'] = 'December';
+
+$lang['calendar_suffix_1'] = 'st';
+$lang['calendar_suffix_2'] = 'nd';
+$lang['calendar_suffix_3'] = 'rd';
+$lang['calendar_suffix_default'] = 'th';
