@@ -2,7 +2,9 @@
 <html lang="<?= $this->lang->line('language_code') ?? 'en' ?>">
 <head>
     <link rel="stylesheet" href="<?= base_url('assets/css/monthly_calendar.css') ?>">
-    <title><?= lang('calendar_bookings_for') ?> <?= date('F Y', strtotime("$year-$month-01")) ?></title>
+    <title>
+    <?= lang('calendar_bookings_for') ?> <?= date('F Y', strtotime("$year-$month-01")) ?>
+    </title>
 </head>
 <body>
 <div class="calendar-navigation">
@@ -25,7 +27,11 @@
 
 <!-- Bookings List -->
 <div class="bookings-list">
-    <h2><?= lang('calendar_bookings_for') ?> <?= date('F Y', strtotime("$year-$month-01")) ?></h2>
+    <h2><?= lang('calendar_bookings_for') ?> <?php if (!empty($room_id) && isset($rooms[$room_id])): ?>
+     <?= html_escape($rooms[$room_id]) ?>
+    <?php endif; ?> - <?= date('F Y', strtotime("$year-$month-01")) ?>
+    
+    </h2>
     <?php if (!empty($grouped_bookings)): ?>
         <?php foreach ($grouped_bookings as $date => $daily_bookings): ?>
             <div class="daily-bookings">
