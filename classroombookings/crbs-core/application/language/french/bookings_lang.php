@@ -76,3 +76,10 @@ $lang['calendar_month_december'] = 'Décembre';
 $lang['calendar_suffix_1'] = 'er'; // e.g., 1er
 $lang['calendar_suffix_default'] = ''; // No suffix for other days in French
 
+$lang['go_to_monthly_view'] = 'Aller à la vue du mois';
+
+$lang['calendar_previous'] = 'Précédent';
+$lang['calendar_next'] = 'Suivant';
+$lang['calendar_bookings_for'] = 'Réservations pour';
+$lang['calendar_no_bookings'] = 'Aucune réservation disponible pour ce mois.';
+$lang['calendar_select_room'] = 'Choisir une salle';

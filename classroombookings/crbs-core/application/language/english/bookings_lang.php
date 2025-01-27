@@ -76,3 +76,11 @@ $lang['calendar_suffix_1'] = 'st';
 $lang['calendar_suffix_2'] = 'nd';
 $lang['calendar_suffix_3'] = 'rd';
 $lang['calendar_suffix_default'] = 'th';
+
+$lang['go_to_monthly_view'] = 'Go to Monthly view';
+
+$lang['calendar_previous'] = 'Previous';
+$lang['calendar_next'] = 'Next';
+$lang['calendar_bookings_for'] = 'Bookings for';
+$lang['calendar_no_bookings'] = 'No bookings available for this month.';
+$lang['calendar_select_room'] = 'Select Room';

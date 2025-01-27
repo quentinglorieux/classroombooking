@@ -1,34 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?= $this->lang->line('language_code') ?? 'en' ?>">
 <head>
     <link rel="stylesheet" href="<?= base_url('assets/css/monthly_calendar.css') ?>">
-    <title>Monthly Calendar</title>
+    <title><?= lang('calendar_bookings_for') ?> <?= date('F Y', strtotime("$year-$month-01")) ?></title>
 </head>
 <body>
 <div class="calendar-navigation">
     <a href="<?= site_url("bookings/monthly?year=" . ($month == 1 ? $year - 1 : $year) . "&month=" . ($month == 1 ? 12 : $month - 1)) ?>">
-        Previous
+        <?= lang('calendar_previous') ?>
     </a>
     <span><?= date('F Y', strtotime("$year-$month-01")) ?></span>
     <a href="<?= site_url("bookings/monthly?year=" . ($month == 12 ? $year + 1 : $year) . "&month=" . ($month == 12 ? 1 : $month + 1)) ?>">
-        Next
+        <?= lang('calendar_next') ?>
     </a>
 </div>
-
-
 
 <!-- Room Selector -->
 <div class="room-selector">
     <?= form_open('bookings/monthly', ['method' => 'get'], ['year' => $year, 'month' => $month]) ?>
-    <label for="room_id">Select Room:</label>
+    <label for="room_id"><?= lang('calendar_select_room') ?>:</label>
     <?= form_dropdown('room', $rooms, $room_id, ['id' => 'room_id', 'onchange' => 'this.form.submit()']) ?>
     <?= form_close() ?>
 </div>
 
-
 <!-- Bookings List -->
 <div class="bookings-list">
-    <h2>Bookings for <?= date('F Y', strtotime("$year-$month-01")) ?></h2>
+    <h2><?= lang('calendar_bookings_for') ?> <?= date('F Y', strtotime("$year-$month-01")) ?></h2>
     <?php if (!empty($grouped_bookings)): ?>
         <?php foreach ($grouped_bookings as $date => $daily_bookings): ?>
             <div class="daily-bookings">
@@ -41,20 +38,14 @@
                                 : 'N/A' ?></span>
                             <span><strong><?= !empty($booking->user_name) ? html_escape($booking->user_name) : 'No User' ?></strong></span>
                             <span><?= !empty($booking->room_name) ? html_escape($booking->room_name) : 'N/A' ?></span>
-
                         </li>
                     <?php endforeach; ?>
                 </ul>
             </div>
         <?php endforeach; ?>
     <?php else: ?>
-        <p>No bookings available for this month.</p>
+        <p><?= lang('calendar_no_bookings') ?></p>
     <?php endif; ?>
 </div>
-
-<!-- <div class="calendar-container">
-    <?= $calendar_html ?>
-</div>
--->
 </body>
 </html>

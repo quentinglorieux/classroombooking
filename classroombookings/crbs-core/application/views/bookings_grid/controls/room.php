@@ -60,7 +60,7 @@ if (feature('room_groups')) {
 
     // Monthly View button
     $monthly_url = site_url('bookings/monthly');
-    $monthly_button = "<a href='{$monthly_url}' class='btn-monthly-view'>Aller à la vue  du mois</a>";
+    $monthly_button = "<a href='{$monthly_url}' class='btn-monthly-view'>" . lang('go_to_monthly_view') . "</a>";
 }
 
 ?>
