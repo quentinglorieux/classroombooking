@@ -30,23 +30,27 @@ jobs:
           # Transfer source files to the server
           rsync -avz -e "ssh -o StrictHostKeyChecking=no" ./ adminultra@ultratrail:/home/adminultra/classroombooking-source/
 
-          # SSH into the server, move directories, and copy assets/css
+          # SSH into the server, move files, and copy directories
           ssh ultratrail << 'EOF'
-            cd /home/adminultra/classroombooking-source
             echo "Logging deployment on $(date)" >> ~/deploy-log.txt
 
-            echo "Preparing to move core files..."
-            TARGET_DIR=~/classroombookings-3.0.0
-            if [ -d $TARGET_DIR ]; then
-              rm -rf $TARGET_DIR
-            fi
+            # Define source and target directories
+            SRC_DIR=/home/adminultra/classroombooking-source/classroombookings
+            DEST_DIR=/home/adminultra/docker/classroombookings/classroombookings-3.0.0
 
-            # Move the core directory
-            mv classroombookings/crbs-core/ $TARGET_DIR
+            # Create destination directory if it doesn't exist
+            mkdir -p $DEST_DIR
 
-            # Copy assets/css directory to the new location
+            echo "Removing existing directories in the destination..."
+            rm -rf $DEST_DIR/crbs-core
+            rm -rf $DEST_DIR/assets/css
+
+            echo "Copying crbs-core..."
+            cp -r $SRC_DIR/crbs-core $DEST_DIR/
+
             echo "Copying assets/css..."
-            cp -r assets/css $TARGET_DIR/
+            mkdir -p $DEST_DIR/assets
+            cp -r $SRC_DIR/assets/css $DEST_DIR/assets/
 
             echo "Deployment completed successfully!"
           EOF
