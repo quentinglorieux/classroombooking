@@ -781,6 +781,32 @@ class Bookings_model extends CI_Model
 		return $total;
 	}
 
+	// Add the method here
+	public function bookings_for_month($year, $month)
+	{
+		$start_date = "{$year}-{$month}-01";
+		$end_date = date('Y-m-t', strtotime($start_date));
+	
+		$this->db->select('
+			bookings.*, 
+			users.username as user_name, 
+			users.email as user_email, 
+			rooms.name as room_name,
+			periods.name as period_name,
+			periods.time_start as period_time_start,
+			periods.time_end as period_time_end
+		');
+		$this->db->from('bookings');
+		$this->db->join('users', 'users.user_id = bookings.user_id', 'left');
+		$this->db->join('rooms', 'rooms.room_id = bookings.room_id', 'left');
+		$this->db->join('periods', 'periods.period_id = bookings.period_id', 'left');
+		$this->db->where('bookings.date >=', $start_date);
+		$this->db->where('bookings.date <=', $end_date);
+		$query = $this->db->get();
+	
+		// Return the result as an array of objects
+		return $query->result();
+	}
 
 
 

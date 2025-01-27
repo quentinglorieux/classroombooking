@@ -449,5 +449,36 @@ class Bookings extends MY_Controller
 	}
 
 
+	public function monthly()
+	{
+		$this->load->library('Calendar');
+		$this->load->model('bookings_model');
+	
+		$year = $this->input->get('year') ?? date('Y');
+		$month = $this->input->get('month') ?? date('m');
+	
+		// Fetch bookings for the selected month
+		$bookings = $this->bookings_model->bookings_for_month($year, $month);
+	
+		// Generate the calendar
+		$config = [
+			'mode' => 'view',
+			'selected_datetime' => new DateTime("$year-$month-01"),
+			'month_class' => 'monthly-calendar',
+		];
+		$calendar = new app\components\Calendar($config);
+		$calendar_html = $calendar->generate_month(new DateTime("$year-$month-01"));
+	
+		// Pass data to the view
+		$this->data['title'] = lang('bookings_monthly_title');
+		$this->data['calendar_html'] = $calendar_html;
+		$this->data['year'] = $year;
+		$this->data['month'] = $month;
+		$this->data['bookings'] = $bookings;
+	
+		$this->data['body'] = $this->load->view('bookings/monthly', $this->data, TRUE);
+		return $this->render();
+	}
+
 
 }

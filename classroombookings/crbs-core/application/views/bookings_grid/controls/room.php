@@ -39,7 +39,7 @@ if (feature('room_groups')) {
 			up-history='false'
 			up-target='.bookings-filter'
 			up-preload=''
-		>{$rooms_label}</button>";
+		>{$rooms_label} </button>";
 	}
 
 	$info_link = '';

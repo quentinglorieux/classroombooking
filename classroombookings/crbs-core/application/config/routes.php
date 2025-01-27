@@ -55,6 +55,7 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['controlpanel'] = 'dashboard';
 
+$route['bookings/monthly'] = 'bookings/monthly';
 
 $route['language/(:any)'] = 'language/switch/$1'; // Handle language switching
 // $route['(:any)'] = 'dashboard/index/$1';  

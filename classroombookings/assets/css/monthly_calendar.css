@@ -1,0 +1,169 @@
+/* Container for the calendar */
+.calendar-container {
+    margin: 20px auto;
+    max-width: 900px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+/* Calendar table */
+.monthly-calendar {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+/* Header styles */
+.monthly-calendar th {
+    background-color: #f4f4f4;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 14px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Weekday row styles */
+.week-row td {
+    background-color: #f8f8f8;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    color: #555;
+}
+
+/* Day cells */
+.date-cell {
+    height: 100px;
+    vertical-align: top;
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+    color: #333;
+    border: 1px solid #eee;
+    position: relative;
+}
+
+/* Day number styling */
+.date-cell .date-cell-content {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Current month day cells */
+.current-month {
+    background-color: #fff;
+}
+
+/* Previous/next month day cells */
+.prev-month,
+.next-month {
+    background-color: #f9f9f9;
+    color: #aaa;
+}
+
+/* Highlight for today's date */
+.date-cell-today {
+    background-color: #e8f4fc;
+    border: 2px solid #007bff;
+}
+
+/* Event list inside cells */
+.event {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 10px;
+    padding: 2px 5px;
+    margin: 3px 0;
+    border-radius: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Calendar navigation */
+.calendar-navigation {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.calendar-navigation a {
+    margin: 0 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.calendar-navigation a:hover {
+    background-color: #0056b3;
+}
+
+.calendar-navigation span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Booking list container */
+.bookings-list {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+/* Booking list items */
+.bookings-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.bookings-list li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.bookings-list li strong {
+    display: block;
+    font-size: 14px;
+    color: #333;
+}
+
+.bookings-list li:hover {
+    background-color: #f4f4f4;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .calendar-container {
+        max-width: 100%;
+    }
+
+    .date-cell {
+        height: 80px;
+        font-size: 10px;
+    }
+
+    .calendar-navigation a {
+        padding: 5px 8px;
+        font-size: 12px;
+    }
+
+    .bookings-list li {
+        padding: 8px;
+    }
+}
