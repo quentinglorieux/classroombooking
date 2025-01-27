@@ -75,3 +75,4 @@ $lang['calendar_month_december'] = 'Décembre';
 
 $lang['calendar_suffix_1'] = 'er'; // e.g., 1er
 $lang['calendar_suffix_default'] = ''; // No suffix for other days in French
+

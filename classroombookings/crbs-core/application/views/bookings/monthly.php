@@ -17,31 +17,39 @@
 
 
 
-<!-- Optional: Show bookings or events for the month -->
+<!-- Room Selector -->
+<div class="room-selector">
+    <?= form_open('bookings/monthly', ['method' => 'get'], ['year' => $year, 'month' => $month]) ?>
+    <label for="room_id">Select Room:</label>
+    <?= form_dropdown('room', $rooms, $room_id, ['id' => 'room_id', 'onchange' => 'this.form.submit()']) ?>
+    <?= form_close() ?>
+</div>
+
+
+<!-- Bookings List -->
 <div class="bookings-list">
     <h2>Bookings for <?= date('F Y', strtotime("$year-$month-01")) ?></h2>
-    <ul>
-        <?php if (!empty($bookings)): ?>
-            <?php foreach ($bookings as $date => $daily_bookings): ?>
-                <li>
-                    <strong><?= date('l, F j, Y', strtotime($date)) ?></strong>
-                    <ul>
-                        <?php foreach ($daily_bookings as $booking): ?>
-                            <li>
-                                User: <?= !empty($booking->user_name) ? html_escape($booking->user_name) : 'N/A' ?><br>
-                                Room: <?= !empty($booking->room_name) ? html_escape($booking->room_name) : 'N/A' ?><br>
-                                Time: <?= !empty($booking->period_time_start) && !empty($booking->period_time_end)
-                                    ? html_escape($booking->period_time_start) . ' - ' . html_escape($booking->period_time_end)
-                                    : 'N/A' ?>
-                            </li>
-                        <?php endforeach; ?>
-                    </ul>
-                </li>
-            <?php endforeach; ?>
-        <?php else: ?>
-            <li>No bookings available for this month.</li>
-        <?php endif; ?>
-    </ul>
+    <?php if (!empty($grouped_bookings)): ?>
+        <?php foreach ($grouped_bookings as $date => $daily_bookings): ?>
+            <div class="daily-bookings">
+                <h3><?= date('l, F j, Y', strtotime($date)) ?></h3>
+                <ul>
+                    <?php foreach ($daily_bookings as $booking): ?>
+                        <li>
+                            <span><?= !empty($booking->period_time_start) && !empty($booking->period_time_end)
+                                ? html_escape($booking->period_time_start) . ' - ' . html_escape($booking->period_time_end)
+                                : 'N/A' ?></span>
+                            <span><strong><?= !empty($booking->user_name) ? html_escape($booking->user_name) : 'No User' ?></strong></span>
+                            <span><?= !empty($booking->room_name) ? html_escape($booking->room_name) : 'N/A' ?></span>
+
+                        </li>
+                    <?php endforeach; ?>
+                </ul>
+            </div>
+        <?php endforeach; ?>
+    <?php else: ?>
+        <p>No bookings available for this month.</p>
+    <?php endif; ?>
 </div>
 
 <!-- <div class="calendar-container">

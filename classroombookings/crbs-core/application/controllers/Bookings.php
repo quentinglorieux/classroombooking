@@ -456,9 +456,13 @@ class Bookings extends MY_Controller
 	
 		$year = $this->input->get('year') ?? date('Y');
 		$month = $this->input->get('month') ?? date('m');
+		$room_id = $this->input->get('room') ?? null;
 	
-		// Fetch bookings for the selected month
-		$bookings = $this->bookings_model->bookings_for_month($year, $month);
+		// Fetch all available rooms for the selector
+		$rooms = $this->bookings_model->get_all_rooms();
+	
+		// Fetch bookings for the selected month and room
+		$bookings = $this->bookings_model->bookings_for_month($year, $month, $room_id);
 	
 		// Group bookings by date
 		$grouped_bookings = [];
@@ -484,7 +488,9 @@ class Bookings extends MY_Controller
 		$this->data['calendar_html'] = $calendar_html;
 		$this->data['year'] = $year;
 		$this->data['month'] = $month;
-		$this->data['bookings'] = $grouped_bookings;
+		$this->data['room_id'] = $room_id;
+		$this->data['rooms'] = $rooms;
+		$this->data['grouped_bookings'] = $grouped_bookings;
 	
 		$this->data['body'] = $this->load->view('bookings/monthly', $this->data, TRUE);
 		return $this->render();

@@ -147,6 +147,74 @@
     background-color: #f4f4f4;
 }
 
+.room-selector {
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+.room-selector label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.room-selector select {
+    padding: 5px 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.daily-bookings {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.daily-bookings h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.daily-bookings ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.daily-bookings li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-wrap: wrap; /* Wrap if items exceed width */
+    gap: 20px; /* Spacing between items */
+}
+
+.daily-bookings li span {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 14px;
+    color: #333;
+}
+
+.daily-bookings li strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.calendar-container {
+    margin-top: 20px;
+}
+
+
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .calendar-container {
