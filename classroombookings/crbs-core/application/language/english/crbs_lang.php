@@ -33,5 +33,19 @@ $lang['global_account'] = 'Account';
 $lang['global_logout'] = 'Log out';
 
 $lang['logged_in_as'] = 'Logged in as %s';
+$lang['user_details'] = 'User details';
+$lang['user_details_change_info'] = 'Make changes to your user details, such as your display name and email address here.';
+
+$lang['edit_my_details'] = 'Edit my details';
+$lang['password'] = 'Password';
+$lang['password_again'] = 'Password (again)';
+
+$lang['first_name'] = 'First Name';
+$lang['last_name'] = 'Last Name';
+$lang['display_name'] = 'Display Name';
+$lang['extension'] = 'Extension';
+
+$lang['password_change'] = 'Change password';
+$lang['password_change_info'] = 'To change your password, please enter your new password <i>twice</i> in the <span>password</span> fields.';
 
 ?>

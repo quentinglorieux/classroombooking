@@ -9,10 +9,10 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 <fieldset>
 
-	<legend accesskey="U" tabindex="<?php tab_index() ?>">User Information</legend>
+	<legend accesskey="U" tabindex="<?php tab_index() ?>"><?= lang('user_details') ?></legend>
 
 	<p>
-	  <label for="email" class="required">Email address</label>
+	  <label for="email" class="required">Email</label>
 	  <?php
 		$email = set_value('email', $user->email, FALSE);
 		echo form_input(array(
@@ -29,7 +29,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="password1">Password</label>
+	  <label for="password1"><?= lang('password') ?></label>
 	  <?php
 		echo form_password(array(
 			'name' => 'password1',
@@ -44,7 +44,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="password2">Password (again)</label>
+	  <label for="password2"><?= lang('password_again') ?></label>
 	  <?php
 		echo form_password(array(
 			'name' => 'password2',
@@ -65,7 +65,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="firstname">First name</label>
+	  <label for="firstname"><?= lang('first_name') ?></label>
 	  <?php
 		$firstname = set_value('firstname', $user->firstname, FALSE);
 		echo form_input(array(
@@ -82,7 +82,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="lastname">Last name</label>
+	  <label for="lastname"><?= lang('last_name') ?></label>
 	  <?php
 		$lastname = set_value('lastname', $user->lastname, FALSE);
 		echo form_input(array(
@@ -99,7 +99,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="displayname">Display name</label>
+	  <label for="displayname"><?= lang('display_name') ?></label>
 	  <?php
 		$displayname = set_value('displayname', $user->displayname, FALSE);
 		echo form_input(array(
@@ -116,7 +116,7 @@ echo form_open('profile/save', array('class' => 'cssform', 'id' => 'profile_edit
 
 
 	<p>
-	  <label for="ext">Extension</label>
+	  <label for="ext"><?= lang('extension') ?></label>
 	  <?php
 		$ext = set_value('ext', $user->ext, FALSE);
 		echo form_input(array(

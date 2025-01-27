@@ -29,7 +29,8 @@
 <div class="bookings-list">
     <h2><?= lang('calendar_bookings_for') ?> <?php if (!empty($room_id) && isset($rooms[$room_id])): ?>
      <?= html_escape($rooms[$room_id]) ?>
-    <?php endif; ?> - <?= date('F Y', strtotime("$year-$month-01")) ?>
+    <?php endif; ?> - 
+     <?= date('F Y', strtotime("$year-$month-01")) ?>
     
     </h2>
     <?php if (!empty($grouped_bookings)): ?>

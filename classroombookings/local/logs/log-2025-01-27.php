@@ -25287,3 +25287,9117 @@ DEBUG - 2025-01-27 17:15:43 --> File loaded: /var/www/html/classroombookings/crb
 DEBUG - 2025-01-27 17:15:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
 INFO - 2025-01-27 17:15:43 --> Final output sent to browser
 DEBUG - 2025-01-27 17:15:43 --> Total execution time: 0.0750
+INFO - 2025-01-27 19:11:29 --> Config Class Initialized
+INFO - 2025-01-27 19:11:29 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:11:29 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:11:29 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:11:29 --> URI Class Initialized
+DEBUG - 2025-01-27 19:11:29 --> No URI present. Default controller set.
+INFO - 2025-01-27 19:11:29 --> Router Class Initialized
+INFO - 2025-01-27 19:11:29 --> Output Class Initialized
+INFO - 2025-01-27 19:11:29 --> Security Class Initialized
+DEBUG - 2025-01-27 19:11:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:11:29 --> Input Class Initialized
+INFO - 2025-01-27 19:11:29 --> Language Class Initialized
+INFO - 2025-01-27 19:11:29 --> Config Class Initialized
+INFO - 2025-01-27 19:11:29 --> Loader Class Initialized
+INFO - 2025-01-27 19:11:29 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:11:29 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:11:29 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:11:29 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:11:29 --> Controller Class Initialized
+INFO - 2025-01-27 19:11:29 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:11:29 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:11:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:11:29 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:11:29 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:11:29 --> Migrations Class Initialized
+INFO - 2025-01-27 19:11:29 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:11:29 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:11 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:11 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:11 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:11 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:19:12 --> Config Class Initialized
+INFO - 2025-01-27 19:19:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:12 --> URI Class Initialized
+INFO - 2025-01-27 19:19:12 --> Router Class Initialized
+INFO - 2025-01-27 19:19:12 --> Output Class Initialized
+INFO - 2025-01-27 19:19:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:12 --> Input Class Initialized
+INFO - 2025-01-27 19:19:12 --> Language Class Initialized
+INFO - 2025-01-27 19:19:12 --> Config Class Initialized
+INFO - 2025-01-27 19:19:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:12 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:12 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:12 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:12 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:12 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:12 --> Language file loaded: language/english/calendar_lang.php
+DEBUG - 2025-01-27 19:19:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:19:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/login/login_index.php
+DEBUG - 2025-01-27 19:19:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:19:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:12 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:12 --> Total execution time: 0.0427
+INFO - 2025-01-27 19:19:15 --> Config Class Initialized
+INFO - 2025-01-27 19:19:15 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:15 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:15 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:15 --> URI Class Initialized
+INFO - 2025-01-27 19:19:15 --> Router Class Initialized
+INFO - 2025-01-27 19:19:15 --> Output Class Initialized
+INFO - 2025-01-27 19:19:15 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:15 --> Input Class Initialized
+INFO - 2025-01-27 19:19:15 --> Language Class Initialized
+INFO - 2025-01-27 19:19:15 --> Config Class Initialized
+INFO - 2025-01-27 19:19:15 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:15 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:15 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:15 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:15 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:15 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:15 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:15 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:15 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:15 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:15 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:15 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:15 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:15 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:15 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:15 --> Language file loaded: language/english/calendar_lang.php
+DEBUG - 2025-01-27 19:19:15 --> login submit
+INFO - 2025-01-27 19:19:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-01-27 19:19:15 --> Userauth: Unsuccessful login for admin. Reasons: ["user_not_found"]
+DEBUG - 2025-01-27 19:19:15 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:19:15 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/login/login_index.php
+DEBUG - 2025-01-27 19:19:15 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:19:15 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:15 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:15 --> Total execution time: 0.0563
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:18 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:18 --> URI Class Initialized
+INFO - 2025-01-27 19:19:18 --> Router Class Initialized
+INFO - 2025-01-27 19:19:18 --> Output Class Initialized
+INFO - 2025-01-27 19:19:18 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:18 --> Input Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language Class Initialized
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:18 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:18 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:18 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:18 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:18 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:18 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:18 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:18 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:18 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/calendar_lang.php
+DEBUG - 2025-01-27 19:19:18 --> login submit
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:18 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:18 --> URI Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> No URI present. Default controller set.
+INFO - 2025-01-27 19:19:18 --> Router Class Initialized
+INFO - 2025-01-27 19:19:18 --> Output Class Initialized
+INFO - 2025-01-27 19:19:18 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:18 --> Input Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language Class Initialized
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:18 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:18 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:18 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:18 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:18 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:18 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:18 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:18 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:18 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:18 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:18 --> URI Class Initialized
+INFO - 2025-01-27 19:19:18 --> Router Class Initialized
+INFO - 2025-01-27 19:19:18 --> Output Class Initialized
+INFO - 2025-01-27 19:19:18 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:18 --> Input Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language Class Initialized
+INFO - 2025-01-27 19:19:18 --> Config Class Initialized
+INFO - 2025-01-27 19:19:18 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:18 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:18 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:18 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:18 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:18 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:18 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:18 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:18 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:18 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:18 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:18 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:18 --> Language file loaded: language/english/calendar_lang.php
+DEBUG - 2025-01-27 19:19:18 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 19:19:18 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:18 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:18 --> Total execution time: 0.0309
+INFO - 2025-01-27 19:19:24 --> Config Class Initialized
+INFO - 2025-01-27 19:19:24 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:24 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:24 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:24 --> URI Class Initialized
+INFO - 2025-01-27 19:19:24 --> Router Class Initialized
+INFO - 2025-01-27 19:19:24 --> Output Class Initialized
+INFO - 2025-01-27 19:19:24 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:24 --> Input Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language Class Initialized
+INFO - 2025-01-27 19:19:24 --> Config Class Initialized
+INFO - 2025-01-27 19:19:24 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:24 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:24 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:24 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:24 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:24 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:24 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:24 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:24 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:24 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:19:24 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:19:24 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:19:24 --> Config Class Initialized
+INFO - 2025-01-27 19:19:24 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:24 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:24 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:24 --> URI Class Initialized
+INFO - 2025-01-27 19:19:24 --> Router Class Initialized
+INFO - 2025-01-27 19:19:24 --> Output Class Initialized
+INFO - 2025-01-27 19:19:24 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:24 --> Input Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language Class Initialized
+INFO - 2025-01-27 19:19:24 --> Config Class Initialized
+INFO - 2025-01-27 19:19:24 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:24 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:24 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:24 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:24 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:24 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:24 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:24 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:24 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:24 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:19:24 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:19:24 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:24 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:24 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 19:19:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 19:19:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:24 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:24 --> Total execution time: 0.0360
+INFO - 2025-01-27 19:19:28 --> Config Class Initialized
+INFO - 2025-01-27 19:19:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:28 --> URI Class Initialized
+INFO - 2025-01-27 19:19:28 --> Router Class Initialized
+INFO - 2025-01-27 19:19:28 --> Output Class Initialized
+INFO - 2025-01-27 19:19:28 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:28 --> Input Class Initialized
+INFO - 2025-01-27 19:19:28 --> Language Class Initialized
+INFO - 2025-01-27 19:19:28 --> Config Class Initialized
+INFO - 2025-01-27 19:19:28 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:28 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:28 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:19:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:19:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:28 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 19:19:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:19:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/school/index.php
+DEBUG - 2025-01-27 19:19:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:29 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:29 --> Total execution time: 0.0512
+INFO - 2025-01-27 19:19:31 --> Config Class Initialized
+INFO - 2025-01-27 19:19:31 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:31 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:31 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:31 --> URI Class Initialized
+INFO - 2025-01-27 19:19:31 --> Router Class Initialized
+INFO - 2025-01-27 19:19:31 --> Output Class Initialized
+INFO - 2025-01-27 19:19:31 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:31 --> Input Class Initialized
+INFO - 2025-01-27 19:19:31 --> Language Class Initialized
+INFO - 2025-01-27 19:19:31 --> Config Class Initialized
+INFO - 2025-01-27 19:19:31 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:31 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:31 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:31 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:31 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:31 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:31 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:31 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:31 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:31 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:31 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:19:31 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:31 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:19:31 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:31 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:31 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 19:19:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 19:19:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:31 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:31 --> Total execution time: 0.0727
+INFO - 2025-01-27 19:19:33 --> Config Class Initialized
+INFO - 2025-01-27 19:19:33 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:33 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:33 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:33 --> URI Class Initialized
+INFO - 2025-01-27 19:19:33 --> Router Class Initialized
+INFO - 2025-01-27 19:19:33 --> Output Class Initialized
+INFO - 2025-01-27 19:19:33 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:33 --> Input Class Initialized
+INFO - 2025-01-27 19:19:33 --> Language Class Initialized
+INFO - 2025-01-27 19:19:33 --> Config Class Initialized
+INFO - 2025-01-27 19:19:33 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:33 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:33 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:33 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:33 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:33 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:33 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:33 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:33 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:33 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:19:33 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:33 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:19:33 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:33 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:19:33 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:19:33 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:19:33 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:19:33 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:19:33 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:19:33 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:19:33 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:19:33 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:19:33 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:19:33 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:19:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:33 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:33 --> Total execution time: 0.0958
+INFO - 2025-01-27 19:19:37 --> Config Class Initialized
+INFO - 2025-01-27 19:19:37 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:19:37 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:19:37 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:19:37 --> URI Class Initialized
+INFO - 2025-01-27 19:19:37 --> Router Class Initialized
+INFO - 2025-01-27 19:19:37 --> Output Class Initialized
+INFO - 2025-01-27 19:19:37 --> Security Class Initialized
+DEBUG - 2025-01-27 19:19:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:19:37 --> Input Class Initialized
+INFO - 2025-01-27 19:19:37 --> Language Class Initialized
+INFO - 2025-01-27 19:19:37 --> Config Class Initialized
+INFO - 2025-01-27 19:19:37 --> Loader Class Initialized
+INFO - 2025-01-27 19:19:37 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:19:37 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:19:37 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:19:37 --> Controller Class Initialized
+INFO - 2025-01-27 19:19:37 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:19:37 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:19:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:19:37 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:19:37 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:19:37 --> Migrations Class Initialized
+INFO - 2025-01-27 19:19:37 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:19:37 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:19:37 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:19:37 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:19:37 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:19:37 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:19:37 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:19:37 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:19:37 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:19:37 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:19:37 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:19:37 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:19:37 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:19:37 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:19:37 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:19:37 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:19:37 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:19:37 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:19:37 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:19:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:19:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:19:37 --> Final output sent to browser
+DEBUG - 2025-01-27 19:19:37 --> Total execution time: 0.0637
+INFO - 2025-01-27 19:26:09 --> Config Class Initialized
+INFO - 2025-01-27 19:26:09 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:09 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:09 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:09 --> URI Class Initialized
+INFO - 2025-01-27 19:26:09 --> Router Class Initialized
+INFO - 2025-01-27 19:26:09 --> Output Class Initialized
+INFO - 2025-01-27 19:26:09 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:09 --> Input Class Initialized
+INFO - 2025-01-27 19:26:09 --> Language Class Initialized
+INFO - 2025-01-27 19:26:09 --> Config Class Initialized
+INFO - 2025-01-27 19:26:09 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:09 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:09 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:09 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:09 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:09 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:09 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:09 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:09 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:09 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:09 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:09 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:09 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:09 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:09 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:09 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:09 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:09 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:09 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:09 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:09 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:09 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:09 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:09 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:09 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:09 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:09 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:09 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:09 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:09 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:09 --> Total execution time: 0.0806
+INFO - 2025-01-27 19:26:27 --> Config Class Initialized
+INFO - 2025-01-27 19:26:27 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:27 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:27 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:27 --> URI Class Initialized
+INFO - 2025-01-27 19:26:27 --> Router Class Initialized
+INFO - 2025-01-27 19:26:27 --> Output Class Initialized
+INFO - 2025-01-27 19:26:27 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:27 --> Input Class Initialized
+INFO - 2025-01-27 19:26:27 --> Language Class Initialized
+INFO - 2025-01-27 19:26:27 --> Config Class Initialized
+INFO - 2025-01-27 19:26:27 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:27 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:27 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:27 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:27 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:27 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:27 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:27 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:27 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:27 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:27 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:27 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:27 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:27 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:27 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:27 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:27 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:27 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:27 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:27 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:27 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:27 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:27 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:27 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:27 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:27 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:27 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:27 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:27 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:27 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:27 --> Total execution time: 0.0787
+INFO - 2025-01-27 19:26:28 --> Config Class Initialized
+INFO - 2025-01-27 19:26:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:28 --> URI Class Initialized
+INFO - 2025-01-27 19:26:28 --> Router Class Initialized
+INFO - 2025-01-27 19:26:28 --> Output Class Initialized
+INFO - 2025-01-27 19:26:28 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:28 --> Input Class Initialized
+INFO - 2025-01-27 19:26:28 --> Language Class Initialized
+INFO - 2025-01-27 19:26:28 --> Config Class Initialized
+INFO - 2025-01-27 19:26:28 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:28 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:28 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:28 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:28 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:28 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:28 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:28 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:28 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:28 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:28 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:28 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:28 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:28 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:28 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:28 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:28 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:28 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:28 --> Total execution time: 0.0644
+INFO - 2025-01-27 19:26:32 --> Config Class Initialized
+INFO - 2025-01-27 19:26:32 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:32 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:32 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:32 --> URI Class Initialized
+INFO - 2025-01-27 19:26:32 --> Router Class Initialized
+INFO - 2025-01-27 19:26:32 --> Output Class Initialized
+INFO - 2025-01-27 19:26:32 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:32 --> Input Class Initialized
+INFO - 2025-01-27 19:26:32 --> Language Class Initialized
+INFO - 2025-01-27 19:26:32 --> Config Class Initialized
+INFO - 2025-01-27 19:26:32 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:32 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:32 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:32 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:32 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:32 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:32 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:32 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:32 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:32 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:32 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:32 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:32 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:32 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:32 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:32 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:32 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:32 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:32 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:32 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:32 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:32 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:32 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:32 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:32 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:32 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:32 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:32 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:32 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:32 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:32 --> Total execution time: 0.0708
+INFO - 2025-01-27 19:26:34 --> Config Class Initialized
+INFO - 2025-01-27 19:26:34 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:34 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:34 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:34 --> URI Class Initialized
+INFO - 2025-01-27 19:26:34 --> Router Class Initialized
+INFO - 2025-01-27 19:26:34 --> Output Class Initialized
+INFO - 2025-01-27 19:26:34 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:34 --> Input Class Initialized
+INFO - 2025-01-27 19:26:34 --> Language Class Initialized
+INFO - 2025-01-27 19:26:34 --> Config Class Initialized
+INFO - 2025-01-27 19:26:34 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:34 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:34 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:34 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:34 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:34 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:34 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:34 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:34 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:34 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:34 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:34 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:34 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:34 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:34 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:34 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:34 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:34 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:34 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:34 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:34 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:34 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:26:34 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:26:34 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:26:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:34 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:34 --> Total execution time: 0.0993
+INFO - 2025-01-27 19:26:36 --> Config Class Initialized
+INFO - 2025-01-27 19:26:36 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:36 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:36 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:36 --> URI Class Initialized
+INFO - 2025-01-27 19:26:36 --> Router Class Initialized
+INFO - 2025-01-27 19:26:36 --> Output Class Initialized
+INFO - 2025-01-27 19:26:36 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:36 --> Input Class Initialized
+INFO - 2025-01-27 19:26:36 --> Language Class Initialized
+INFO - 2025-01-27 19:26:36 --> Config Class Initialized
+INFO - 2025-01-27 19:26:36 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:36 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:36 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:36 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:36 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:36 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:36 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:36 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:36 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:36 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:36 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:36 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:36 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:36 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:36 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:36 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:36 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:36 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:36 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:36 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:36 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:36 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:36 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:36 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:36 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:36 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:36 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:36 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:36 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:37 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:37 --> Total execution time: 0.0638
+INFO - 2025-01-27 19:26:58 --> Config Class Initialized
+INFO - 2025-01-27 19:26:58 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:26:58 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:26:58 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:26:58 --> URI Class Initialized
+INFO - 2025-01-27 19:26:58 --> Router Class Initialized
+INFO - 2025-01-27 19:26:58 --> Output Class Initialized
+INFO - 2025-01-27 19:26:58 --> Security Class Initialized
+DEBUG - 2025-01-27 19:26:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:26:58 --> Input Class Initialized
+INFO - 2025-01-27 19:26:58 --> Language Class Initialized
+INFO - 2025-01-27 19:26:58 --> Config Class Initialized
+INFO - 2025-01-27 19:26:58 --> Loader Class Initialized
+INFO - 2025-01-27 19:26:58 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:26:58 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:26:58 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:26:58 --> Controller Class Initialized
+INFO - 2025-01-27 19:26:58 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:26:58 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:26:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:26:58 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:26:58 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:26:58 --> Migrations Class Initialized
+INFO - 2025-01-27 19:26:58 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:26:58 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:26:58 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:26:58 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:26:58 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:26:58 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:26:58 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:26:58 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:26:58 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:26:58 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:26:58 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:26:58 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:26:58 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:26:58 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:26:58 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:26:58 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:26:58 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:26:58 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:26:58 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:26:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:26:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:26:58 --> Final output sent to browser
+DEBUG - 2025-01-27 19:26:58 --> Total execution time: 0.0586
+INFO - 2025-01-27 19:27:00 --> Config Class Initialized
+INFO - 2025-01-27 19:27:00 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:00 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:00 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:00 --> URI Class Initialized
+INFO - 2025-01-27 19:27:00 --> Router Class Initialized
+INFO - 2025-01-27 19:27:00 --> Output Class Initialized
+INFO - 2025-01-27 19:27:00 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:00 --> Input Class Initialized
+INFO - 2025-01-27 19:27:00 --> Language Class Initialized
+INFO - 2025-01-27 19:27:00 --> Config Class Initialized
+INFO - 2025-01-27 19:27:00 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:00 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:00 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:00 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:00 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:00 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:00 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:00 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:00 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:00 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:00 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:00 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:00 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:00 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:00 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:00 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:00 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:00 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:00 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:00 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:00 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:00 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:00 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:00 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:00 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:00 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:00 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:00 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:00 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:00 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:00 --> Total execution time: 0.0724
+INFO - 2025-01-27 19:27:02 --> Config Class Initialized
+INFO - 2025-01-27 19:27:02 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:02 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:02 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:02 --> URI Class Initialized
+INFO - 2025-01-27 19:27:02 --> Router Class Initialized
+INFO - 2025-01-27 19:27:02 --> Output Class Initialized
+INFO - 2025-01-27 19:27:02 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:02 --> Input Class Initialized
+INFO - 2025-01-27 19:27:02 --> Language Class Initialized
+INFO - 2025-01-27 19:27:02 --> Config Class Initialized
+INFO - 2025-01-27 19:27:02 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:02 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:02 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:02 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:02 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:02 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:02 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:02 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:02 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:02 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:02 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:02 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:02 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:02 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:02 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:02 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:02 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:02 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:02 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:02 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:02 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:02 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:02 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:02 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:02 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:02 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:02 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:02 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:02 --> Total execution time: 0.0717
+INFO - 2025-01-27 19:27:07 --> Config Class Initialized
+INFO - 2025-01-27 19:27:07 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:07 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:07 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:07 --> URI Class Initialized
+INFO - 2025-01-27 19:27:07 --> Router Class Initialized
+INFO - 2025-01-27 19:27:07 --> Output Class Initialized
+INFO - 2025-01-27 19:27:07 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:07 --> Input Class Initialized
+INFO - 2025-01-27 19:27:07 --> Language Class Initialized
+INFO - 2025-01-27 19:27:07 --> Config Class Initialized
+INFO - 2025-01-27 19:27:07 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:07 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:07 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:07 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:07 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:07 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:07 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:07 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:07 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:07 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:07 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:07 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:07 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:07 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:07 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:07 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:07 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:07 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:07 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:07 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:07 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:07 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:07 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:07 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:07 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:07 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:07 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:07 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:07 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:07 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:07 --> Total execution time: 0.0571
+INFO - 2025-01-27 19:27:38 --> Config Class Initialized
+INFO - 2025-01-27 19:27:38 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:38 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:38 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:38 --> URI Class Initialized
+INFO - 2025-01-27 19:27:38 --> Router Class Initialized
+INFO - 2025-01-27 19:27:38 --> Output Class Initialized
+INFO - 2025-01-27 19:27:38 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:38 --> Input Class Initialized
+INFO - 2025-01-27 19:27:38 --> Language Class Initialized
+INFO - 2025-01-27 19:27:38 --> Config Class Initialized
+INFO - 2025-01-27 19:27:38 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:38 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:38 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:39 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:39 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:39 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:39 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:39 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:39 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:39 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:39 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:39 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:39 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:39 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:39 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:39 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:39 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:39 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:39 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:39 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:39 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:39 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:39 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:39 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:39 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:39 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:39 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:39 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:39 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:39 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:39 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:39 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:39 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:39 --> Total execution time: 0.0728
+INFO - 2025-01-27 19:27:40 --> Config Class Initialized
+INFO - 2025-01-27 19:27:40 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:40 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:40 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:40 --> URI Class Initialized
+INFO - 2025-01-27 19:27:40 --> Router Class Initialized
+INFO - 2025-01-27 19:27:40 --> Output Class Initialized
+INFO - 2025-01-27 19:27:40 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:40 --> Input Class Initialized
+INFO - 2025-01-27 19:27:40 --> Language Class Initialized
+INFO - 2025-01-27 19:27:40 --> Config Class Initialized
+INFO - 2025-01-27 19:27:40 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:40 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:40 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:40 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:40 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:40 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:40 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:40 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:40 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:40 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:40 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:40 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:40 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:40 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:40 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:40 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:40 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:40 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:40 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:40 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:40 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:40 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:40 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:40 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:40 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:40 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:40 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:40 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:40 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:40 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:40 --> Total execution time: 0.0741
+INFO - 2025-01-27 19:27:42 --> Config Class Initialized
+INFO - 2025-01-27 19:27:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:42 --> URI Class Initialized
+INFO - 2025-01-27 19:27:42 --> Router Class Initialized
+INFO - 2025-01-27 19:27:42 --> Output Class Initialized
+INFO - 2025-01-27 19:27:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:42 --> Input Class Initialized
+INFO - 2025-01-27 19:27:42 --> Language Class Initialized
+INFO - 2025-01-27 19:27:42 --> Config Class Initialized
+INFO - 2025-01-27 19:27:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:42 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:42 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:42 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:42 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:42 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:42 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:42 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:42 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:27:42 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:27:42 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:27:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:42 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:42 --> Total execution time: 0.0925
+INFO - 2025-01-27 19:27:43 --> Config Class Initialized
+INFO - 2025-01-27 19:27:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:43 --> URI Class Initialized
+INFO - 2025-01-27 19:27:43 --> Router Class Initialized
+INFO - 2025-01-27 19:27:43 --> Output Class Initialized
+INFO - 2025-01-27 19:27:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:43 --> Input Class Initialized
+INFO - 2025-01-27 19:27:43 --> Language Class Initialized
+INFO - 2025-01-27 19:27:43 --> Config Class Initialized
+INFO - 2025-01-27 19:27:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:43 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:43 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:43 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:43 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:43 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:43 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:43 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:43 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:43 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:43 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:43 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:43 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:43 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:43 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:43 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:43 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:43 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:43 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:43 --> Total execution time: 0.0773
+INFO - 2025-01-27 19:27:47 --> Config Class Initialized
+INFO - 2025-01-27 19:27:47 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:47 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:47 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:47 --> URI Class Initialized
+INFO - 2025-01-27 19:27:47 --> Router Class Initialized
+INFO - 2025-01-27 19:27:47 --> Output Class Initialized
+INFO - 2025-01-27 19:27:47 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:47 --> Input Class Initialized
+INFO - 2025-01-27 19:27:47 --> Language Class Initialized
+INFO - 2025-01-27 19:27:47 --> Config Class Initialized
+INFO - 2025-01-27 19:27:47 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:47 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:47 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:47 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:47 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:47 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:47 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:47 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:47 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:47 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:47 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:47 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:47 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:47 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:47 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:47 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:47 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:47 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:47 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:47 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:47 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:47 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:47 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:47 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:47 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:47 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:47 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:47 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:47 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:47 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:47 --> Total execution time: 0.0694
+INFO - 2025-01-27 19:27:49 --> Config Class Initialized
+INFO - 2025-01-27 19:27:49 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:27:49 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:27:49 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:27:49 --> URI Class Initialized
+INFO - 2025-01-27 19:27:49 --> Router Class Initialized
+INFO - 2025-01-27 19:27:49 --> Output Class Initialized
+INFO - 2025-01-27 19:27:49 --> Security Class Initialized
+DEBUG - 2025-01-27 19:27:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:27:49 --> Input Class Initialized
+INFO - 2025-01-27 19:27:49 --> Language Class Initialized
+INFO - 2025-01-27 19:27:49 --> Config Class Initialized
+INFO - 2025-01-27 19:27:49 --> Loader Class Initialized
+INFO - 2025-01-27 19:27:49 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:27:49 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:27:49 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:27:49 --> Controller Class Initialized
+INFO - 2025-01-27 19:27:49 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:27:49 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:27:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:27:49 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:27:49 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:27:49 --> Migrations Class Initialized
+INFO - 2025-01-27 19:27:49 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:27:49 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:27:49 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:27:49 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:27:49 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:27:49 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:27:49 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:27:49 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:27:49 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:27:49 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:27:49 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:27:49 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:27:49 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:27:49 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:27:49 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:27:49 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:27:49 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:27:49 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:27:49 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:27:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:27:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:27:49 --> Final output sent to browser
+DEBUG - 2025-01-27 19:27:49 --> Total execution time: 0.0715
+INFO - 2025-01-27 19:28:16 --> Config Class Initialized
+INFO - 2025-01-27 19:28:16 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:16 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:16 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:16 --> URI Class Initialized
+INFO - 2025-01-27 19:28:16 --> Router Class Initialized
+INFO - 2025-01-27 19:28:16 --> Output Class Initialized
+INFO - 2025-01-27 19:28:16 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:16 --> Input Class Initialized
+INFO - 2025-01-27 19:28:16 --> Language Class Initialized
+INFO - 2025-01-27 19:28:16 --> Config Class Initialized
+INFO - 2025-01-27 19:28:16 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:16 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:16 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:16 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:16 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:16 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:16 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:16 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:16 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:16 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:16 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:16 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:16 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:16 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:16 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:16 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:16 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:16 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:16 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:16 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:16 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:16 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:16 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:16 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:16 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:16 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:16 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:16 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:16 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:16 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:16 --> Total execution time: 0.0798
+INFO - 2025-01-27 19:28:18 --> Config Class Initialized
+INFO - 2025-01-27 19:28:18 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:18 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:18 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:18 --> URI Class Initialized
+INFO - 2025-01-27 19:28:18 --> Router Class Initialized
+INFO - 2025-01-27 19:28:18 --> Output Class Initialized
+INFO - 2025-01-27 19:28:18 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:18 --> Input Class Initialized
+INFO - 2025-01-27 19:28:18 --> Language Class Initialized
+INFO - 2025-01-27 19:28:18 --> Config Class Initialized
+INFO - 2025-01-27 19:28:18 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:18 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:18 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:18 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:18 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:18 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:18 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:18 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:18 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:18 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:18 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:18 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:18 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:18 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:18 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:18 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:18 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:18 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:18 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:18 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:18 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:18 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:18 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:18 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:18 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:18 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:18 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:18 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:18 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:18 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:18 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:18 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:18 --> Total execution time: 0.0756
+INFO - 2025-01-27 19:28:26 --> Config Class Initialized
+INFO - 2025-01-27 19:28:26 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:26 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:26 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:26 --> URI Class Initialized
+INFO - 2025-01-27 19:28:26 --> Router Class Initialized
+INFO - 2025-01-27 19:28:26 --> Output Class Initialized
+INFO - 2025-01-27 19:28:26 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:26 --> Input Class Initialized
+INFO - 2025-01-27 19:28:26 --> Language Class Initialized
+INFO - 2025-01-27 19:28:26 --> Config Class Initialized
+INFO - 2025-01-27 19:28:26 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:26 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:26 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:26 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:26 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:26 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:26 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:26 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:26 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:26 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:26 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:26 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:26 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:26 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:26 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:26 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:26 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:26 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:26 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:26 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:26 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:26 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:26 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:26 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:26 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:26 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:26 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:26 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:26 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:26 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:26 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:26 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:26 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:26 --> Total execution time: 0.0523
+INFO - 2025-01-27 19:28:27 --> Config Class Initialized
+INFO - 2025-01-27 19:28:27 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:27 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:27 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:27 --> URI Class Initialized
+INFO - 2025-01-27 19:28:27 --> Router Class Initialized
+INFO - 2025-01-27 19:28:27 --> Output Class Initialized
+INFO - 2025-01-27 19:28:27 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:27 --> Input Class Initialized
+INFO - 2025-01-27 19:28:27 --> Language Class Initialized
+INFO - 2025-01-27 19:28:27 --> Config Class Initialized
+INFO - 2025-01-27 19:28:27 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:27 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:27 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:27 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:27 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:27 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:27 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:27 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:27 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:27 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:27 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:27 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:27 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:27 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:27 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:27 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:27 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:27 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:27 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:27 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:27 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:27 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:27 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:27 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:27 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:27 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:27 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:27 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:27 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:27 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:27 --> Total execution time: 0.0725
+INFO - 2025-01-27 19:28:30 --> Config Class Initialized
+INFO - 2025-01-27 19:28:30 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:30 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:30 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:30 --> URI Class Initialized
+INFO - 2025-01-27 19:28:30 --> Router Class Initialized
+INFO - 2025-01-27 19:28:30 --> Output Class Initialized
+INFO - 2025-01-27 19:28:30 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:30 --> Input Class Initialized
+INFO - 2025-01-27 19:28:30 --> Language Class Initialized
+INFO - 2025-01-27 19:28:30 --> Config Class Initialized
+INFO - 2025-01-27 19:28:30 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:30 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:30 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:30 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:30 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:30 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:30 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:30 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:30 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:30 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:30 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:30 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:30 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:30 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:30 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:30 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:30 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:30 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:30 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:30 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:30 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:30 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:30 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:30 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:30 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:30 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:30 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:30 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:30 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:30 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:30 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:30 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:30 --> Total execution time: 0.0768
+INFO - 2025-01-27 19:28:32 --> Config Class Initialized
+INFO - 2025-01-27 19:28:32 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:32 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:32 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:32 --> URI Class Initialized
+INFO - 2025-01-27 19:28:32 --> Router Class Initialized
+INFO - 2025-01-27 19:28:32 --> Output Class Initialized
+INFO - 2025-01-27 19:28:32 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:32 --> Input Class Initialized
+INFO - 2025-01-27 19:28:32 --> Language Class Initialized
+INFO - 2025-01-27 19:28:32 --> Config Class Initialized
+INFO - 2025-01-27 19:28:32 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:32 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:32 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:32 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:32 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:32 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:32 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:32 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:32 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:32 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:32 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:32 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:32 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:32 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:32 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:32 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:32 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:32 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:32 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:32 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:32 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:32 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:32 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:32 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:32 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:32 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:32 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:32 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:32 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:32 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:32 --> Total execution time: 0.0703
+INFO - 2025-01-27 19:28:33 --> Config Class Initialized
+INFO - 2025-01-27 19:28:33 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:28:33 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:28:33 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:28:33 --> URI Class Initialized
+INFO - 2025-01-27 19:28:33 --> Router Class Initialized
+INFO - 2025-01-27 19:28:33 --> Output Class Initialized
+INFO - 2025-01-27 19:28:33 --> Security Class Initialized
+DEBUG - 2025-01-27 19:28:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:28:33 --> Input Class Initialized
+INFO - 2025-01-27 19:28:33 --> Language Class Initialized
+INFO - 2025-01-27 19:28:33 --> Config Class Initialized
+INFO - 2025-01-27 19:28:33 --> Loader Class Initialized
+INFO - 2025-01-27 19:28:33 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:28:33 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:28:33 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:28:33 --> Controller Class Initialized
+INFO - 2025-01-27 19:28:33 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:28:33 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:28:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:28:33 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:28:33 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:28:33 --> Migrations Class Initialized
+INFO - 2025-01-27 19:28:33 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:28:33 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:28:33 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:28:33 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:28:33 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:28:33 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:28:33 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:28:33 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:28:33 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:28:33 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:28:33 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:28:33 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:28:33 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:28:33 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:28:33 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:28:33 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:28:33 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:28:33 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:28:33 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:28:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:28:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:28:33 --> Final output sent to browser
+DEBUG - 2025-01-27 19:28:33 --> Total execution time: 0.0596
+INFO - 2025-01-27 19:29:08 --> Config Class Initialized
+INFO - 2025-01-27 19:29:08 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:08 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:08 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:08 --> URI Class Initialized
+INFO - 2025-01-27 19:29:08 --> Router Class Initialized
+INFO - 2025-01-27 19:29:08 --> Output Class Initialized
+INFO - 2025-01-27 19:29:08 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:08 --> Input Class Initialized
+INFO - 2025-01-27 19:29:08 --> Language Class Initialized
+INFO - 2025-01-27 19:29:08 --> Config Class Initialized
+INFO - 2025-01-27 19:29:08 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:08 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:08 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:08 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:08 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:08 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:08 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:08 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:08 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:08 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:08 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:08 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:08 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:08 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:08 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:08 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:08 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:08 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:08 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:08 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:08 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:08 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:08 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:08 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:08 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:08 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:08 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:08 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:08 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:08 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:08 --> Total execution time: 0.0614
+INFO - 2025-01-27 19:29:09 --> Config Class Initialized
+INFO - 2025-01-27 19:29:09 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:09 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:09 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:09 --> URI Class Initialized
+INFO - 2025-01-27 19:29:09 --> Router Class Initialized
+INFO - 2025-01-27 19:29:09 --> Output Class Initialized
+INFO - 2025-01-27 19:29:10 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:10 --> Input Class Initialized
+INFO - 2025-01-27 19:29:10 --> Language Class Initialized
+INFO - 2025-01-27 19:29:10 --> Config Class Initialized
+INFO - 2025-01-27 19:29:10 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:10 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:10 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:10 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:10 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:10 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:10 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:10 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:10 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:10 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:10 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:10 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:10 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:10 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:10 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:10 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:10 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:10 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:10 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:10 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:10 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:10 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:10 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:10 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:10 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:10 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:10 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:10 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:10 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:10 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:10 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:10 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:10 --> Total execution time: 0.0705
+INFO - 2025-01-27 19:29:11 --> Config Class Initialized
+INFO - 2025-01-27 19:29:11 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:11 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:11 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:11 --> URI Class Initialized
+INFO - 2025-01-27 19:29:11 --> Router Class Initialized
+INFO - 2025-01-27 19:29:11 --> Output Class Initialized
+INFO - 2025-01-27 19:29:11 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:11 --> Input Class Initialized
+INFO - 2025-01-27 19:29:11 --> Language Class Initialized
+INFO - 2025-01-27 19:29:11 --> Config Class Initialized
+INFO - 2025-01-27 19:29:11 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:11 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:11 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:11 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:11 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:11 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:11 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:11 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:11 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:11 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:11 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:11 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:11 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:11 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:11 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:11 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:11 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:11 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:11 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:11 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:11 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:11 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:11 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:29:11 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:29:11 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:29:11 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:11 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:11 --> Total execution time: 0.1024
+INFO - 2025-01-27 19:29:12 --> Config Class Initialized
+INFO - 2025-01-27 19:29:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:12 --> URI Class Initialized
+INFO - 2025-01-27 19:29:12 --> Router Class Initialized
+INFO - 2025-01-27 19:29:12 --> Output Class Initialized
+INFO - 2025-01-27 19:29:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:12 --> Input Class Initialized
+INFO - 2025-01-27 19:29:12 --> Language Class Initialized
+INFO - 2025-01-27 19:29:12 --> Config Class Initialized
+INFO - 2025-01-27 19:29:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:12 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:12 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:12 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:12 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:12 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:12 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:12 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:12 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:12 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:12 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:12 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:12 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:12 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:12 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:12 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:12 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:12 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:12 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:12 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:12 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:12 --> Total execution time: 0.0600
+INFO - 2025-01-27 19:29:17 --> Config Class Initialized
+INFO - 2025-01-27 19:29:17 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:17 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:17 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:17 --> URI Class Initialized
+INFO - 2025-01-27 19:29:17 --> Router Class Initialized
+INFO - 2025-01-27 19:29:17 --> Output Class Initialized
+INFO - 2025-01-27 19:29:17 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:17 --> Input Class Initialized
+INFO - 2025-01-27 19:29:17 --> Language Class Initialized
+INFO - 2025-01-27 19:29:17 --> Config Class Initialized
+INFO - 2025-01-27 19:29:17 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:17 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:17 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:17 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:17 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:17 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:17 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:17 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:17 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:17 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:17 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:17 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:17 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:17 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:17 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:17 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:17 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:17 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:17 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:17 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:17 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:17 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:17 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:17 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:17 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:17 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:17 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:17 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:17 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:17 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:17 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:17 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:17 --> Total execution time: 0.0762
+INFO - 2025-01-27 19:29:31 --> Config Class Initialized
+INFO - 2025-01-27 19:29:31 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:31 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:31 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:31 --> URI Class Initialized
+INFO - 2025-01-27 19:29:31 --> Router Class Initialized
+INFO - 2025-01-27 19:29:31 --> Output Class Initialized
+INFO - 2025-01-27 19:29:31 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:31 --> Input Class Initialized
+INFO - 2025-01-27 19:29:31 --> Language Class Initialized
+INFO - 2025-01-27 19:29:31 --> Config Class Initialized
+INFO - 2025-01-27 19:29:31 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:31 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:31 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:31 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:31 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:31 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:31 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:31 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:31 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:31 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:31 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:31 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:31 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:31 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:31 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:31 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:31 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:31 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:31 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:31 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:31 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:31 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:31 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:31 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:31 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:31 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:31 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:31 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:31 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO) /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php 24
+INFO - 2025-01-27 19:29:45 --> Config Class Initialized
+INFO - 2025-01-27 19:29:45 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:45 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:45 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:45 --> URI Class Initialized
+INFO - 2025-01-27 19:29:45 --> Router Class Initialized
+INFO - 2025-01-27 19:29:45 --> Output Class Initialized
+INFO - 2025-01-27 19:29:45 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:45 --> Input Class Initialized
+INFO - 2025-01-27 19:29:45 --> Language Class Initialized
+INFO - 2025-01-27 19:29:45 --> Config Class Initialized
+INFO - 2025-01-27 19:29:45 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:45 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:45 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:45 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:45 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:45 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:45 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:45 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:45 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:45 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:45 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:45 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:45 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:45 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:45 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:45 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:45 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:45 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:45 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:45 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:45 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:45 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:45 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:45 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:45 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:45 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:45 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:45 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:45 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:45 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:45 --> Total execution time: 0.0733
+INFO - 2025-01-27 19:29:53 --> Config Class Initialized
+INFO - 2025-01-27 19:29:53 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:53 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:53 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:53 --> URI Class Initialized
+INFO - 2025-01-27 19:29:53 --> Router Class Initialized
+INFO - 2025-01-27 19:29:53 --> Output Class Initialized
+INFO - 2025-01-27 19:29:53 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:53 --> Input Class Initialized
+INFO - 2025-01-27 19:29:53 --> Language Class Initialized
+INFO - 2025-01-27 19:29:53 --> Config Class Initialized
+INFO - 2025-01-27 19:29:53 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:53 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:53 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:53 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:53 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:53 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:53 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:53 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:53 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:53 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:53 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:53 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:53 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:53 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:53 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:53 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:53 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:53 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:53 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:53 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:53 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:53 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:53 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:53 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:53 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:53 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:53 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:53 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:53 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:53 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:53 --> Total execution time: 0.0757
+INFO - 2025-01-27 19:29:55 --> Config Class Initialized
+INFO - 2025-01-27 19:29:55 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:55 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:55 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:55 --> URI Class Initialized
+INFO - 2025-01-27 19:29:55 --> Router Class Initialized
+INFO - 2025-01-27 19:29:55 --> Output Class Initialized
+INFO - 2025-01-27 19:29:55 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:55 --> Input Class Initialized
+INFO - 2025-01-27 19:29:55 --> Language Class Initialized
+INFO - 2025-01-27 19:29:55 --> Config Class Initialized
+INFO - 2025-01-27 19:29:55 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:55 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:55 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:55 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:55 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:55 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:55 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:55 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:55 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:55 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:55 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:55 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:55 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:55 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:55 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:55 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:55 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:55 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:55 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:55 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:55 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:55 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:55 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:55 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:55 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:55 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:55 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:55 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:55 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:55 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:55 --> Total execution time: 0.0805
+INFO - 2025-01-27 19:29:58 --> Config Class Initialized
+INFO - 2025-01-27 19:29:58 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:29:58 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:29:58 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:29:58 --> URI Class Initialized
+INFO - 2025-01-27 19:29:58 --> Router Class Initialized
+INFO - 2025-01-27 19:29:58 --> Output Class Initialized
+INFO - 2025-01-27 19:29:58 --> Security Class Initialized
+DEBUG - 2025-01-27 19:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:29:58 --> Input Class Initialized
+INFO - 2025-01-27 19:29:58 --> Language Class Initialized
+INFO - 2025-01-27 19:29:58 --> Config Class Initialized
+INFO - 2025-01-27 19:29:58 --> Loader Class Initialized
+INFO - 2025-01-27 19:29:58 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:29:58 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:29:58 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:29:58 --> Controller Class Initialized
+INFO - 2025-01-27 19:29:58 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:29:58 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:29:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:29:58 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:29:58 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:29:58 --> Migrations Class Initialized
+INFO - 2025-01-27 19:29:58 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:29:58 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:29:58 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:29:58 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:29:58 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:29:58 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:29:58 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:29:58 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:29:58 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:29:58 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:29:58 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:29:58 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:29:58 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:29:58 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:29:58 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:29:58 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:29:58 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:29:58 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:29:58 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:29:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:29:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:29:58 --> Final output sent to browser
+DEBUG - 2025-01-27 19:29:58 --> Total execution time: 0.0810
+INFO - 2025-01-27 19:30:06 --> Config Class Initialized
+INFO - 2025-01-27 19:30:06 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:06 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:06 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:06 --> URI Class Initialized
+INFO - 2025-01-27 19:30:06 --> Router Class Initialized
+INFO - 2025-01-27 19:30:06 --> Output Class Initialized
+INFO - 2025-01-27 19:30:06 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:06 --> Input Class Initialized
+INFO - 2025-01-27 19:30:06 --> Language Class Initialized
+INFO - 2025-01-27 19:30:06 --> Config Class Initialized
+INFO - 2025-01-27 19:30:06 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:06 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:06 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:06 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:06 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:06 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:06 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:06 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:06 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:06 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:06 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:06 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:06 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:06 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:06 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:06 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:06 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:06 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:06 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:06 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:06 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:06 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:06 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:06 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:06 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:06 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:06 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:06 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:06 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:06 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:06 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:06 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:06 --> Total execution time: 0.0556
+INFO - 2025-01-27 19:30:08 --> Config Class Initialized
+INFO - 2025-01-27 19:30:08 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:08 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:08 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:08 --> URI Class Initialized
+INFO - 2025-01-27 19:30:08 --> Router Class Initialized
+INFO - 2025-01-27 19:30:08 --> Output Class Initialized
+INFO - 2025-01-27 19:30:08 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:08 --> Input Class Initialized
+INFO - 2025-01-27 19:30:08 --> Language Class Initialized
+INFO - 2025-01-27 19:30:08 --> Config Class Initialized
+INFO - 2025-01-27 19:30:08 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:08 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:08 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:08 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:08 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:08 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:08 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:08 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:08 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:08 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:08 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:08 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:08 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:08 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:08 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:08 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:08 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:08 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:08 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:08 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:08 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:08 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:08 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:08 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:08 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:08 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:08 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:08 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:08 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:08 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:08 --> Total execution time: 0.0797
+INFO - 2025-01-27 19:30:10 --> Config Class Initialized
+INFO - 2025-01-27 19:30:10 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:10 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:10 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:10 --> URI Class Initialized
+INFO - 2025-01-27 19:30:10 --> Router Class Initialized
+INFO - 2025-01-27 19:30:10 --> Output Class Initialized
+INFO - 2025-01-27 19:30:10 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:10 --> Input Class Initialized
+INFO - 2025-01-27 19:30:10 --> Language Class Initialized
+INFO - 2025-01-27 19:30:10 --> Config Class Initialized
+INFO - 2025-01-27 19:30:10 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:10 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:10 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:10 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:10 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:10 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:10 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:10 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:10 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:10 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:10 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:10 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:10 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:10 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:10 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:10 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:10 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:10 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:10 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:10 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:10 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:10 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:10 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:10 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:10 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:10 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:10 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:10 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:10 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:10 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:10 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:10 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:10 --> Total execution time: 0.0704
+INFO - 2025-01-27 19:30:12 --> Config Class Initialized
+INFO - 2025-01-27 19:30:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:12 --> URI Class Initialized
+INFO - 2025-01-27 19:30:12 --> Router Class Initialized
+INFO - 2025-01-27 19:30:12 --> Output Class Initialized
+INFO - 2025-01-27 19:30:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:12 --> Input Class Initialized
+INFO - 2025-01-27 19:30:12 --> Language Class Initialized
+INFO - 2025-01-27 19:30:12 --> Config Class Initialized
+INFO - 2025-01-27 19:30:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:12 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:12 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:12 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:12 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:12 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:12 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:12 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:12 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:12 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:12 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:12 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:12 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:12 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:12 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:12 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:12 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:12 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:12 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:12 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:12 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:12 --> Total execution time: 0.0697
+INFO - 2025-01-27 19:30:28 --> Config Class Initialized
+INFO - 2025-01-27 19:30:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:28 --> URI Class Initialized
+INFO - 2025-01-27 19:30:28 --> Router Class Initialized
+INFO - 2025-01-27 19:30:28 --> Output Class Initialized
+INFO - 2025-01-27 19:30:28 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:28 --> Input Class Initialized
+INFO - 2025-01-27 19:30:28 --> Language Class Initialized
+INFO - 2025-01-27 19:30:28 --> Config Class Initialized
+INFO - 2025-01-27 19:30:28 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:28 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:28 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:28 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:28 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:28 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:28 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:28 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:28 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:28 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:28 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:28 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:28 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:28 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:28 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:28 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:28 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:28 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:28 --> Total execution time: 0.0748
+INFO - 2025-01-27 19:30:31 --> Config Class Initialized
+INFO - 2025-01-27 19:30:31 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:31 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:31 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:31 --> URI Class Initialized
+INFO - 2025-01-27 19:30:31 --> Router Class Initialized
+INFO - 2025-01-27 19:30:31 --> Output Class Initialized
+INFO - 2025-01-27 19:30:31 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:31 --> Input Class Initialized
+INFO - 2025-01-27 19:30:31 --> Language Class Initialized
+INFO - 2025-01-27 19:30:31 --> Config Class Initialized
+INFO - 2025-01-27 19:30:31 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:31 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:31 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:31 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:31 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:31 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:31 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:31 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:31 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:31 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:31 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:31 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:31 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:31 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:31 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:31 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:31 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:31 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:31 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:31 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:31 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:31 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:30:31 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:30:31 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:30:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:31 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:31 --> Total execution time: 0.0793
+INFO - 2025-01-27 19:30:32 --> Config Class Initialized
+INFO - 2025-01-27 19:30:32 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:32 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:32 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:32 --> URI Class Initialized
+INFO - 2025-01-27 19:30:32 --> Router Class Initialized
+INFO - 2025-01-27 19:30:32 --> Output Class Initialized
+INFO - 2025-01-27 19:30:32 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:32 --> Input Class Initialized
+INFO - 2025-01-27 19:30:32 --> Language Class Initialized
+INFO - 2025-01-27 19:30:32 --> Config Class Initialized
+INFO - 2025-01-27 19:30:32 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:32 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:32 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:32 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:32 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:32 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:32 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:32 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:32 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:32 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:32 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:32 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:32 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:32 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:32 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:32 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:32 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:32 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:32 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:32 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:32 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:32 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:32 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:32 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:32 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:32 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:32 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:32 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:32 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:32 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:32 --> Total execution time: 0.0601
+INFO - 2025-01-27 19:30:34 --> Config Class Initialized
+INFO - 2025-01-27 19:30:34 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:34 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:34 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:34 --> URI Class Initialized
+INFO - 2025-01-27 19:30:34 --> Router Class Initialized
+INFO - 2025-01-27 19:30:34 --> Output Class Initialized
+INFO - 2025-01-27 19:30:34 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:34 --> Input Class Initialized
+INFO - 2025-01-27 19:30:34 --> Language Class Initialized
+INFO - 2025-01-27 19:30:34 --> Config Class Initialized
+INFO - 2025-01-27 19:30:34 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:34 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:34 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:34 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:34 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:34 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:34 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:34 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:34 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:34 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:34 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:34 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:34 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:34 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:34 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:34 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:34 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:34 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:34 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:34 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:34 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:34 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:34 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:34 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:34 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:34 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:34 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:34 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:34 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:34 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:34 --> Total execution time: 0.0764
+INFO - 2025-01-27 19:30:35 --> Config Class Initialized
+INFO - 2025-01-27 19:30:35 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:35 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:35 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:35 --> URI Class Initialized
+INFO - 2025-01-27 19:30:35 --> Router Class Initialized
+INFO - 2025-01-27 19:30:35 --> Output Class Initialized
+INFO - 2025-01-27 19:30:35 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:35 --> Input Class Initialized
+INFO - 2025-01-27 19:30:35 --> Language Class Initialized
+INFO - 2025-01-27 19:30:35 --> Config Class Initialized
+INFO - 2025-01-27 19:30:35 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:35 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:35 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:35 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:35 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:35 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:35 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:35 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:35 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:35 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:35 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:35 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:35 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:35 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:35 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:35 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:35 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:35 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:35 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:35 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:35 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:35 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:35 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:35 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:35 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:35 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:35 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:35 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:35 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:35 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:35 --> Total execution time: 0.0770
+INFO - 2025-01-27 19:30:48 --> Config Class Initialized
+INFO - 2025-01-27 19:30:48 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:48 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:48 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:48 --> URI Class Initialized
+INFO - 2025-01-27 19:30:48 --> Router Class Initialized
+INFO - 2025-01-27 19:30:48 --> Output Class Initialized
+INFO - 2025-01-27 19:30:48 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:48 --> Input Class Initialized
+INFO - 2025-01-27 19:30:48 --> Language Class Initialized
+INFO - 2025-01-27 19:30:48 --> Config Class Initialized
+INFO - 2025-01-27 19:30:48 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:48 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:48 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:48 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:48 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:48 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:48 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:48 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:48 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:48 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:48 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:48 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:48 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:48 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:48 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:48 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:48 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:48 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:48 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:48 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:48 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:48 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:48 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:48 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:48 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:48 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:48 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:30:48 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:30:48 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:30:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:30:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:48 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:48 --> Total execution time: 0.0590
+INFO - 2025-01-27 19:30:57 --> Config Class Initialized
+INFO - 2025-01-27 19:30:57 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:57 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:57 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:57 --> URI Class Initialized
+INFO - 2025-01-27 19:30:57 --> Router Class Initialized
+INFO - 2025-01-27 19:30:57 --> Output Class Initialized
+INFO - 2025-01-27 19:30:57 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:57 --> Input Class Initialized
+INFO - 2025-01-27 19:30:57 --> Language Class Initialized
+INFO - 2025-01-27 19:30:57 --> Config Class Initialized
+INFO - 2025-01-27 19:30:57 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:57 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:57 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:57 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:57 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:57 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:57 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:57 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:57 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:57 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:57 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:57 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:57 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:57 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:57 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:57 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:57 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:57 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:57 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:57 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:57 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:57 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:30:57 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:30:57 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:30:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:30:57 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:57 --> Total execution time: 0.0673
+INFO - 2025-01-27 19:30:59 --> Config Class Initialized
+INFO - 2025-01-27 19:30:59 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:30:59 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:30:59 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:30:59 --> URI Class Initialized
+INFO - 2025-01-27 19:30:59 --> Router Class Initialized
+INFO - 2025-01-27 19:30:59 --> Output Class Initialized
+INFO - 2025-01-27 19:30:59 --> Security Class Initialized
+DEBUG - 2025-01-27 19:30:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:30:59 --> Input Class Initialized
+INFO - 2025-01-27 19:30:59 --> Language Class Initialized
+INFO - 2025-01-27 19:30:59 --> Config Class Initialized
+INFO - 2025-01-27 19:30:59 --> Loader Class Initialized
+INFO - 2025-01-27 19:30:59 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:30:59 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:30:59 --> Controller Class Initialized
+INFO - 2025-01-27 19:30:59 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:30:59 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:30:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:30:59 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:30:59 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:30:59 --> Migrations Class Initialized
+INFO - 2025-01-27 19:30:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:30:59 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:30:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:30:59 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:30:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:30:59 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:30:59 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:30:59 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:30:59 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:30:59 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:30:59 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:30:59 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:30:59 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:30:59 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:30:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/unpoly.php
+INFO - 2025-01-27 19:30:59 --> Final output sent to browser
+DEBUG - 2025-01-27 19:30:59 --> Total execution time: 0.0711
+INFO - 2025-01-27 19:31:00 --> Config Class Initialized
+INFO - 2025-01-27 19:31:00 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:00 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:00 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:00 --> URI Class Initialized
+INFO - 2025-01-27 19:31:00 --> Router Class Initialized
+INFO - 2025-01-27 19:31:00 --> Output Class Initialized
+INFO - 2025-01-27 19:31:00 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:00 --> Input Class Initialized
+INFO - 2025-01-27 19:31:00 --> Language Class Initialized
+INFO - 2025-01-27 19:31:00 --> Config Class Initialized
+INFO - 2025-01-27 19:31:00 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:00 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:00 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:00 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:00 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:00 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:00 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:00 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:00 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:00 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:00 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:00 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:00 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:00 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:00 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:00 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:00 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:00 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:00 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:00 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:00 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:00 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:00 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:31:00 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:31:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:00 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:00 --> Total execution time: 0.0957
+INFO - 2025-01-27 19:31:01 --> Config Class Initialized
+INFO - 2025-01-27 19:31:01 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:01 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:01 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:01 --> URI Class Initialized
+INFO - 2025-01-27 19:31:01 --> Router Class Initialized
+INFO - 2025-01-27 19:31:01 --> Output Class Initialized
+INFO - 2025-01-27 19:31:01 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:01 --> Input Class Initialized
+INFO - 2025-01-27 19:31:01 --> Language Class Initialized
+INFO - 2025-01-27 19:31:01 --> Config Class Initialized
+INFO - 2025-01-27 19:31:01 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:01 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:01 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:01 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:01 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:01 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:01 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:01 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:01 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:01 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:01 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:01 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:01 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:01 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:01 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:01 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:01 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:01 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:01 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:01 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:01 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:01 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:01 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:31:01 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/unpoly.php
+INFO - 2025-01-27 19:31:01 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:01 --> Total execution time: 0.0744
+INFO - 2025-01-27 19:31:02 --> Config Class Initialized
+INFO - 2025-01-27 19:31:02 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:02 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:02 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:02 --> URI Class Initialized
+INFO - 2025-01-27 19:31:02 --> Router Class Initialized
+INFO - 2025-01-27 19:31:02 --> Output Class Initialized
+INFO - 2025-01-27 19:31:02 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:02 --> Input Class Initialized
+INFO - 2025-01-27 19:31:02 --> Language Class Initialized
+INFO - 2025-01-27 19:31:02 --> Config Class Initialized
+INFO - 2025-01-27 19:31:02 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:02 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:02 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:02 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:02 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:02 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:02 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:02 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:02 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:02 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:02 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:02 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:02 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:02 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:02 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:02 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:02 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:02 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:02 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:02 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:02 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:31:02 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:31:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:02 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:02 --> Total execution time: 0.0903
+INFO - 2025-01-27 19:31:04 --> Config Class Initialized
+INFO - 2025-01-27 19:31:04 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:04 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:04 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:04 --> URI Class Initialized
+INFO - 2025-01-27 19:31:04 --> Router Class Initialized
+INFO - 2025-01-27 19:31:04 --> Output Class Initialized
+INFO - 2025-01-27 19:31:04 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:04 --> Input Class Initialized
+INFO - 2025-01-27 19:31:04 --> Language Class Initialized
+INFO - 2025-01-27 19:31:04 --> Config Class Initialized
+INFO - 2025-01-27 19:31:04 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:04 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:04 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:04 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:04 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:04 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:04 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:04 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:04 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:04 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:04 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:04 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:04 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:04 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:04 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:04 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:04 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:04 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:04 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:04 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:04 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:04 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:04 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:04 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:04 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:04 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:04 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:31:04 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:31:04 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:31:04 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:31:04 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:04 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:04 --> Total execution time: 0.0774
+INFO - 2025-01-27 19:31:44 --> Config Class Initialized
+INFO - 2025-01-27 19:31:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:44 --> URI Class Initialized
+INFO - 2025-01-27 19:31:44 --> Router Class Initialized
+INFO - 2025-01-27 19:31:44 --> Output Class Initialized
+INFO - 2025-01-27 19:31:44 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:44 --> Input Class Initialized
+INFO - 2025-01-27 19:31:44 --> Language Class Initialized
+INFO - 2025-01-27 19:31:44 --> Config Class Initialized
+INFO - 2025-01-27 19:31:44 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:44 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:44 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:44 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:44 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:44 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:44 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:44 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:44 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:44 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:44 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:44 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:44 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:44 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:44 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:44 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:44 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:44 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:31:44 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:31:44 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:31:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:31:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:44 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:44 --> Total execution time: 0.0714
+INFO - 2025-01-27 19:31:46 --> Config Class Initialized
+INFO - 2025-01-27 19:31:46 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:46 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:46 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:46 --> URI Class Initialized
+DEBUG - 2025-01-27 19:31:46 --> No URI present. Default controller set.
+INFO - 2025-01-27 19:31:46 --> Router Class Initialized
+INFO - 2025-01-27 19:31:46 --> Output Class Initialized
+INFO - 2025-01-27 19:31:46 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:46 --> Input Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language Class Initialized
+INFO - 2025-01-27 19:31:46 --> Config Class Initialized
+INFO - 2025-01-27 19:31:46 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:46 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:46 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:46 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:46 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:46 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:46 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:46 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:46 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:46 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:46 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:46 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:46 --> Config Class Initialized
+INFO - 2025-01-27 19:31:46 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:46 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:46 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:46 --> URI Class Initialized
+INFO - 2025-01-27 19:31:46 --> Router Class Initialized
+INFO - 2025-01-27 19:31:46 --> Output Class Initialized
+INFO - 2025-01-27 19:31:46 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:46 --> Input Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language Class Initialized
+INFO - 2025-01-27 19:31:46 --> Config Class Initialized
+INFO - 2025-01-27 19:31:46 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:46 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:46 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:46 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:46 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:46 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:46 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:46 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:46 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:46 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:46 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:46 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:46 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 19:31:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 19:31:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:46 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:46 --> Total execution time: 0.0381
+INFO - 2025-01-27 19:31:48 --> Config Class Initialized
+INFO - 2025-01-27 19:31:48 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:48 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:48 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:48 --> URI Class Initialized
+INFO - 2025-01-27 19:31:48 --> Router Class Initialized
+INFO - 2025-01-27 19:31:48 --> Output Class Initialized
+INFO - 2025-01-27 19:31:48 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:48 --> Input Class Initialized
+INFO - 2025-01-27 19:31:48 --> Language Class Initialized
+INFO - 2025-01-27 19:31:48 --> Config Class Initialized
+INFO - 2025-01-27 19:31:48 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:48 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:48 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:48 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:48 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:48 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:48 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:48 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:48 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:48 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:48 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:48 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:48 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:48 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:48 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:48 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:48 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:48 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:48 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:48 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:48 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:48 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:48 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:31:48 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:31:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:48 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:48 --> Total execution time: 0.0906
+INFO - 2025-01-27 19:31:56 --> Config Class Initialized
+INFO - 2025-01-27 19:31:56 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:56 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:56 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:56 --> URI Class Initialized
+INFO - 2025-01-27 19:31:56 --> Router Class Initialized
+INFO - 2025-01-27 19:31:56 --> Output Class Initialized
+INFO - 2025-01-27 19:31:56 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:56 --> Input Class Initialized
+INFO - 2025-01-27 19:31:56 --> Language Class Initialized
+INFO - 2025-01-27 19:31:56 --> Config Class Initialized
+INFO - 2025-01-27 19:31:56 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:56 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:56 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:56 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:56 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:56 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:56 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:56 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:56 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:56 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:56 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:56 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:56 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:56 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:56 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:56 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:56 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:56 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:56 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:56 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:56 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:56 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:31:56 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:31:56 --> Table Class Initialized
+DEBUG - 2025-01-27 19:31:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:31:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:31:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:56 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:56 --> Total execution time: 0.0655
+INFO - 2025-01-27 19:31:57 --> Config Class Initialized
+INFO - 2025-01-27 19:31:57 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:57 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:57 --> URI Class Initialized
+INFO - 2025-01-27 19:31:57 --> Router Class Initialized
+INFO - 2025-01-27 19:31:57 --> Output Class Initialized
+INFO - 2025-01-27 19:31:57 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:57 --> Input Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language Class Initialized
+INFO - 2025-01-27 19:31:57 --> Config Class Initialized
+INFO - 2025-01-27 19:31:57 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:57 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:57 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:57 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:57 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:57 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:57 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:57 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:57 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:57 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:57 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:57 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:57 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:31:57 --> Table Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:57 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:57 --> Total execution time: 0.0796
+INFO - 2025-01-27 19:31:57 --> Config Class Initialized
+INFO - 2025-01-27 19:31:57 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:31:57 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:31:57 --> URI Class Initialized
+INFO - 2025-01-27 19:31:57 --> Router Class Initialized
+INFO - 2025-01-27 19:31:57 --> Output Class Initialized
+INFO - 2025-01-27 19:31:57 --> Security Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:31:57 --> Input Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language Class Initialized
+INFO - 2025-01-27 19:31:57 --> Config Class Initialized
+INFO - 2025-01-27 19:31:57 --> Loader Class Initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:31:57 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:31:57 --> Controller Class Initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:31:57 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:31:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:31:57 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:31:57 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:31:57 --> Migrations Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:31:57 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:31:57 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:31:57 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:31:57 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:31:57 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:31:57 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:31:57 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:31:57 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:31:57 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:31:57 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:31:57 --> Table Class Initialized
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:31:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:31:57 --> Final output sent to browser
+DEBUG - 2025-01-27 19:31:57 --> Total execution time: 0.0432
+INFO - 2025-01-27 19:33:59 --> Config Class Initialized
+INFO - 2025-01-27 19:33:59 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:33:59 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:33:59 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:33:59 --> URI Class Initialized
+INFO - 2025-01-27 19:33:59 --> Router Class Initialized
+INFO - 2025-01-27 19:33:59 --> Output Class Initialized
+INFO - 2025-01-27 19:33:59 --> Security Class Initialized
+DEBUG - 2025-01-27 19:33:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:33:59 --> Input Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language Class Initialized
+INFO - 2025-01-27 19:33:59 --> Config Class Initialized
+INFO - 2025-01-27 19:33:59 --> Loader Class Initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:33:59 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:33:59 --> Controller Class Initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:33:59 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:33:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:33:59 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:33:59 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:33:59 --> Migrations Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:33:59 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:33:59 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:33:59 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:33:59 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:33:59 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:33:59 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:33:59 --> Table Class Initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: room_helper
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/cancel_choice.php
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/view.php
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:33:59 --> Final output sent to browser
+DEBUG - 2025-01-27 19:33:59 --> Total execution time: 0.0749
+INFO - 2025-01-27 19:33:59 --> Config Class Initialized
+INFO - 2025-01-27 19:33:59 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:33:59 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:33:59 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:33:59 --> URI Class Initialized
+INFO - 2025-01-27 19:33:59 --> Router Class Initialized
+INFO - 2025-01-27 19:33:59 --> Output Class Initialized
+INFO - 2025-01-27 19:33:59 --> Security Class Initialized
+DEBUG - 2025-01-27 19:33:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:33:59 --> Input Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language Class Initialized
+INFO - 2025-01-27 19:33:59 --> Config Class Initialized
+INFO - 2025-01-27 19:33:59 --> Loader Class Initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:33:59 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:33:59 --> Controller Class Initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:33:59 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:33:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:33:59 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:33:59 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:33:59 --> Migrations Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:33:59 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:33:59 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:33:59 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:33:59 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:33:59 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:33:59 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:33:59 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:33:59 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:33:59 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:33:59 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:33:59 --> Table Class Initialized
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:33:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:33:59 --> Final output sent to browser
+DEBUG - 2025-01-27 19:33:59 --> Total execution time: 0.0503
+INFO - 2025-01-27 19:34:04 --> Config Class Initialized
+INFO - 2025-01-27 19:34:04 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:34:04 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:34:04 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:34:04 --> URI Class Initialized
+INFO - 2025-01-27 19:34:04 --> Router Class Initialized
+INFO - 2025-01-27 19:34:04 --> Output Class Initialized
+INFO - 2025-01-27 19:34:04 --> Security Class Initialized
+DEBUG - 2025-01-27 19:34:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:34:04 --> Input Class Initialized
+INFO - 2025-01-27 19:34:04 --> Language Class Initialized
+INFO - 2025-01-27 19:34:04 --> Config Class Initialized
+INFO - 2025-01-27 19:34:04 --> Loader Class Initialized
+INFO - 2025-01-27 19:34:04 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:34:04 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:34:04 --> Controller Class Initialized
+INFO - 2025-01-27 19:34:04 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:34:04 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:34:04 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:34:04 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:34:04 --> Migrations Class Initialized
+INFO - 2025-01-27 19:34:04 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:34:04 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:34:04 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:34:04 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:34:04 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:34:04 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:34:04 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:34:04 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:34:04 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:34:04 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:34:04 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:34:04 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:34:04 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:34:04 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:34:04 --> Table Class Initialized
+DEBUG - 2025-01-27 19:34:04 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:34:04 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:34:04 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:34:04 --> Final output sent to browser
+DEBUG - 2025-01-27 19:34:04 --> Total execution time: 0.0811
+INFO - 2025-01-27 19:35:12 --> Config Class Initialized
+INFO - 2025-01-27 19:35:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:35:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:35:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:35:12 --> URI Class Initialized
+INFO - 2025-01-27 19:35:12 --> Router Class Initialized
+INFO - 2025-01-27 19:35:12 --> Output Class Initialized
+INFO - 2025-01-27 19:35:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:35:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:35:12 --> Input Class Initialized
+INFO - 2025-01-27 19:35:12 --> Language Class Initialized
+INFO - 2025-01-27 19:35:12 --> Config Class Initialized
+INFO - 2025-01-27 19:35:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:35:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:35:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:35:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:35:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:35:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:35:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:35:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:35:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:35:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:35:12 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:35:12 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:35:12 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:35:12 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:35:12 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:35:12 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:35:12 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:35:12 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:35:12 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:35:12 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:35:12 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:35:12 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:35:12 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:35:12 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:35:12 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:35:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:35:12 --> Final output sent to browser
+DEBUG - 2025-01-27 19:35:12 --> Total execution time: 0.0997
+INFO - 2025-01-27 19:35:13 --> Config Class Initialized
+INFO - 2025-01-27 19:35:13 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:35:13 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:35:13 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:35:13 --> URI Class Initialized
+INFO - 2025-01-27 19:35:13 --> Router Class Initialized
+INFO - 2025-01-27 19:35:13 --> Output Class Initialized
+INFO - 2025-01-27 19:35:13 --> Security Class Initialized
+DEBUG - 2025-01-27 19:35:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:35:13 --> Input Class Initialized
+INFO - 2025-01-27 19:35:13 --> Language Class Initialized
+INFO - 2025-01-27 19:35:13 --> Config Class Initialized
+INFO - 2025-01-27 19:35:13 --> Loader Class Initialized
+INFO - 2025-01-27 19:35:13 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:35:13 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:35:13 --> Controller Class Initialized
+INFO - 2025-01-27 19:35:13 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:35:13 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:35:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:35:13 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:35:13 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:35:13 --> Migrations Class Initialized
+INFO - 2025-01-27 19:35:13 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:35:13 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:35:13 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:35:13 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:35:13 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:35:13 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:35:13 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:35:13 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:35:13 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:35:13 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:35:13 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:35:13 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:35:13 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:35:13 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:35:13 --> Table Class Initialized
+ERROR - 2025-01-27 19:35:13 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+DEBUG - 2025-01-27 19:35:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:35:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:35:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:35:13 --> Final output sent to browser
+DEBUG - 2025-01-27 19:35:13 --> Total execution time: 0.0810
+INFO - 2025-01-27 19:36:07 --> Config Class Initialized
+INFO - 2025-01-27 19:36:07 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:36:07 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:36:07 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:36:07 --> URI Class Initialized
+INFO - 2025-01-27 19:36:07 --> Router Class Initialized
+INFO - 2025-01-27 19:36:07 --> Output Class Initialized
+INFO - 2025-01-27 19:36:07 --> Security Class Initialized
+DEBUG - 2025-01-27 19:36:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:36:07 --> Input Class Initialized
+INFO - 2025-01-27 19:36:07 --> Language Class Initialized
+INFO - 2025-01-27 19:36:07 --> Config Class Initialized
+INFO - 2025-01-27 19:36:07 --> Loader Class Initialized
+INFO - 2025-01-27 19:36:07 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:36:07 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:36:07 --> Controller Class Initialized
+INFO - 2025-01-27 19:36:07 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:36:07 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:36:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:36:07 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:36:07 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:36:07 --> Migrations Class Initialized
+INFO - 2025-01-27 19:36:07 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:36:07 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:36:07 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:36:07 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:36:07 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:36:07 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:36:07 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:36:07 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:36:07 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:36:07 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:36:07 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:36:07 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:36:07 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:36:07 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:36:07 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:36:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:36:07 --> Final output sent to browser
+DEBUG - 2025-01-27 19:36:07 --> Total execution time: 0.0906
+INFO - 2025-01-27 19:36:08 --> Config Class Initialized
+INFO - 2025-01-27 19:36:08 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:36:08 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:36:08 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:36:08 --> URI Class Initialized
+INFO - 2025-01-27 19:36:08 --> Router Class Initialized
+INFO - 2025-01-27 19:36:08 --> Output Class Initialized
+INFO - 2025-01-27 19:36:08 --> Security Class Initialized
+DEBUG - 2025-01-27 19:36:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:36:08 --> Input Class Initialized
+INFO - 2025-01-27 19:36:08 --> Language Class Initialized
+INFO - 2025-01-27 19:36:08 --> Config Class Initialized
+INFO - 2025-01-27 19:36:08 --> Loader Class Initialized
+INFO - 2025-01-27 19:36:08 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:36:08 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:36:08 --> Controller Class Initialized
+INFO - 2025-01-27 19:36:08 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:36:08 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:36:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:36:08 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:36:08 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:36:08 --> Migrations Class Initialized
+INFO - 2025-01-27 19:36:08 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:36:08 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:36:08 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:36:08 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:36:08 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:36:08 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:36:08 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:36:08 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:36:08 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:36:08 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:36:08 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:36:08 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:36:08 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:36:08 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:36:08 --> Table Class Initialized
+ERROR - 2025-01-27 19:36:08 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:36:08 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:36:08 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+DEBUG - 2025-01-27 19:36:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:36:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:36:08 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:36:08 --> Final output sent to browser
+DEBUG - 2025-01-27 19:36:08 --> Total execution time: 0.0795
+INFO - 2025-01-27 19:36:46 --> Config Class Initialized
+INFO - 2025-01-27 19:36:46 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:36:46 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:36:46 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:36:46 --> URI Class Initialized
+INFO - 2025-01-27 19:36:46 --> Router Class Initialized
+INFO - 2025-01-27 19:36:46 --> Output Class Initialized
+INFO - 2025-01-27 19:36:46 --> Security Class Initialized
+DEBUG - 2025-01-27 19:36:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:36:46 --> Input Class Initialized
+INFO - 2025-01-27 19:36:46 --> Language Class Initialized
+INFO - 2025-01-27 19:36:46 --> Config Class Initialized
+INFO - 2025-01-27 19:36:46 --> Loader Class Initialized
+INFO - 2025-01-27 19:36:46 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:36:46 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:36:46 --> Controller Class Initialized
+INFO - 2025-01-27 19:36:46 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:36:46 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:36:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:36:46 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:36:46 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:36:46 --> Migrations Class Initialized
+INFO - 2025-01-27 19:36:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:36:46 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:36:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:36:46 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:36:46 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:36:46 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:36:46 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:36:46 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:36:46 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:36:46 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:36:46 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:36:46 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:36:46 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:36:46 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:36:46 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:36:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:36:46 --> Final output sent to browser
+DEBUG - 2025-01-27 19:36:46 --> Total execution time: 0.1027
+INFO - 2025-01-27 19:36:47 --> Config Class Initialized
+INFO - 2025-01-27 19:36:47 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:36:47 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:36:47 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:36:47 --> URI Class Initialized
+INFO - 2025-01-27 19:36:47 --> Router Class Initialized
+INFO - 2025-01-27 19:36:47 --> Output Class Initialized
+INFO - 2025-01-27 19:36:47 --> Security Class Initialized
+DEBUG - 2025-01-27 19:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:36:47 --> Input Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language Class Initialized
+INFO - 2025-01-27 19:36:47 --> Config Class Initialized
+INFO - 2025-01-27 19:36:47 --> Loader Class Initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:36:47 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:36:47 --> Controller Class Initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:36:47 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:36:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:36:47 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:36:47 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:36:47 --> Migrations Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:36:47 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:36:47 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:36:47 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:36:47 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:36:47 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:36:47 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:36:47 --> Table Class Initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: room_helper
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/cancel_choice.php
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/view.php
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:36:47 --> Final output sent to browser
+DEBUG - 2025-01-27 19:36:47 --> Total execution time: 0.0890
+INFO - 2025-01-27 19:36:47 --> Config Class Initialized
+INFO - 2025-01-27 19:36:47 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:36:47 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:36:47 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:36:47 --> URI Class Initialized
+INFO - 2025-01-27 19:36:47 --> Router Class Initialized
+INFO - 2025-01-27 19:36:47 --> Output Class Initialized
+INFO - 2025-01-27 19:36:47 --> Security Class Initialized
+DEBUG - 2025-01-27 19:36:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:36:47 --> Input Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language Class Initialized
+INFO - 2025-01-27 19:36:47 --> Config Class Initialized
+INFO - 2025-01-27 19:36:47 --> Loader Class Initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:36:47 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:36:47 --> Controller Class Initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:36:47 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:36:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:36:47 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:36:47 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:36:47 --> Migrations Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:36:47 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:36:47 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:36:47 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:36:47 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:36:47 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:36:47 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:36:47 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:36:47 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:36:47 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:36:47 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:36:47 --> Table Class Initialized
+ERROR - 2025-01-27 19:36:47 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:36:47 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:36:47 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:36:47 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:36:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:36:47 --> Final output sent to browser
+DEBUG - 2025-01-27 19:36:47 --> Total execution time: 0.0487
+INFO - 2025-01-27 19:37:12 --> Config Class Initialized
+INFO - 2025-01-27 19:37:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:37:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:37:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:37:12 --> URI Class Initialized
+INFO - 2025-01-27 19:37:12 --> Router Class Initialized
+INFO - 2025-01-27 19:37:12 --> Output Class Initialized
+INFO - 2025-01-27 19:37:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:37:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:37:12 --> Input Class Initialized
+INFO - 2025-01-27 19:37:12 --> Language Class Initialized
+INFO - 2025-01-27 19:37:12 --> Config Class Initialized
+INFO - 2025-01-27 19:37:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:37:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:37:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:37:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:37:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:37:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:37:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:37:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:37:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:37:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:37:12 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:37:12 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:37:12 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:37:12 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:37:12 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:37:12 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:37:12 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:37:12 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:37:12 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:37:12 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:37:12 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:37:12 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:37:12 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:37:12 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:12 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:37:13 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:37:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:37:13 --> Final output sent to browser
+DEBUG - 2025-01-27 19:37:13 --> Total execution time: 0.0822
+INFO - 2025-01-27 19:37:14 --> Config Class Initialized
+INFO - 2025-01-27 19:37:14 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:37:14 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:37:14 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:37:14 --> URI Class Initialized
+INFO - 2025-01-27 19:37:14 --> Router Class Initialized
+INFO - 2025-01-27 19:37:14 --> Output Class Initialized
+INFO - 2025-01-27 19:37:14 --> Security Class Initialized
+DEBUG - 2025-01-27 19:37:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:37:14 --> Input Class Initialized
+INFO - 2025-01-27 19:37:14 --> Language Class Initialized
+INFO - 2025-01-27 19:37:14 --> Config Class Initialized
+INFO - 2025-01-27 19:37:14 --> Loader Class Initialized
+INFO - 2025-01-27 19:37:14 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:37:14 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:37:14 --> Controller Class Initialized
+INFO - 2025-01-27 19:37:14 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:37:14 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:37:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:37:14 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:37:14 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:37:14 --> Migrations Class Initialized
+INFO - 2025-01-27 19:37:14 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:37:14 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:37:14 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:37:14 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:37:14 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:37:14 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:37:14 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:37:14 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:37:14 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:37:14 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:37:14 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:37:14 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:37:14 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:37:14 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:37:14 --> Table Class Initialized
+ERROR - 2025-01-27 19:37:14 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:37:14 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:37:14 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:37:14 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:37:14 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:37:14 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:37:14 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:37:14 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:37:14 --> Final output sent to browser
+DEBUG - 2025-01-27 19:37:14 --> Total execution time: 0.0848
+INFO - 2025-01-27 19:38:16 --> Config Class Initialized
+INFO - 2025-01-27 19:38:16 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:38:16 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:38:16 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:38:16 --> URI Class Initialized
+INFO - 2025-01-27 19:38:16 --> Router Class Initialized
+INFO - 2025-01-27 19:38:16 --> Output Class Initialized
+INFO - 2025-01-27 19:38:16 --> Security Class Initialized
+DEBUG - 2025-01-27 19:38:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:38:16 --> Input Class Initialized
+INFO - 2025-01-27 19:38:16 --> Language Class Initialized
+INFO - 2025-01-27 19:38:16 --> Config Class Initialized
+INFO - 2025-01-27 19:38:16 --> Loader Class Initialized
+INFO - 2025-01-27 19:38:16 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:38:16 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:38:16 --> Controller Class Initialized
+INFO - 2025-01-27 19:38:16 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:38:16 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:38:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:38:16 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:38:16 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:38:16 --> Migrations Class Initialized
+INFO - 2025-01-27 19:38:16 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:38:16 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:38:16 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:38:16 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:38:16 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:38:16 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:38:16 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:38:16 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:38:16 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:38:16 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:38:16 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:38:16 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:38:16 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:38:16 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:38:16 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:38:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:38:16 --> Final output sent to browser
+DEBUG - 2025-01-27 19:38:16 --> Total execution time: 0.0935
+INFO - 2025-01-27 19:38:17 --> Config Class Initialized
+INFO - 2025-01-27 19:38:17 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:38:17 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:38:17 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:38:17 --> URI Class Initialized
+INFO - 2025-01-27 19:38:17 --> Router Class Initialized
+INFO - 2025-01-27 19:38:17 --> Output Class Initialized
+INFO - 2025-01-27 19:38:17 --> Security Class Initialized
+DEBUG - 2025-01-27 19:38:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:38:17 --> Input Class Initialized
+INFO - 2025-01-27 19:38:17 --> Language Class Initialized
+INFO - 2025-01-27 19:38:17 --> Config Class Initialized
+INFO - 2025-01-27 19:38:17 --> Loader Class Initialized
+INFO - 2025-01-27 19:38:17 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:38:17 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:38:17 --> Controller Class Initialized
+INFO - 2025-01-27 19:38:17 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:38:17 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:38:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:38:17 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:38:17 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:38:17 --> Migrations Class Initialized
+INFO - 2025-01-27 19:38:17 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:38:17 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:38:17 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:38:17 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:38:17 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:38:17 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:38:17 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:38:17 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:38:17 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:38:17 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:38:17 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:38:17 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:38:17 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:38:17 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:38:17 --> Table Class Initialized
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:38:17 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:38:17 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:38:17 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:38:17 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:38:17 --> Final output sent to browser
+DEBUG - 2025-01-27 19:38:17 --> Total execution time: 0.0734
+INFO - 2025-01-27 19:39:21 --> Config Class Initialized
+INFO - 2025-01-27 19:39:21 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:21 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:21 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:21 --> URI Class Initialized
+INFO - 2025-01-27 19:39:21 --> Router Class Initialized
+INFO - 2025-01-27 19:39:21 --> Output Class Initialized
+INFO - 2025-01-27 19:39:21 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:21 --> Input Class Initialized
+INFO - 2025-01-27 19:39:21 --> Language Class Initialized
+INFO - 2025-01-27 19:39:21 --> Config Class Initialized
+INFO - 2025-01-27 19:39:21 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:21 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:21 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:21 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:21 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:21 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:21 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:21 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:21 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:21 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:21 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:21 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:21 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:21 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:21 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:21 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:21 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:21 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:21 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:21 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:21 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:21 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:21 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:21 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:21 --> Language file contains no data: language/french/form_validation_lang.php
+DEBUG - 2025-01-27 19:39:21 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single_recurring_preview.php
+DEBUG - 2025-01-27 19:39:21 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:21 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:21 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:21 --> Total execution time: 0.0954
+INFO - 2025-01-27 19:39:28 --> Config Class Initialized
+INFO - 2025-01-27 19:39:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:28 --> URI Class Initialized
+INFO - 2025-01-27 19:39:28 --> Router Class Initialized
+INFO - 2025-01-27 19:39:28 --> Output Class Initialized
+INFO - 2025-01-27 19:39:28 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:28 --> Input Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language Class Initialized
+INFO - 2025-01-27 19:39:28 --> Config Class Initialized
+INFO - 2025-01-27 19:39:28 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:28 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:28 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:28 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:28 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:28 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:28 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:28 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:28 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:28 --> Total execution time: 0.0742
+INFO - 2025-01-27 19:39:28 --> Config Class Initialized
+INFO - 2025-01-27 19:39:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:28 --> URI Class Initialized
+INFO - 2025-01-27 19:39:28 --> Router Class Initialized
+INFO - 2025-01-27 19:39:28 --> Output Class Initialized
+INFO - 2025-01-27 19:39:28 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:28 --> Input Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language Class Initialized
+INFO - 2025-01-27 19:39:28 --> Config Class Initialized
+INFO - 2025-01-27 19:39:28 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:28 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:28 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:28 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:28 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:28 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:28 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:28 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:28 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:28 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:28 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:28 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:28 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:28 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:28 --> Total execution time: 0.0768
+INFO - 2025-01-27 19:39:29 --> Config Class Initialized
+INFO - 2025-01-27 19:39:29 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:29 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:29 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:29 --> URI Class Initialized
+INFO - 2025-01-27 19:39:29 --> Router Class Initialized
+INFO - 2025-01-27 19:39:29 --> Output Class Initialized
+INFO - 2025-01-27 19:39:29 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:29 --> Input Class Initialized
+INFO - 2025-01-27 19:39:29 --> Language Class Initialized
+INFO - 2025-01-27 19:39:29 --> Config Class Initialized
+INFO - 2025-01-27 19:39:29 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:29 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:29 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:29 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:29 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:29 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:29 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:29 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:29 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:29 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:29 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:29 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:29 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:29 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:29 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:29 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:29 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:29 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:29 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:29 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:29 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:29 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:29 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:39:29 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:39:29 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:29 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:29 --> Total execution time: 0.0768
+INFO - 2025-01-27 19:39:32 --> Config Class Initialized
+INFO - 2025-01-27 19:39:32 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:32 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:32 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:32 --> URI Class Initialized
+INFO - 2025-01-27 19:39:32 --> Router Class Initialized
+INFO - 2025-01-27 19:39:32 --> Output Class Initialized
+INFO - 2025-01-27 19:39:32 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:32 --> Input Class Initialized
+INFO - 2025-01-27 19:39:32 --> Language Class Initialized
+INFO - 2025-01-27 19:39:32 --> Config Class Initialized
+INFO - 2025-01-27 19:39:32 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:32 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:32 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:32 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:32 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:32 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:32 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:32 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:32 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:32 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:32 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:32 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:32 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:32 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:32 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:32 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:32 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:32 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:32 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:32 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:32 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:32 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:32 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:32 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:32 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:32 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:32 --> Calendar Class Initialized
+ERROR - 2025-01-27 19:39:32 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 19:39:32 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 19:39:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 19:39:32 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:32 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:32 --> Total execution time: 0.0805
+INFO - 2025-01-27 19:39:39 --> Config Class Initialized
+INFO - 2025-01-27 19:39:39 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:39 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:39 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:39 --> URI Class Initialized
+INFO - 2025-01-27 19:39:39 --> Router Class Initialized
+INFO - 2025-01-27 19:39:39 --> Output Class Initialized
+INFO - 2025-01-27 19:39:39 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:39 --> Input Class Initialized
+INFO - 2025-01-27 19:39:39 --> Language Class Initialized
+INFO - 2025-01-27 19:39:39 --> Config Class Initialized
+INFO - 2025-01-27 19:39:39 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:39 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:39 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:39 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:39 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:39 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:39 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:39 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:39 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:39 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:39 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:39 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:39 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:39 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:39 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:39 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:39 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:39 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:39 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:39 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:39 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:39 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:39 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 19:39:39 --> Parser Class Initialized
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 19:39:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:39 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:39 --> Total execution time: 0.0891
+INFO - 2025-01-27 19:39:41 --> Config Class Initialized
+INFO - 2025-01-27 19:39:41 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:41 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:41 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:41 --> URI Class Initialized
+INFO - 2025-01-27 19:39:41 --> Router Class Initialized
+INFO - 2025-01-27 19:39:41 --> Output Class Initialized
+INFO - 2025-01-27 19:39:41 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:41 --> Input Class Initialized
+INFO - 2025-01-27 19:39:41 --> Language Class Initialized
+INFO - 2025-01-27 19:39:41 --> Config Class Initialized
+INFO - 2025-01-27 19:39:41 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:41 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:41 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:41 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:41 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:41 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:41 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:41 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:41 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:41 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:41 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:41 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:41 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:41 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:41 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:41 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:41 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:41 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:41 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:41 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:41 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:41 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:41 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:41 --> Table Class Initialized
+INFO - 2025-01-27 19:39:41 --> Helper loaded: room_helper
+DEBUG - 2025-01-27 19:39:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/cancel_choice.php
+DEBUG - 2025-01-27 19:39:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/view.php
+DEBUG - 2025-01-27 19:39:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:41 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:41 --> Total execution time: 0.0739
+INFO - 2025-01-27 19:39:42 --> Config Class Initialized
+INFO - 2025-01-27 19:39:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:42 --> URI Class Initialized
+INFO - 2025-01-27 19:39:42 --> Router Class Initialized
+INFO - 2025-01-27 19:39:42 --> Output Class Initialized
+INFO - 2025-01-27 19:39:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:42 --> Input Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language Class Initialized
+INFO - 2025-01-27 19:39:42 --> Config Class Initialized
+INFO - 2025-01-27 19:39:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:42 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:42 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:42 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:42 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:42 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:42 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:42 --> Total execution time: 0.0606
+INFO - 2025-01-27 19:39:42 --> Config Class Initialized
+INFO - 2025-01-27 19:39:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:42 --> URI Class Initialized
+INFO - 2025-01-27 19:39:42 --> Router Class Initialized
+INFO - 2025-01-27 19:39:42 --> Output Class Initialized
+INFO - 2025-01-27 19:39:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:42 --> Input Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language Class Initialized
+INFO - 2025-01-27 19:39:42 --> Config Class Initialized
+INFO - 2025-01-27 19:39:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:42 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:42 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:42 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:42 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:42 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:42 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:42 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:42 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:42 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:42 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:42 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:42 --> Total execution time: 0.0767
+INFO - 2025-01-27 19:39:43 --> Config Class Initialized
+INFO - 2025-01-27 19:39:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:43 --> URI Class Initialized
+INFO - 2025-01-27 19:39:43 --> Router Class Initialized
+INFO - 2025-01-27 19:39:43 --> Output Class Initialized
+INFO - 2025-01-27 19:39:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:43 --> Input Class Initialized
+INFO - 2025-01-27 19:39:43 --> Language Class Initialized
+INFO - 2025-01-27 19:39:43 --> Config Class Initialized
+INFO - 2025-01-27 19:39:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:43 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:43 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:43 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:43 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:43 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:43 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:43 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:43 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:43 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:43 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:43 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:43 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:43 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:43 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:43 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:43 --> Total execution time: 0.0636
+INFO - 2025-01-27 19:39:45 --> Config Class Initialized
+INFO - 2025-01-27 19:39:45 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:45 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:45 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:45 --> URI Class Initialized
+INFO - 2025-01-27 19:39:45 --> Router Class Initialized
+INFO - 2025-01-27 19:39:45 --> Output Class Initialized
+INFO - 2025-01-27 19:39:45 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:45 --> Input Class Initialized
+INFO - 2025-01-27 19:39:45 --> Language Class Initialized
+INFO - 2025-01-27 19:39:46 --> Config Class Initialized
+INFO - 2025-01-27 19:39:46 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:46 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:46 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:46 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:46 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:46 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:46 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:46 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:46 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:46 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:46 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:46 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:46 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:46 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:46 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:46 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:46 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:46 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 19:39:46 --> Helper loaded: number_helper
+ERROR - 2025-01-27 19:39:46 --> Language file contains no data: language/french/number_lang.php
+ERROR - 2025-01-27 19:39:46 --> Could not find the language line "megabyte_abbr"
+INFO - 2025-01-27 19:39:46 --> Table Class Initialized
+DEBUG - 2025-01-27 19:39:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/rooms/room_info.php
+INFO - 2025-01-27 19:39:46 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:46 --> Total execution time: 0.0737
+INFO - 2025-01-27 19:39:48 --> Config Class Initialized
+INFO - 2025-01-27 19:39:48 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:48 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:48 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:48 --> URI Class Initialized
+INFO - 2025-01-27 19:39:48 --> Router Class Initialized
+INFO - 2025-01-27 19:39:48 --> Output Class Initialized
+INFO - 2025-01-27 19:39:48 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:48 --> Input Class Initialized
+INFO - 2025-01-27 19:39:48 --> Language Class Initialized
+INFO - 2025-01-27 19:39:48 --> Config Class Initialized
+INFO - 2025-01-27 19:39:48 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:48 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:48 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:48 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:48 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:48 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:48 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:48 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:48 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:48 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:48 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:48 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:48 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:48 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:48 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 19:39:48 --> Helper loaded: result_helper
+INFO - 2025-01-27 19:39:48 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 19:39:48 --> Helper loaded: week_helper
+INFO - 2025-01-27 19:39:48 --> Helper loaded: colour_helper
+INFO - 2025-01-27 19:39:48 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Dates_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 19:39:48 --> Helper loaded: booking_helper
+INFO - 2025-01-27 19:39:48 --> Model "Bookings_repeat_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Periods_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Crud_model" initialized
+INFO - 2025-01-27 19:39:48 --> Model "Departments_model" initialized
+INFO - 2025-01-27 19:39:48 --> Table Class Initialized
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_recurs - assumed 'bookings_recurs' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 199
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_every - assumed 'bookings_every' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 200
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_starting_from - assumed 'bookings_starting_from' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 206
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_start_of_session - assumed 'bookings_start_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 208
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_until - assumed 'bookings_until' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 219
+ERROR - 2025-01-27 19:39:48 --> Severity: Warning --> Use of undefined constant bookings_end_of_session - assumed 'bookings_end_of_session' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php 221
+DEBUG - 2025-01-27 19:39:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create/single.php
+DEBUG - 2025-01-27 19:39:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/create.php
+DEBUG - 2025-01-27 19:39:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:48 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:48 --> Total execution time: 0.0714
+INFO - 2025-01-27 19:39:50 --> Config Class Initialized
+INFO - 2025-01-27 19:39:50 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:39:50 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:39:50 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:39:50 --> URI Class Initialized
+INFO - 2025-01-27 19:39:50 --> Router Class Initialized
+INFO - 2025-01-27 19:39:50 --> Output Class Initialized
+INFO - 2025-01-27 19:39:50 --> Security Class Initialized
+DEBUG - 2025-01-27 19:39:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:39:50 --> Input Class Initialized
+INFO - 2025-01-27 19:39:50 --> Language Class Initialized
+INFO - 2025-01-27 19:39:50 --> Config Class Initialized
+INFO - 2025-01-27 19:39:50 --> Loader Class Initialized
+INFO - 2025-01-27 19:39:50 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:39:50 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:39:50 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:39:50 --> Controller Class Initialized
+INFO - 2025-01-27 19:39:50 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:39:50 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:39:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:39:50 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:39:50 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:39:50 --> Migrations Class Initialized
+INFO - 2025-01-27 19:39:50 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:39:50 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:39:50 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:39:50 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:39:50 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:39:50 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:39:50 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:39:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:39:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:39:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:39:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:39:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:39:50 --> Final output sent to browser
+DEBUG - 2025-01-27 19:39:50 --> Total execution time: 0.0677
+INFO - 2025-01-27 19:40:56 --> Config Class Initialized
+INFO - 2025-01-27 19:40:56 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:40:56 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:40:56 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:40:56 --> URI Class Initialized
+INFO - 2025-01-27 19:40:56 --> Router Class Initialized
+INFO - 2025-01-27 19:40:56 --> Output Class Initialized
+INFO - 2025-01-27 19:40:56 --> Security Class Initialized
+DEBUG - 2025-01-27 19:40:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:40:56 --> Input Class Initialized
+INFO - 2025-01-27 19:40:56 --> Language Class Initialized
+INFO - 2025-01-27 19:40:56 --> Config Class Initialized
+INFO - 2025-01-27 19:40:56 --> Loader Class Initialized
+INFO - 2025-01-27 19:40:56 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:40:56 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:40:56 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:40:56 --> Controller Class Initialized
+INFO - 2025-01-27 19:40:56 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:40:56 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:40:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:40:56 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:40:56 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:40:56 --> Migrations Class Initialized
+INFO - 2025-01-27 19:40:56 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:40:56 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:40:56 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:40:56 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:40:56 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:40:56 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:40:56 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:40:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:40:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:40:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:40:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:40:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:40:56 --> Final output sent to browser
+DEBUG - 2025-01-27 19:40:56 --> Total execution time: 0.0715
+INFO - 2025-01-27 19:41:19 --> Config Class Initialized
+INFO - 2025-01-27 19:41:19 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:19 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:19 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:19 --> URI Class Initialized
+INFO - 2025-01-27 19:41:19 --> Router Class Initialized
+INFO - 2025-01-27 19:41:19 --> Output Class Initialized
+INFO - 2025-01-27 19:41:19 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:19 --> Input Class Initialized
+INFO - 2025-01-27 19:41:19 --> Language Class Initialized
+INFO - 2025-01-27 19:41:19 --> Config Class Initialized
+INFO - 2025-01-27 19:41:19 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:19 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:19 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:19 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:19 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:19 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:19 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:19 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:19 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:19 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:19 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:19 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:19 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:19 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:19 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:19 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:19 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:41:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:41:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:41:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:41:19 --> Final output sent to browser
+DEBUG - 2025-01-27 19:41:19 --> Total execution time: 0.0542
+INFO - 2025-01-27 19:41:25 --> Config Class Initialized
+INFO - 2025-01-27 19:41:25 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:25 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:25 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:25 --> URI Class Initialized
+INFO - 2025-01-27 19:41:25 --> Router Class Initialized
+INFO - 2025-01-27 19:41:25 --> Output Class Initialized
+INFO - 2025-01-27 19:41:25 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:25 --> Input Class Initialized
+INFO - 2025-01-27 19:41:25 --> Language Class Initialized
+INFO - 2025-01-27 19:41:25 --> Config Class Initialized
+INFO - 2025-01-27 19:41:25 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:25 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:25 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:25 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:25 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:25 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:25 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:25 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:25 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:25 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:25 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:25 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:25 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:25 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:25 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:25 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:25 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:25 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:25 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:41:25 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:41:25 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:41:25 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:41:25 --> Final output sent to browser
+DEBUG - 2025-01-27 19:41:25 --> Total execution time: 0.0601
+INFO - 2025-01-27 19:41:44 --> Config Class Initialized
+INFO - 2025-01-27 19:41:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:44 --> URI Class Initialized
+INFO - 2025-01-27 19:41:44 --> Router Class Initialized
+INFO - 2025-01-27 19:41:44 --> Output Class Initialized
+INFO - 2025-01-27 19:41:44 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:44 --> Input Class Initialized
+INFO - 2025-01-27 19:41:44 --> Language Class Initialized
+INFO - 2025-01-27 19:41:44 --> Config Class Initialized
+INFO - 2025-01-27 19:41:44 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:44 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:44 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:44 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:44 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:44 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:44 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:41:44 --> Severity: error --> Exception: Function name must be a string /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 2
+INFO - 2025-01-27 19:41:48 --> Config Class Initialized
+INFO - 2025-01-27 19:41:48 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:48 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:48 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:48 --> URI Class Initialized
+INFO - 2025-01-27 19:41:48 --> Router Class Initialized
+INFO - 2025-01-27 19:41:48 --> Output Class Initialized
+INFO - 2025-01-27 19:41:48 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:48 --> Input Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language Class Initialized
+INFO - 2025-01-27 19:41:48 --> Config Class Initialized
+INFO - 2025-01-27 19:41:48 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:48 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:48 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:48 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:48 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:48 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:48 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:48 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:48 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:48 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:48 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:48 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:48 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:41:48 --> Severity: error --> Exception: Function name must be a string /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 2
+INFO - 2025-01-27 19:41:48 --> Config Class Initialized
+INFO - 2025-01-27 19:41:48 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:48 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:48 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:48 --> URI Class Initialized
+INFO - 2025-01-27 19:41:48 --> Router Class Initialized
+INFO - 2025-01-27 19:41:48 --> Output Class Initialized
+INFO - 2025-01-27 19:41:48 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:48 --> Input Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language Class Initialized
+INFO - 2025-01-27 19:41:48 --> Config Class Initialized
+INFO - 2025-01-27 19:41:48 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:48 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:48 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:48 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:48 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:48 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:48 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:48 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:48 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:48 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:48 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:48 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:48 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:48 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:48 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:48 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:41:48 --> Severity: error --> Exception: Function name must be a string /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 2
+INFO - 2025-01-27 19:41:51 --> Config Class Initialized
+INFO - 2025-01-27 19:41:51 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:41:51 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:41:51 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:41:51 --> URI Class Initialized
+INFO - 2025-01-27 19:41:51 --> Router Class Initialized
+INFO - 2025-01-27 19:41:51 --> Output Class Initialized
+INFO - 2025-01-27 19:41:51 --> Security Class Initialized
+DEBUG - 2025-01-27 19:41:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:41:51 --> Input Class Initialized
+INFO - 2025-01-27 19:41:51 --> Language Class Initialized
+INFO - 2025-01-27 19:41:51 --> Config Class Initialized
+INFO - 2025-01-27 19:41:51 --> Loader Class Initialized
+INFO - 2025-01-27 19:41:51 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:41:51 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:41:51 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:41:51 --> Controller Class Initialized
+INFO - 2025-01-27 19:41:51 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:41:51 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:41:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:41:51 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:41:51 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:41:51 --> Migrations Class Initialized
+INFO - 2025-01-27 19:41:51 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:41:51 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:41:51 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:41:51 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:41:51 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:41:51 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:41:51 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:41:51 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:41:51 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:41:51 --> Severity: Warning --> Use of undefined constant user_details - assumed 'user_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 2
+DEBUG - 2025-01-27 19:41:51 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:41:51 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:41:51 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:41:51 --> Final output sent to browser
+DEBUG - 2025-01-27 19:41:51 --> Total execution time: 0.0653
+INFO - 2025-01-27 19:42:27 --> Config Class Initialized
+INFO - 2025-01-27 19:42:27 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:42:27 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:42:27 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:42:27 --> URI Class Initialized
+INFO - 2025-01-27 19:42:27 --> Router Class Initialized
+INFO - 2025-01-27 19:42:27 --> Output Class Initialized
+INFO - 2025-01-27 19:42:27 --> Security Class Initialized
+DEBUG - 2025-01-27 19:42:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:42:27 --> Input Class Initialized
+INFO - 2025-01-27 19:42:27 --> Language Class Initialized
+INFO - 2025-01-27 19:42:27 --> Config Class Initialized
+INFO - 2025-01-27 19:42:27 --> Loader Class Initialized
+INFO - 2025-01-27 19:42:27 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:42:27 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:42:27 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:42:27 --> Controller Class Initialized
+INFO - 2025-01-27 19:42:27 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:42:27 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:42:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:42:27 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:42:27 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:42:27 --> Migrations Class Initialized
+INFO - 2025-01-27 19:42:27 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:42:27 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:42:27 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:42:27 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:42:27 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:42:27 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:42:27 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:42:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:42:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:42:27 --> Could not find the language line "language_code"
+ERROR - 2025-01-27 19:42:27 --> Severity: Warning --> Use of undefined constant user_details - assumed 'user_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 4
+DEBUG - 2025-01-27 19:42:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:42:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:42:27 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:42:27 --> Final output sent to browser
+DEBUG - 2025-01-27 19:42:27 --> Total execution time: 0.0553
+INFO - 2025-01-27 19:43:01 --> Config Class Initialized
+INFO - 2025-01-27 19:43:01 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:43:01 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:43:01 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:43:01 --> URI Class Initialized
+INFO - 2025-01-27 19:43:01 --> Router Class Initialized
+INFO - 2025-01-27 19:43:01 --> Output Class Initialized
+INFO - 2025-01-27 19:43:01 --> Security Class Initialized
+DEBUG - 2025-01-27 19:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:43:01 --> Input Class Initialized
+INFO - 2025-01-27 19:43:01 --> Language Class Initialized
+INFO - 2025-01-27 19:43:01 --> Config Class Initialized
+INFO - 2025-01-27 19:43:01 --> Loader Class Initialized
+INFO - 2025-01-27 19:43:01 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:43:01 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:43:01 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:43:01 --> Controller Class Initialized
+INFO - 2025-01-27 19:43:01 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:43:01 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:43:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:43:01 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:43:01 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:43:01 --> Migrations Class Initialized
+INFO - 2025-01-27 19:43:01 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:43:01 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:43:01 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:43:01 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:43:01 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:43:01 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 19:43:01 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 19:43:01 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:43:01 --> Final output sent to browser
+DEBUG - 2025-01-27 19:43:01 --> Total execution time: 0.0816
+INFO - 2025-01-27 19:44:36 --> Config Class Initialized
+INFO - 2025-01-27 19:44:36 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:44:36 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:44:36 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:44:36 --> URI Class Initialized
+INFO - 2025-01-27 19:44:36 --> Router Class Initialized
+INFO - 2025-01-27 19:44:36 --> Output Class Initialized
+INFO - 2025-01-27 19:44:36 --> Security Class Initialized
+DEBUG - 2025-01-27 19:44:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:44:36 --> Input Class Initialized
+INFO - 2025-01-27 19:44:36 --> Language Class Initialized
+INFO - 2025-01-27 19:44:36 --> Config Class Initialized
+INFO - 2025-01-27 19:44:36 --> Loader Class Initialized
+INFO - 2025-01-27 19:44:36 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:44:36 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:44:36 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:44:36 --> Controller Class Initialized
+INFO - 2025-01-27 19:44:36 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:44:36 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:44:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:44:36 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:44:36 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:44:36 --> Migrations Class Initialized
+INFO - 2025-01-27 19:44:36 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:44:36 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:44:36 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:44:36 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:44:36 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:44:36 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:44:36 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:44:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:44:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:44:36 --> Severity: Warning --> Use of undefined constant user_details - assumed 'user_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 3
+DEBUG - 2025-01-27 19:44:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:44:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:44:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:44:36 --> Final output sent to browser
+DEBUG - 2025-01-27 19:44:36 --> Total execution time: 0.0570
+INFO - 2025-01-27 19:44:56 --> Config Class Initialized
+INFO - 2025-01-27 19:44:56 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:44:56 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:44:56 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:44:56 --> URI Class Initialized
+INFO - 2025-01-27 19:44:56 --> Router Class Initialized
+INFO - 2025-01-27 19:44:56 --> Output Class Initialized
+INFO - 2025-01-27 19:44:56 --> Security Class Initialized
+DEBUG - 2025-01-27 19:44:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:44:56 --> Input Class Initialized
+INFO - 2025-01-27 19:44:56 --> Language Class Initialized
+INFO - 2025-01-27 19:44:56 --> Config Class Initialized
+INFO - 2025-01-27 19:44:56 --> Loader Class Initialized
+INFO - 2025-01-27 19:44:56 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:44:56 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:44:56 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:44:56 --> Controller Class Initialized
+INFO - 2025-01-27 19:44:56 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:44:56 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:44:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:44:56 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:44:56 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:44:56 --> Migrations Class Initialized
+INFO - 2025-01-27 19:44:56 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:44:56 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:44:56 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:44:56 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:44:56 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:44:56 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:44:56 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:44:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:44:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:44:56 --> Severity: Warning --> Use of undefined constant user_details - assumed 'user_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 3
+DEBUG - 2025-01-27 19:44:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:44:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:44:56 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:44:56 --> Final output sent to browser
+DEBUG - 2025-01-27 19:44:56 --> Total execution time: 0.0525
+INFO - 2025-01-27 19:45:00 --> Config Class Initialized
+INFO - 2025-01-27 19:45:00 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:45:00 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:45:00 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:45:00 --> URI Class Initialized
+INFO - 2025-01-27 19:45:00 --> Router Class Initialized
+INFO - 2025-01-27 19:45:00 --> Output Class Initialized
+INFO - 2025-01-27 19:45:00 --> Security Class Initialized
+DEBUG - 2025-01-27 19:45:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:45:00 --> Input Class Initialized
+INFO - 2025-01-27 19:45:00 --> Language Class Initialized
+INFO - 2025-01-27 19:45:00 --> Config Class Initialized
+INFO - 2025-01-27 19:45:00 --> Loader Class Initialized
+INFO - 2025-01-27 19:45:00 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:45:00 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:45:00 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:45:00 --> Controller Class Initialized
+INFO - 2025-01-27 19:45:00 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:45:00 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:45:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:45:00 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:45:00 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:45:00 --> Migrations Class Initialized
+INFO - 2025-01-27 19:45:00 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:45:00 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:45:00 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:45:00 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:45:00 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:45:00 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:45:00 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:45:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:45:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:45:00 --> Severity: Warning --> Use of undefined constant user_details - assumed 'user_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 3
+DEBUG - 2025-01-27 19:45:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:45:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:45:00 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:45:00 --> Final output sent to browser
+DEBUG - 2025-01-27 19:45:00 --> Total execution time: 0.0698
+INFO - 2025-01-27 19:45:31 --> Config Class Initialized
+INFO - 2025-01-27 19:45:31 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:45:31 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:45:31 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:45:31 --> URI Class Initialized
+INFO - 2025-01-27 19:45:31 --> Router Class Initialized
+INFO - 2025-01-27 19:45:31 --> Output Class Initialized
+INFO - 2025-01-27 19:45:31 --> Security Class Initialized
+DEBUG - 2025-01-27 19:45:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:45:31 --> Input Class Initialized
+INFO - 2025-01-27 19:45:31 --> Language Class Initialized
+INFO - 2025-01-27 19:45:31 --> Config Class Initialized
+INFO - 2025-01-27 19:45:31 --> Loader Class Initialized
+INFO - 2025-01-27 19:45:31 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:45:31 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:45:31 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:45:31 --> Controller Class Initialized
+INFO - 2025-01-27 19:45:31 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:45:31 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:45:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:45:31 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:45:31 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:45:31 --> Migrations Class Initialized
+INFO - 2025-01-27 19:45:31 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:45:31 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:45:31 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:45:31 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:45:31 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:45:31 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:45:31 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:45:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:45:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:45:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:45:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:45:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:45:31 --> Final output sent to browser
+DEBUG - 2025-01-27 19:45:31 --> Total execution time: 0.0708
+INFO - 2025-01-27 19:45:46 --> Config Class Initialized
+INFO - 2025-01-27 19:45:46 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:45:46 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:45:46 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:45:46 --> URI Class Initialized
+INFO - 2025-01-27 19:45:46 --> Router Class Initialized
+INFO - 2025-01-27 19:45:46 --> Output Class Initialized
+INFO - 2025-01-27 19:45:46 --> Security Class Initialized
+DEBUG - 2025-01-27 19:45:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:45:46 --> Input Class Initialized
+INFO - 2025-01-27 19:45:46 --> Language Class Initialized
+INFO - 2025-01-27 19:45:46 --> Config Class Initialized
+INFO - 2025-01-27 19:45:46 --> Loader Class Initialized
+INFO - 2025-01-27 19:45:46 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:45:46 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:45:46 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:45:46 --> Controller Class Initialized
+INFO - 2025-01-27 19:45:46 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:45:46 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:45:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:45:46 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:45:46 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:45:46 --> Migrations Class Initialized
+INFO - 2025-01-27 19:45:46 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:45:46 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:45:46 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:45:46 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:45:46 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:45:46 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:45:46 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:45:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:45:46 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:45:46 --> Severity: error --> Exception: Function name must be a string /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php 3
+INFO - 2025-01-27 19:45:49 --> Config Class Initialized
+INFO - 2025-01-27 19:45:49 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:45:49 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:45:49 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:45:49 --> URI Class Initialized
+INFO - 2025-01-27 19:45:49 --> Router Class Initialized
+INFO - 2025-01-27 19:45:49 --> Output Class Initialized
+INFO - 2025-01-27 19:45:49 --> Security Class Initialized
+DEBUG - 2025-01-27 19:45:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:45:49 --> Input Class Initialized
+INFO - 2025-01-27 19:45:49 --> Language Class Initialized
+INFO - 2025-01-27 19:45:49 --> Config Class Initialized
+INFO - 2025-01-27 19:45:49 --> Loader Class Initialized
+INFO - 2025-01-27 19:45:49 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:45:49 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:45:49 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:45:49 --> Controller Class Initialized
+INFO - 2025-01-27 19:45:49 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:45:49 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:45:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:45:49 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:45:49 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:45:49 --> Migrations Class Initialized
+INFO - 2025-01-27 19:45:49 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:45:49 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:45:49 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:45:49 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:45:49 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:45:49 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:45:49 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:45:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:45:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:45:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:45:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:45:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:45:49 --> Final output sent to browser
+DEBUG - 2025-01-27 19:45:49 --> Total execution time: 0.0634
+INFO - 2025-01-27 19:48:16 --> Config Class Initialized
+INFO - 2025-01-27 19:48:16 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:16 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:16 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:16 --> URI Class Initialized
+INFO - 2025-01-27 19:48:16 --> Router Class Initialized
+INFO - 2025-01-27 19:48:16 --> Output Class Initialized
+INFO - 2025-01-27 19:48:16 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:16 --> Input Class Initialized
+INFO - 2025-01-27 19:48:16 --> Language Class Initialized
+INFO - 2025-01-27 19:48:16 --> Config Class Initialized
+INFO - 2025-01-27 19:48:16 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:16 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:16 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:16 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:16 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:16 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:16 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:16 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:16 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:16 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:16 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:16 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:16 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:16 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:16 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:16 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:16 --> Model "Crud_model" initialized
+ERROR - 2025-01-27 19:48:16 --> Could not find the language line "calendar_select_room"
+DEBUG - 2025-01-27 19:48:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:16 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:16 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:16 --> Total execution time: 0.0654
+INFO - 2025-01-27 19:48:19 --> Config Class Initialized
+INFO - 2025-01-27 19:48:19 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:19 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:19 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:19 --> URI Class Initialized
+INFO - 2025-01-27 19:48:19 --> Router Class Initialized
+INFO - 2025-01-27 19:48:19 --> Output Class Initialized
+INFO - 2025-01-27 19:48:19 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:19 --> Input Class Initialized
+INFO - 2025-01-27 19:48:19 --> Language Class Initialized
+INFO - 2025-01-27 19:48:19 --> Config Class Initialized
+INFO - 2025-01-27 19:48:19 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:19 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:19 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:19 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:19 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:19 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:19 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:19 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:19 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:19 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:19 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:19 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:19 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:19 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:19 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:19 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:19 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:48:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:19 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:19 --> Total execution time: 0.0675
+INFO - 2025-01-27 19:48:31 --> Config Class Initialized
+INFO - 2025-01-27 19:48:31 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:31 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:31 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:31 --> URI Class Initialized
+INFO - 2025-01-27 19:48:31 --> Router Class Initialized
+INFO - 2025-01-27 19:48:31 --> Output Class Initialized
+INFO - 2025-01-27 19:48:31 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:31 --> Input Class Initialized
+INFO - 2025-01-27 19:48:31 --> Language Class Initialized
+INFO - 2025-01-27 19:48:31 --> Config Class Initialized
+INFO - 2025-01-27 19:48:31 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:31 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:31 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:31 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:31 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:31 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:31 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:31 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:31 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:31 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:31 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:31 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:31 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:31 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:31 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:31 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:31 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:48:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:31 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:31 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:31 --> Total execution time: 0.0565
+INFO - 2025-01-27 19:48:49 --> Config Class Initialized
+INFO - 2025-01-27 19:48:49 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:49 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:49 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:49 --> URI Class Initialized
+INFO - 2025-01-27 19:48:49 --> Router Class Initialized
+INFO - 2025-01-27 19:48:49 --> Output Class Initialized
+INFO - 2025-01-27 19:48:49 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:49 --> Input Class Initialized
+INFO - 2025-01-27 19:48:49 --> Language Class Initialized
+INFO - 2025-01-27 19:48:49 --> Config Class Initialized
+INFO - 2025-01-27 19:48:49 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:49 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:49 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:49 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:49 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:49 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:49 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:49 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:49 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:49 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:49 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:49 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:49 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:49 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:49 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:49 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:49 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:48:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:49 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:49 --> Total execution time: 0.0622
+INFO - 2025-01-27 19:48:55 --> Config Class Initialized
+INFO - 2025-01-27 19:48:55 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:55 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:55 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:55 --> URI Class Initialized
+INFO - 2025-01-27 19:48:55 --> Router Class Initialized
+INFO - 2025-01-27 19:48:55 --> Output Class Initialized
+INFO - 2025-01-27 19:48:55 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:55 --> Input Class Initialized
+INFO - 2025-01-27 19:48:55 --> Language Class Initialized
+INFO - 2025-01-27 19:48:55 --> Config Class Initialized
+INFO - 2025-01-27 19:48:55 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:55 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:55 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:55 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:55 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:55 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:55 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:55 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:55 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:55 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:55 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:55 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:55 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:55 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:55 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:55 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:55 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:48:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:55 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:55 --> Total execution time: 0.0552
+INFO - 2025-01-27 19:48:58 --> Config Class Initialized
+INFO - 2025-01-27 19:48:58 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:48:58 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:48:58 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:48:58 --> URI Class Initialized
+INFO - 2025-01-27 19:48:58 --> Router Class Initialized
+INFO - 2025-01-27 19:48:58 --> Output Class Initialized
+INFO - 2025-01-27 19:48:58 --> Security Class Initialized
+DEBUG - 2025-01-27 19:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:48:58 --> Input Class Initialized
+INFO - 2025-01-27 19:48:58 --> Language Class Initialized
+INFO - 2025-01-27 19:48:58 --> Config Class Initialized
+INFO - 2025-01-27 19:48:58 --> Loader Class Initialized
+INFO - 2025-01-27 19:48:58 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:48:58 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:48:58 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:48:58 --> Controller Class Initialized
+INFO - 2025-01-27 19:48:58 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:48:58 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:48:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:48:58 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:48:58 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:48:58 --> Migrations Class Initialized
+INFO - 2025-01-27 19:48:58 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:48:58 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:48:58 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:48:58 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:48:58 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:48:58 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:48:58 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:48:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:48:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:48:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:48:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:48:58 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:48:58 --> Final output sent to browser
+DEBUG - 2025-01-27 19:48:58 --> Total execution time: 0.0737
+INFO - 2025-01-27 19:50:12 --> Config Class Initialized
+INFO - 2025-01-27 19:50:12 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:12 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:12 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:12 --> URI Class Initialized
+INFO - 2025-01-27 19:50:12 --> Router Class Initialized
+INFO - 2025-01-27 19:50:12 --> Output Class Initialized
+INFO - 2025-01-27 19:50:12 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:12 --> Input Class Initialized
+INFO - 2025-01-27 19:50:12 --> Language Class Initialized
+INFO - 2025-01-27 19:50:12 --> Config Class Initialized
+INFO - 2025-01-27 19:50:12 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:12 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:12 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:12 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:12 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:12 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:12 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:12 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:12 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:12 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:12 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:12 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:12 --> Database Forge Class Initialized
+ERROR - 2025-01-27 19:50:12 --> Severity: error --> Exception: syntax error, unexpected '$lang' (T_VARIABLE) /var/www/html/classroombookings/crbs-core/application/language/french/crbs_lang.php 37
+INFO - 2025-01-27 19:50:19 --> Config Class Initialized
+INFO - 2025-01-27 19:50:19 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:19 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:19 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:19 --> URI Class Initialized
+INFO - 2025-01-27 19:50:19 --> Router Class Initialized
+INFO - 2025-01-27 19:50:19 --> Output Class Initialized
+INFO - 2025-01-27 19:50:19 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:19 --> Input Class Initialized
+INFO - 2025-01-27 19:50:19 --> Language Class Initialized
+INFO - 2025-01-27 19:50:19 --> Config Class Initialized
+INFO - 2025-01-27 19:50:19 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:19 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:19 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:19 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:19 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:19 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:19 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:19 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:19 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:19 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:19 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:19 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:19 --> Database Forge Class Initialized
+ERROR - 2025-01-27 19:50:19 --> Severity: error --> Exception: syntax error, unexpected '$lang' (T_VARIABLE) /var/www/html/classroombookings/crbs-core/application/language/french/crbs_lang.php 37
+INFO - 2025-01-27 19:50:27 --> Config Class Initialized
+INFO - 2025-01-27 19:50:27 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:27 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:27 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:27 --> URI Class Initialized
+INFO - 2025-01-27 19:50:27 --> Router Class Initialized
+INFO - 2025-01-27 19:50:27 --> Output Class Initialized
+INFO - 2025-01-27 19:50:27 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:27 --> Input Class Initialized
+INFO - 2025-01-27 19:50:27 --> Language Class Initialized
+INFO - 2025-01-27 19:50:27 --> Config Class Initialized
+INFO - 2025-01-27 19:50:27 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:27 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:27 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:27 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:27 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:27 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:27 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:27 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:27 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:27 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:27 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:27 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:27 --> Database Forge Class Initialized
+ERROR - 2025-01-27 19:50:27 --> Severity: error --> Exception: syntax error, unexpected '$lang' (T_VARIABLE) /var/www/html/classroombookings/crbs-core/application/language/french/crbs_lang.php 37
+INFO - 2025-01-27 19:50:40 --> Config Class Initialized
+INFO - 2025-01-27 19:50:40 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:40 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:40 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:40 --> URI Class Initialized
+INFO - 2025-01-27 19:50:40 --> Router Class Initialized
+INFO - 2025-01-27 19:50:40 --> Output Class Initialized
+INFO - 2025-01-27 19:50:40 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:40 --> Input Class Initialized
+INFO - 2025-01-27 19:50:40 --> Language Class Initialized
+INFO - 2025-01-27 19:50:40 --> Config Class Initialized
+INFO - 2025-01-27 19:50:40 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:40 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:40 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:40 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:40 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:40 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:40 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:40 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:40 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:40 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:40 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:40 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:40 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:50:40 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:40 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:40 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:50:40 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:50:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:50:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:50:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:50:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:50:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:50:40 --> Final output sent to browser
+DEBUG - 2025-01-27 19:50:40 --> Total execution time: 0.0621
+INFO - 2025-01-27 19:50:42 --> Config Class Initialized
+INFO - 2025-01-27 19:50:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:42 --> URI Class Initialized
+INFO - 2025-01-27 19:50:42 --> Router Class Initialized
+INFO - 2025-01-27 19:50:42 --> Output Class Initialized
+INFO - 2025-01-27 19:50:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:42 --> Input Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language Class Initialized
+INFO - 2025-01-27 19:50:42 --> Config Class Initialized
+INFO - 2025-01-27 19:50:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:50:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:50:42 --> Config Class Initialized
+INFO - 2025-01-27 19:50:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:42 --> URI Class Initialized
+INFO - 2025-01-27 19:50:42 --> Router Class Initialized
+INFO - 2025-01-27 19:50:42 --> Output Class Initialized
+INFO - 2025-01-27 19:50:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:42 --> Input Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language Class Initialized
+INFO - 2025-01-27 19:50:42 --> Config Class Initialized
+INFO - 2025-01-27 19:50:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:50:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:50:42 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:50:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:50:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:50:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:50:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:50:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:50:42 --> Final output sent to browser
+DEBUG - 2025-01-27 19:50:42 --> Total execution time: 0.0414
+INFO - 2025-01-27 19:50:43 --> Config Class Initialized
+INFO - 2025-01-27 19:50:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:43 --> URI Class Initialized
+INFO - 2025-01-27 19:50:43 --> Router Class Initialized
+INFO - 2025-01-27 19:50:43 --> Output Class Initialized
+INFO - 2025-01-27 19:50:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:43 --> Input Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language Class Initialized
+INFO - 2025-01-27 19:50:43 --> Config Class Initialized
+INFO - 2025-01-27 19:50:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:50:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:50:43 --> Config Class Initialized
+INFO - 2025-01-27 19:50:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:43 --> URI Class Initialized
+INFO - 2025-01-27 19:50:43 --> Router Class Initialized
+INFO - 2025-01-27 19:50:43 --> Output Class Initialized
+INFO - 2025-01-27 19:50:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:43 --> Input Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language Class Initialized
+INFO - 2025-01-27 19:50:43 --> Config Class Initialized
+INFO - 2025-01-27 19:50:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:50:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:50:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:50:43 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:50:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:50:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:50:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:50:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:50:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:50:43 --> Final output sent to browser
+DEBUG - 2025-01-27 19:50:43 --> Total execution time: 0.0394
+INFO - 2025-01-27 19:50:44 --> Config Class Initialized
+INFO - 2025-01-27 19:50:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:44 --> URI Class Initialized
+INFO - 2025-01-27 19:50:44 --> Router Class Initialized
+INFO - 2025-01-27 19:50:44 --> Output Class Initialized
+INFO - 2025-01-27 19:50:44 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:44 --> Input Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language Class Initialized
+INFO - 2025-01-27 19:50:44 --> Config Class Initialized
+INFO - 2025-01-27 19:50:44 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:44 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:44 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:50:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:50:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:50:44 --> Config Class Initialized
+INFO - 2025-01-27 19:50:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:50:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:50:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:50:44 --> URI Class Initialized
+INFO - 2025-01-27 19:50:44 --> Router Class Initialized
+INFO - 2025-01-27 19:50:44 --> Output Class Initialized
+INFO - 2025-01-27 19:50:44 --> Security Class Initialized
+DEBUG - 2025-01-27 19:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:50:44 --> Input Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language Class Initialized
+INFO - 2025-01-27 19:50:44 --> Config Class Initialized
+INFO - 2025-01-27 19:50:44 --> Loader Class Initialized
+INFO - 2025-01-27 19:50:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:50:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:50:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:50:44 --> Controller Class Initialized
+INFO - 2025-01-27 19:50:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:50:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:50:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:50:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:50:44 --> Migrations Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:50:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:50:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:50:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:50:44 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:50:44 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:50:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:50:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:50:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:50:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:50:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:50:44 --> Final output sent to browser
+DEBUG - 2025-01-27 19:50:44 --> Total execution time: 0.0398
+INFO - 2025-01-27 19:51:05 --> Config Class Initialized
+INFO - 2025-01-27 19:51:05 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:51:05 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:51:05 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:51:05 --> URI Class Initialized
+INFO - 2025-01-27 19:51:05 --> Router Class Initialized
+INFO - 2025-01-27 19:51:05 --> Output Class Initialized
+INFO - 2025-01-27 19:51:05 --> Security Class Initialized
+DEBUG - 2025-01-27 19:51:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:51:05 --> Input Class Initialized
+INFO - 2025-01-27 19:51:05 --> Language Class Initialized
+INFO - 2025-01-27 19:51:05 --> Config Class Initialized
+INFO - 2025-01-27 19:51:05 --> Loader Class Initialized
+INFO - 2025-01-27 19:51:05 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:51:05 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:51:05 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:51:05 --> Controller Class Initialized
+INFO - 2025-01-27 19:51:05 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:51:05 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:51:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:51:05 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:51:05 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:51:05 --> Migrations Class Initialized
+INFO - 2025-01-27 19:51:05 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:51:05 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:51:05 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:51:05 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:51:05 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:51:05 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:51:05 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:51:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:51:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:51:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:51:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:51:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:51:05 --> Final output sent to browser
+DEBUG - 2025-01-27 19:51:05 --> Total execution time: 0.0710
+INFO - 2025-01-27 19:52:42 --> Config Class Initialized
+INFO - 2025-01-27 19:52:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:52:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:52:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:52:42 --> URI Class Initialized
+INFO - 2025-01-27 19:52:42 --> Router Class Initialized
+INFO - 2025-01-27 19:52:42 --> Output Class Initialized
+INFO - 2025-01-27 19:52:42 --> Security Class Initialized
+DEBUG - 2025-01-27 19:52:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:52:42 --> Input Class Initialized
+INFO - 2025-01-27 19:52:42 --> Language Class Initialized
+INFO - 2025-01-27 19:52:42 --> Config Class Initialized
+INFO - 2025-01-27 19:52:42 --> Loader Class Initialized
+INFO - 2025-01-27 19:52:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:52:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:52:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:52:42 --> Controller Class Initialized
+INFO - 2025-01-27 19:52:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:52:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:52:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:52:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:52:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:52:42 --> Migrations Class Initialized
+INFO - 2025-01-27 19:52:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:52:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:52:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:52:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:52:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:52:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:52:42 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:52:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:52:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:52:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:52:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:52:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:52:42 --> Final output sent to browser
+DEBUG - 2025-01-27 19:52:42 --> Total execution time: 0.0551
+INFO - 2025-01-27 19:53:09 --> Config Class Initialized
+INFO - 2025-01-27 19:53:09 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:53:09 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:53:09 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:53:09 --> URI Class Initialized
+INFO - 2025-01-27 19:53:09 --> Router Class Initialized
+INFO - 2025-01-27 19:53:09 --> Output Class Initialized
+INFO - 2025-01-27 19:53:09 --> Security Class Initialized
+DEBUG - 2025-01-27 19:53:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:53:09 --> Input Class Initialized
+INFO - 2025-01-27 19:53:09 --> Language Class Initialized
+INFO - 2025-01-27 19:53:09 --> Config Class Initialized
+INFO - 2025-01-27 19:53:09 --> Loader Class Initialized
+INFO - 2025-01-27 19:53:09 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:53:09 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:53:09 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:53:09 --> Controller Class Initialized
+INFO - 2025-01-27 19:53:09 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:53:09 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:53:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:53:09 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:53:09 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:53:09 --> Migrations Class Initialized
+INFO - 2025-01-27 19:53:09 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:53:09 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:53:09 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:53:09 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:53:09 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:53:09 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:53:09 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:53:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:53:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:53:09 --> Could not find the language line "password_change"
+ERROR - 2025-01-27 19:53:09 --> Could not find the language line "password_change_info"
+DEBUG - 2025-01-27 19:53:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:53:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:53:09 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:53:09 --> Final output sent to browser
+DEBUG - 2025-01-27 19:53:09 --> Total execution time: 0.0689
+INFO - 2025-01-27 19:53:23 --> Config Class Initialized
+INFO - 2025-01-27 19:53:23 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:53:23 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:53:23 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:53:23 --> URI Class Initialized
+INFO - 2025-01-27 19:53:23 --> Router Class Initialized
+INFO - 2025-01-27 19:53:23 --> Output Class Initialized
+INFO - 2025-01-27 19:53:23 --> Security Class Initialized
+DEBUG - 2025-01-27 19:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:53:23 --> Input Class Initialized
+INFO - 2025-01-27 19:53:23 --> Language Class Initialized
+INFO - 2025-01-27 19:53:23 --> Config Class Initialized
+INFO - 2025-01-27 19:53:23 --> Loader Class Initialized
+INFO - 2025-01-27 19:53:23 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:53:23 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:53:23 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:53:23 --> Controller Class Initialized
+INFO - 2025-01-27 19:53:23 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:53:23 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:53:23 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:53:23 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:53:23 --> Migrations Class Initialized
+INFO - 2025-01-27 19:53:23 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:53:23 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:53:23 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:53:23 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:53:23 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:53:23 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:53:23 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:53:23 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:53:23 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+ERROR - 2025-01-27 19:53:23 --> Could not find the language line "password_change"
+ERROR - 2025-01-27 19:53:23 --> Could not find the language line "password_change_info"
+DEBUG - 2025-01-27 19:53:23 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:53:23 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:53:23 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:53:23 --> Final output sent to browser
+DEBUG - 2025-01-27 19:53:23 --> Total execution time: 0.0575
+INFO - 2025-01-27 19:53:33 --> Config Class Initialized
+INFO - 2025-01-27 19:53:33 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:53:33 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:53:33 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:53:33 --> URI Class Initialized
+INFO - 2025-01-27 19:53:33 --> Router Class Initialized
+INFO - 2025-01-27 19:53:33 --> Output Class Initialized
+INFO - 2025-01-27 19:53:33 --> Security Class Initialized
+DEBUG - 2025-01-27 19:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:53:33 --> Input Class Initialized
+INFO - 2025-01-27 19:53:33 --> Language Class Initialized
+INFO - 2025-01-27 19:53:33 --> Config Class Initialized
+INFO - 2025-01-27 19:53:33 --> Loader Class Initialized
+INFO - 2025-01-27 19:53:33 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:53:33 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:53:33 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:53:33 --> Controller Class Initialized
+INFO - 2025-01-27 19:53:33 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:53:33 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:53:33 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:53:33 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:53:33 --> Migrations Class Initialized
+INFO - 2025-01-27 19:53:33 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:53:33 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:53:33 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:53:33 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:53:33 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:53:33 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:53:33 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:53:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:53:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:53:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:53:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:53:33 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:53:33 --> Final output sent to browser
+DEBUG - 2025-01-27 19:53:33 --> Total execution time: 0.0660
+INFO - 2025-01-27 19:53:43 --> Config Class Initialized
+INFO - 2025-01-27 19:53:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:53:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:53:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:53:43 --> URI Class Initialized
+INFO - 2025-01-27 19:53:43 --> Router Class Initialized
+INFO - 2025-01-27 19:53:43 --> Output Class Initialized
+INFO - 2025-01-27 19:53:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:53:43 --> Input Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language Class Initialized
+INFO - 2025-01-27 19:53:43 --> Config Class Initialized
+INFO - 2025-01-27 19:53:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:53:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:53:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:53:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:53:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:53:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:53:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:53:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:53:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:53:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:53:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:53:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:53:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:53:43 --> Config Class Initialized
+INFO - 2025-01-27 19:53:43 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:53:43 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:53:43 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:53:43 --> URI Class Initialized
+INFO - 2025-01-27 19:53:43 --> Router Class Initialized
+INFO - 2025-01-27 19:53:43 --> Output Class Initialized
+INFO - 2025-01-27 19:53:43 --> Security Class Initialized
+DEBUG - 2025-01-27 19:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:53:43 --> Input Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language Class Initialized
+INFO - 2025-01-27 19:53:43 --> Config Class Initialized
+INFO - 2025-01-27 19:53:43 --> Loader Class Initialized
+INFO - 2025-01-27 19:53:43 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:53:43 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:53:43 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:53:43 --> Controller Class Initialized
+INFO - 2025-01-27 19:53:43 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:53:43 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:53:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:53:43 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:53:43 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:53:43 --> Migrations Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:53:43 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:53:43 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:53:43 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:53:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:53:43 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:53:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:53:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:53:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:53:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:53:43 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:53:43 --> Final output sent to browser
+DEBUG - 2025-01-27 19:53:43 --> Total execution time: 0.0389
+INFO - 2025-01-27 19:54:34 --> Config Class Initialized
+INFO - 2025-01-27 19:54:34 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:54:34 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:54:34 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:54:34 --> URI Class Initialized
+INFO - 2025-01-27 19:54:34 --> Router Class Initialized
+INFO - 2025-01-27 19:54:34 --> Output Class Initialized
+INFO - 2025-01-27 19:54:34 --> Security Class Initialized
+DEBUG - 2025-01-27 19:54:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:54:34 --> Input Class Initialized
+INFO - 2025-01-27 19:54:34 --> Language Class Initialized
+INFO - 2025-01-27 19:54:34 --> Config Class Initialized
+INFO - 2025-01-27 19:54:34 --> Loader Class Initialized
+INFO - 2025-01-27 19:54:34 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:54:34 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:54:34 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:54:34 --> Controller Class Initialized
+INFO - 2025-01-27 19:54:34 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:54:34 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:54:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:54:34 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:54:34 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:54:34 --> Migrations Class Initialized
+INFO - 2025-01-27 19:54:34 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:54:34 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:54:34 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:54:34 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:54:34 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:54:34 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:54:34 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:54:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:54:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:54:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:54:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:54:34 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:54:34 --> Final output sent to browser
+DEBUG - 2025-01-27 19:54:34 --> Total execution time: 0.0692
+INFO - 2025-01-27 19:54:35 --> Config Class Initialized
+INFO - 2025-01-27 19:54:35 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:54:35 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:54:35 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:54:35 --> URI Class Initialized
+INFO - 2025-01-27 19:54:35 --> Router Class Initialized
+INFO - 2025-01-27 19:54:35 --> Output Class Initialized
+INFO - 2025-01-27 19:54:35 --> Security Class Initialized
+DEBUG - 2025-01-27 19:54:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:54:35 --> Input Class Initialized
+INFO - 2025-01-27 19:54:35 --> Language Class Initialized
+INFO - 2025-01-27 19:54:35 --> Config Class Initialized
+INFO - 2025-01-27 19:54:35 --> Loader Class Initialized
+INFO - 2025-01-27 19:54:35 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:54:35 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:54:35 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:54:35 --> Controller Class Initialized
+INFO - 2025-01-27 19:54:35 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:54:35 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:54:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:54:35 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:54:35 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:54:35 --> Migrations Class Initialized
+INFO - 2025-01-27 19:54:35 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:54:35 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:54:35 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:54:35 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:54:35 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:54:35 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:54:35 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:54:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:54:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:54:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:54:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:54:35 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:54:35 --> Final output sent to browser
+DEBUG - 2025-01-27 19:54:35 --> Total execution time: 0.0661
+INFO - 2025-01-27 19:54:36 --> Config Class Initialized
+INFO - 2025-01-27 19:54:36 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:54:36 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:54:36 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:54:36 --> URI Class Initialized
+INFO - 2025-01-27 19:54:36 --> Router Class Initialized
+INFO - 2025-01-27 19:54:36 --> Output Class Initialized
+INFO - 2025-01-27 19:54:36 --> Security Class Initialized
+DEBUG - 2025-01-27 19:54:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:54:36 --> Input Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language Class Initialized
+INFO - 2025-01-27 19:54:36 --> Config Class Initialized
+INFO - 2025-01-27 19:54:36 --> Loader Class Initialized
+INFO - 2025-01-27 19:54:36 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:54:36 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:54:36 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:54:36 --> Controller Class Initialized
+INFO - 2025-01-27 19:54:36 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:54:36 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:54:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:54:36 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:54:36 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:54:36 --> Migrations Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:54:36 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:54:36 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:54:36 --> Config Class Initialized
+INFO - 2025-01-27 19:54:36 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:54:36 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:54:36 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:54:36 --> URI Class Initialized
+INFO - 2025-01-27 19:54:36 --> Router Class Initialized
+INFO - 2025-01-27 19:54:36 --> Output Class Initialized
+INFO - 2025-01-27 19:54:36 --> Security Class Initialized
+DEBUG - 2025-01-27 19:54:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:54:36 --> Input Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language Class Initialized
+INFO - 2025-01-27 19:54:36 --> Config Class Initialized
+INFO - 2025-01-27 19:54:36 --> Loader Class Initialized
+INFO - 2025-01-27 19:54:36 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:54:36 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:54:36 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:54:36 --> Controller Class Initialized
+INFO - 2025-01-27 19:54:36 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:54:36 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:54:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:54:36 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:54:36 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:54:36 --> Migrations Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:54:36 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:54:36 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:54:36 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:54:36 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:54:36 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:54:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:54:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:54:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:54:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:54:36 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:54:36 --> Final output sent to browser
+DEBUG - 2025-01-27 19:54:36 --> Total execution time: 0.0400
+INFO - 2025-01-27 19:55:13 --> Config Class Initialized
+INFO - 2025-01-27 19:55:13 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:55:13 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:55:13 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:55:13 --> URI Class Initialized
+INFO - 2025-01-27 19:55:13 --> Router Class Initialized
+INFO - 2025-01-27 19:55:13 --> Output Class Initialized
+INFO - 2025-01-27 19:55:13 --> Security Class Initialized
+DEBUG - 2025-01-27 19:55:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:55:13 --> Input Class Initialized
+INFO - 2025-01-27 19:55:13 --> Language Class Initialized
+INFO - 2025-01-27 19:55:13 --> Config Class Initialized
+INFO - 2025-01-27 19:55:13 --> Loader Class Initialized
+INFO - 2025-01-27 19:55:13 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:55:13 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:55:13 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:55:13 --> Controller Class Initialized
+INFO - 2025-01-27 19:55:13 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:55:13 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:55:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:55:13 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:55:13 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:55:13 --> Migrations Class Initialized
+INFO - 2025-01-27 19:55:13 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:55:13 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:55:13 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:55:13 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:55:13 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:55:13 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:55:13 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:55:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:55:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:55:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:55:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:55:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:55:13 --> Final output sent to browser
+DEBUG - 2025-01-27 19:55:13 --> Total execution time: 0.0561
+INFO - 2025-01-27 19:55:24 --> Config Class Initialized
+INFO - 2025-01-27 19:55:24 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:55:24 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:55:24 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:55:24 --> URI Class Initialized
+INFO - 2025-01-27 19:55:24 --> Router Class Initialized
+INFO - 2025-01-27 19:55:24 --> Output Class Initialized
+INFO - 2025-01-27 19:55:24 --> Security Class Initialized
+DEBUG - 2025-01-27 19:55:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:55:24 --> Input Class Initialized
+INFO - 2025-01-27 19:55:24 --> Language Class Initialized
+INFO - 2025-01-27 19:55:24 --> Config Class Initialized
+INFO - 2025-01-27 19:55:24 --> Loader Class Initialized
+INFO - 2025-01-27 19:55:24 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:55:24 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:55:24 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:55:24 --> Controller Class Initialized
+INFO - 2025-01-27 19:55:24 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:55:24 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:55:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:55:24 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:55:24 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:55:24 --> Migrations Class Initialized
+INFO - 2025-01-27 19:55:24 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:55:24 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:55:24 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:55:24 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:55:24 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:55:24 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:55:24 --> Model "Crud_model" initialized
+ERROR - 2025-01-27 19:55:24 --> Could not find the language line "password"
+DEBUG - 2025-01-27 19:55:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:55:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:55:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:55:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:55:24 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:55:24 --> Final output sent to browser
+DEBUG - 2025-01-27 19:55:24 --> Total execution time: 0.0645
+INFO - 2025-01-27 19:55:53 --> Config Class Initialized
+INFO - 2025-01-27 19:55:53 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:55:53 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:55:53 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:55:53 --> URI Class Initialized
+INFO - 2025-01-27 19:55:53 --> Router Class Initialized
+INFO - 2025-01-27 19:55:53 --> Output Class Initialized
+INFO - 2025-01-27 19:55:53 --> Security Class Initialized
+DEBUG - 2025-01-27 19:55:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:55:53 --> Input Class Initialized
+INFO - 2025-01-27 19:55:53 --> Language Class Initialized
+INFO - 2025-01-27 19:55:53 --> Config Class Initialized
+INFO - 2025-01-27 19:55:53 --> Loader Class Initialized
+INFO - 2025-01-27 19:55:53 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:55:53 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:55:53 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:55:53 --> Controller Class Initialized
+INFO - 2025-01-27 19:55:53 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:55:53 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:55:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:55:53 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:55:53 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:55:53 --> Migrations Class Initialized
+INFO - 2025-01-27 19:55:53 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:55:53 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:55:53 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:55:53 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:55:53 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:55:53 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:55:53 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:55:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:55:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:55:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:55:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:55:53 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:55:53 --> Final output sent to browser
+DEBUG - 2025-01-27 19:55:53 --> Total execution time: 0.0654
+INFO - 2025-01-27 19:56:37 --> Config Class Initialized
+INFO - 2025-01-27 19:56:37 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:37 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:37 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:37 --> URI Class Initialized
+INFO - 2025-01-27 19:56:37 --> Router Class Initialized
+INFO - 2025-01-27 19:56:37 --> Output Class Initialized
+INFO - 2025-01-27 19:56:37 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:37 --> Input Class Initialized
+INFO - 2025-01-27 19:56:37 --> Language Class Initialized
+INFO - 2025-01-27 19:56:37 --> Config Class Initialized
+INFO - 2025-01-27 19:56:37 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:37 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:37 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:37 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:37 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:37 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:37 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:37 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:37 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:37 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:37 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:37 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:37 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:37 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:37 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:37 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:37 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:37 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:37 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:37 --> Total execution time: 0.0653
+INFO - 2025-01-27 19:56:38 --> Config Class Initialized
+INFO - 2025-01-27 19:56:38 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:38 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:38 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:38 --> URI Class Initialized
+INFO - 2025-01-27 19:56:38 --> Router Class Initialized
+INFO - 2025-01-27 19:56:38 --> Output Class Initialized
+INFO - 2025-01-27 19:56:38 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:38 --> Input Class Initialized
+INFO - 2025-01-27 19:56:38 --> Language Class Initialized
+INFO - 2025-01-27 19:56:38 --> Config Class Initialized
+INFO - 2025-01-27 19:56:38 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:38 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:38 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:38 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:38 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:38 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:38 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:38 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:38 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:38 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:38 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:38 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:38 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:38 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:38 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:38 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:38 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:38 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:38 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:38 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:38 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:38 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:38 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:38 --> Total execution time: 0.0683
+INFO - 2025-01-27 19:56:39 --> Config Class Initialized
+INFO - 2025-01-27 19:56:39 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:39 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:39 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:39 --> URI Class Initialized
+INFO - 2025-01-27 19:56:39 --> Router Class Initialized
+INFO - 2025-01-27 19:56:39 --> Output Class Initialized
+INFO - 2025-01-27 19:56:39 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:39 --> Input Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language Class Initialized
+INFO - 2025-01-27 19:56:39 --> Config Class Initialized
+INFO - 2025-01-27 19:56:39 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:39 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:39 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:39 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:39 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:39 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:39 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:39 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:39 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:39 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:39 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:39 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:39 --> Config Class Initialized
+INFO - 2025-01-27 19:56:39 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:39 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:39 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:39 --> URI Class Initialized
+INFO - 2025-01-27 19:56:39 --> Router Class Initialized
+INFO - 2025-01-27 19:56:39 --> Output Class Initialized
+INFO - 2025-01-27 19:56:39 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:39 --> Input Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language Class Initialized
+INFO - 2025-01-27 19:56:39 --> Config Class Initialized
+INFO - 2025-01-27 19:56:39 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:39 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:39 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:39 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:39 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:39 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:39 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:39 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:39 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:39 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:39 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:39 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:39 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:39 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:39 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:39 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:39 --> Total execution time: 0.0345
+INFO - 2025-01-27 19:56:40 --> Config Class Initialized
+INFO - 2025-01-27 19:56:40 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:40 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:40 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:40 --> URI Class Initialized
+INFO - 2025-01-27 19:56:40 --> Router Class Initialized
+INFO - 2025-01-27 19:56:40 --> Output Class Initialized
+INFO - 2025-01-27 19:56:40 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:40 --> Input Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language Class Initialized
+INFO - 2025-01-27 19:56:40 --> Config Class Initialized
+INFO - 2025-01-27 19:56:40 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:40 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:40 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:40 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:40 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:40 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:40 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:40 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:40 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:40 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:40 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:40 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:40 --> Config Class Initialized
+INFO - 2025-01-27 19:56:40 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:40 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:40 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:40 --> URI Class Initialized
+INFO - 2025-01-27 19:56:40 --> Router Class Initialized
+INFO - 2025-01-27 19:56:40 --> Output Class Initialized
+INFO - 2025-01-27 19:56:40 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:40 --> Input Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language Class Initialized
+INFO - 2025-01-27 19:56:40 --> Config Class Initialized
+INFO - 2025-01-27 19:56:40 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:40 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:40 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:40 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:40 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:40 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:40 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:40 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:40 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:40 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:56:40 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:56:40 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:40 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:40 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:56:40 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:40 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:40 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:40 --> Total execution time: 0.0397
+INFO - 2025-01-27 19:56:45 --> Config Class Initialized
+INFO - 2025-01-27 19:56:45 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:45 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:45 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:45 --> URI Class Initialized
+INFO - 2025-01-27 19:56:45 --> Router Class Initialized
+INFO - 2025-01-27 19:56:45 --> Output Class Initialized
+INFO - 2025-01-27 19:56:45 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:45 --> Input Class Initialized
+INFO - 2025-01-27 19:56:45 --> Language Class Initialized
+INFO - 2025-01-27 19:56:45 --> Config Class Initialized
+INFO - 2025-01-27 19:56:45 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:45 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:45 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:45 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:45 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:45 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:45 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:45 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:45 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:45 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:45 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:56:45 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:45 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:56:45 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:45 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:45 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:56:45 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:45 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:45 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:45 --> Total execution time: 0.0633
+INFO - 2025-01-27 19:56:47 --> Config Class Initialized
+INFO - 2025-01-27 19:56:47 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:47 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:47 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:47 --> URI Class Initialized
+INFO - 2025-01-27 19:56:47 --> Router Class Initialized
+INFO - 2025-01-27 19:56:47 --> Output Class Initialized
+INFO - 2025-01-27 19:56:47 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:47 --> Input Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language Class Initialized
+INFO - 2025-01-27 19:56:47 --> Config Class Initialized
+INFO - 2025-01-27 19:56:47 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:47 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:47 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:47 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:47 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:47 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:47 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:47 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:47 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:47 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 19:56:47 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 19:56:47 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 19:56:47 --> Config Class Initialized
+INFO - 2025-01-27 19:56:47 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:56:47 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:56:47 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:56:47 --> URI Class Initialized
+INFO - 2025-01-27 19:56:47 --> Router Class Initialized
+INFO - 2025-01-27 19:56:47 --> Output Class Initialized
+INFO - 2025-01-27 19:56:47 --> Security Class Initialized
+DEBUG - 2025-01-27 19:56:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:56:47 --> Input Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language Class Initialized
+INFO - 2025-01-27 19:56:47 --> Config Class Initialized
+INFO - 2025-01-27 19:56:47 --> Loader Class Initialized
+INFO - 2025-01-27 19:56:47 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:56:47 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:56:47 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:56:47 --> Controller Class Initialized
+INFO - 2025-01-27 19:56:47 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:56:47 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:56:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:56:47 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:56:47 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:56:47 --> Migrations Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:56:47 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:56:47 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:56:47 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:56:47 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:56:47 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:56:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:56:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:56:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:56:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:56:47 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:56:47 --> Final output sent to browser
+DEBUG - 2025-01-27 19:56:47 --> Total execution time: 0.0367
+INFO - 2025-01-27 19:59:19 --> Config Class Initialized
+INFO - 2025-01-27 19:59:19 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:59:19 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:59:19 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:59:19 --> URI Class Initialized
+INFO - 2025-01-27 19:59:19 --> Router Class Initialized
+INFO - 2025-01-27 19:59:19 --> Output Class Initialized
+INFO - 2025-01-27 19:59:19 --> Security Class Initialized
+DEBUG - 2025-01-27 19:59:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:59:19 --> Input Class Initialized
+INFO - 2025-01-27 19:59:19 --> Language Class Initialized
+INFO - 2025-01-27 19:59:19 --> Config Class Initialized
+INFO - 2025-01-27 19:59:19 --> Loader Class Initialized
+INFO - 2025-01-27 19:59:19 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:59:19 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:59:19 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:59:19 --> Controller Class Initialized
+INFO - 2025-01-27 19:59:19 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:59:19 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:59:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:59:19 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:59:19 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:59:19 --> Migrations Class Initialized
+INFO - 2025-01-27 19:59:19 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:59:19 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:59:19 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:59:19 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:59:19 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:59:19 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:59:19 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:59:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:59:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:59:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:59:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:59:19 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:59:19 --> Final output sent to browser
+DEBUG - 2025-01-27 19:59:19 --> Total execution time: 0.0790
+INFO - 2025-01-27 19:59:49 --> Config Class Initialized
+INFO - 2025-01-27 19:59:49 --> Hooks Class Initialized
+DEBUG - 2025-01-27 19:59:49 --> UTF-8 Support Enabled
+INFO - 2025-01-27 19:59:49 --> Utf8 Class Initialized
+INFO - 2025-01-27 19:59:49 --> URI Class Initialized
+INFO - 2025-01-27 19:59:49 --> Router Class Initialized
+INFO - 2025-01-27 19:59:49 --> Output Class Initialized
+INFO - 2025-01-27 19:59:49 --> Security Class Initialized
+DEBUG - 2025-01-27 19:59:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 19:59:49 --> Input Class Initialized
+INFO - 2025-01-27 19:59:49 --> Language Class Initialized
+INFO - 2025-01-27 19:59:49 --> Config Class Initialized
+INFO - 2025-01-27 19:59:49 --> Loader Class Initialized
+INFO - 2025-01-27 19:59:49 --> Helper loaded: url_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: form_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: date_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: directory_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: text_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: html_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: array_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 19:59:49 --> Model "Settings_model" initialized
+INFO - 2025-01-27 19:59:49 --> Model "Menu_model" initialized
+INFO - 2025-01-27 19:59:49 --> Controller Class Initialized
+INFO - 2025-01-27 19:59:49 --> Helper loaded: file_helper
+INFO - 2025-01-27 19:59:49 --> Database Driver Class Initialized
+INFO - 2025-01-27 19:59:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 19:59:49 --> Form Validation Class Initialized
+INFO - 2025-01-27 19:59:49 --> Model "Users_model" initialized
+INFO - 2025-01-27 19:59:49 --> Migrations Class Initialized
+INFO - 2025-01-27 19:59:49 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 19:59:49 --> Database Forge Class Initialized
+INFO - 2025-01-27 19:59:49 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 19:59:49 --> Helper loaded: language_helper
+INFO - 2025-01-27 19:59:49 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 19:59:49 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 19:59:49 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 19:59:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 19:59:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 19:59:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 19:59:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 19:59:49 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 19:59:49 --> Final output sent to browser
+DEBUG - 2025-01-27 19:59:49 --> Total execution time: 0.0657
+INFO - 2025-01-27 20:00:02 --> Config Class Initialized
+INFO - 2025-01-27 20:00:02 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:00:02 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:00:02 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:00:02 --> URI Class Initialized
+INFO - 2025-01-27 20:00:02 --> Router Class Initialized
+INFO - 2025-01-27 20:00:02 --> Output Class Initialized
+INFO - 2025-01-27 20:00:02 --> Security Class Initialized
+DEBUG - 2025-01-27 20:00:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:00:02 --> Input Class Initialized
+INFO - 2025-01-27 20:00:02 --> Language Class Initialized
+INFO - 2025-01-27 20:00:02 --> Config Class Initialized
+INFO - 2025-01-27 20:00:02 --> Loader Class Initialized
+INFO - 2025-01-27 20:00:02 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:00:02 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:00:02 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:00:02 --> Controller Class Initialized
+INFO - 2025-01-27 20:00:02 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:00:02 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:00:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:00:02 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:00:02 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:00:02 --> Migrations Class Initialized
+INFO - 2025-01-27 20:00:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:00:02 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:00:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:00:02 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:00:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:00:02 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:00:02 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:00:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:00:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:00:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:00:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:00:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:00:02 --> Final output sent to browser
+DEBUG - 2025-01-27 20:00:02 --> Total execution time: 0.0531
+INFO - 2025-01-27 20:00:54 --> Config Class Initialized
+INFO - 2025-01-27 20:00:54 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:00:54 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:00:54 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:00:54 --> URI Class Initialized
+INFO - 2025-01-27 20:00:54 --> Router Class Initialized
+INFO - 2025-01-27 20:00:54 --> Output Class Initialized
+INFO - 2025-01-27 20:00:54 --> Security Class Initialized
+DEBUG - 2025-01-27 20:00:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:00:54 --> Input Class Initialized
+INFO - 2025-01-27 20:00:54 --> Language Class Initialized
+INFO - 2025-01-27 20:00:54 --> Config Class Initialized
+INFO - 2025-01-27 20:00:54 --> Loader Class Initialized
+INFO - 2025-01-27 20:00:54 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:00:54 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:00:54 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:00:54 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:00:54 --> Controller Class Initialized
+INFO - 2025-01-27 20:00:54 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:00:54 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:00:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:00:54 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:00:54 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:00:54 --> Migrations Class Initialized
+INFO - 2025-01-27 20:00:54 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:00:54 --> Database Forge Class Initialized
+ERROR - 2025-01-27 20:00:54 --> Severity: error --> Exception: syntax error, unexpected '$lang' (T_VARIABLE) /var/www/html/classroombookings/crbs-core/application/language/french/crbs_lang.php 40
+INFO - 2025-01-27 20:00:57 --> Config Class Initialized
+INFO - 2025-01-27 20:00:57 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:00:57 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:00:57 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:00:57 --> URI Class Initialized
+INFO - 2025-01-27 20:00:57 --> Router Class Initialized
+INFO - 2025-01-27 20:00:57 --> Output Class Initialized
+INFO - 2025-01-27 20:00:57 --> Security Class Initialized
+DEBUG - 2025-01-27 20:00:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:00:57 --> Input Class Initialized
+INFO - 2025-01-27 20:00:57 --> Language Class Initialized
+INFO - 2025-01-27 20:00:57 --> Config Class Initialized
+INFO - 2025-01-27 20:00:57 --> Loader Class Initialized
+INFO - 2025-01-27 20:00:57 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:00:57 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:00:57 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:00:57 --> Controller Class Initialized
+INFO - 2025-01-27 20:00:57 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:00:57 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:00:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:00:57 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:00:57 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:00:57 --> Migrations Class Initialized
+INFO - 2025-01-27 20:00:57 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:00:57 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:00:57 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:00:57 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:00:57 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:00:57 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:00:57 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:00:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:00:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:00:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:00:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:00:57 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:00:57 --> Final output sent to browser
+DEBUG - 2025-01-27 20:00:57 --> Total execution time: 0.0723
+INFO - 2025-01-27 20:00:59 --> Config Class Initialized
+INFO - 2025-01-27 20:00:59 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:00:59 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:00:59 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:00:59 --> URI Class Initialized
+INFO - 2025-01-27 20:00:59 --> Router Class Initialized
+INFO - 2025-01-27 20:00:59 --> Output Class Initialized
+INFO - 2025-01-27 20:00:59 --> Security Class Initialized
+DEBUG - 2025-01-27 20:00:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:00:59 --> Input Class Initialized
+INFO - 2025-01-27 20:00:59 --> Language Class Initialized
+INFO - 2025-01-27 20:00:59 --> Config Class Initialized
+INFO - 2025-01-27 20:00:59 --> Loader Class Initialized
+INFO - 2025-01-27 20:00:59 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:00:59 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:00:59 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:00:59 --> Controller Class Initialized
+INFO - 2025-01-27 20:00:59 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:00:59 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:00:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:00:59 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:00:59 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:00:59 --> Migrations Class Initialized
+INFO - 2025-01-27 20:00:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:00:59 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:00:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:00:59 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:00:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:00:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:00:59 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:00:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:00:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:00:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:00:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:00:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:00:59 --> Final output sent to browser
+DEBUG - 2025-01-27 20:00:59 --> Total execution time: 0.0709
+INFO - 2025-01-27 20:01:05 --> Config Class Initialized
+INFO - 2025-01-27 20:01:05 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:05 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:05 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:05 --> URI Class Initialized
+INFO - 2025-01-27 20:01:05 --> Router Class Initialized
+INFO - 2025-01-27 20:01:05 --> Output Class Initialized
+INFO - 2025-01-27 20:01:05 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:05 --> Input Class Initialized
+INFO - 2025-01-27 20:01:05 --> Language Class Initialized
+INFO - 2025-01-27 20:01:05 --> Config Class Initialized
+INFO - 2025-01-27 20:01:05 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:05 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:05 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:05 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:05 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:05 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:05 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:05 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:05 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:05 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:05 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:05 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:05 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:05 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:05 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:05 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:05 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:01:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:05 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:05 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:05 --> Total execution time: 0.0848
+INFO - 2025-01-27 20:01:06 --> Config Class Initialized
+INFO - 2025-01-27 20:01:06 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:06 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:06 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:06 --> URI Class Initialized
+INFO - 2025-01-27 20:01:06 --> Router Class Initialized
+INFO - 2025-01-27 20:01:06 --> Output Class Initialized
+INFO - 2025-01-27 20:01:06 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:06 --> Input Class Initialized
+INFO - 2025-01-27 20:01:06 --> Language Class Initialized
+INFO - 2025-01-27 20:01:06 --> Config Class Initialized
+INFO - 2025-01-27 20:01:06 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:06 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:06 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:06 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:06 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:06 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:06 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:06 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:06 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:06 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:06 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:06 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:07 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:07 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:07 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:07 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:07 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:07 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:01:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:07 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:07 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:07 --> Total execution time: 0.0549
+INFO - 2025-01-27 20:01:13 --> Config Class Initialized
+INFO - 2025-01-27 20:01:13 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:13 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:13 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:13 --> URI Class Initialized
+INFO - 2025-01-27 20:01:13 --> Router Class Initialized
+INFO - 2025-01-27 20:01:13 --> Output Class Initialized
+INFO - 2025-01-27 20:01:13 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:13 --> Input Class Initialized
+INFO - 2025-01-27 20:01:13 --> Language Class Initialized
+INFO - 2025-01-27 20:01:13 --> Config Class Initialized
+INFO - 2025-01-27 20:01:13 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:13 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:13 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:13 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:13 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:13 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:13 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:13 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:13 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:13 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:13 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:13 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:13 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:13 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:13 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:13 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:13 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:01:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:13 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:13 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:13 --> Total execution time: 0.0693
+INFO - 2025-01-27 20:01:28 --> Config Class Initialized
+INFO - 2025-01-27 20:01:28 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:28 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:28 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:28 --> URI Class Initialized
+INFO - 2025-01-27 20:01:28 --> Router Class Initialized
+INFO - 2025-01-27 20:01:28 --> Output Class Initialized
+INFO - 2025-01-27 20:01:28 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:28 --> Input Class Initialized
+INFO - 2025-01-27 20:01:28 --> Language Class Initialized
+INFO - 2025-01-27 20:01:28 --> Config Class Initialized
+INFO - 2025-01-27 20:01:28 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:28 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:28 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:28 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:28 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:28 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:28 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:28 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:28 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:28 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:28 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:28 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:28 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:28 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:28 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:28 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:28 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+DEBUG - 2025-01-27 20:01:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:28 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:28 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:28 --> Total execution time: 0.0606
+INFO - 2025-01-27 20:01:38 --> Config Class Initialized
+INFO - 2025-01-27 20:01:38 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:38 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:38 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:38 --> URI Class Initialized
+INFO - 2025-01-27 20:01:38 --> Router Class Initialized
+INFO - 2025-01-27 20:01:38 --> Output Class Initialized
+INFO - 2025-01-27 20:01:38 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:38 --> Input Class Initialized
+INFO - 2025-01-27 20:01:38 --> Language Class Initialized
+INFO - 2025-01-27 20:01:38 --> Config Class Initialized
+INFO - 2025-01-27 20:01:38 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:38 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:38 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:38 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:38 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:38 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:38 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:38 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:38 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:38 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:38 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:38 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:38 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:38 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:38 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:38 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:38 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+ERROR - 2025-01-27 20:01:39 --> Severity: Warning --> Use of undefined constant edit_my_details - assumed 'edit_my_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/controllers/Profile.php 38
+DEBUG - 2025-01-27 20:01:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:39 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:39 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:39 --> Total execution time: 0.0558
+INFO - 2025-01-27 20:01:41 --> Config Class Initialized
+INFO - 2025-01-27 20:01:41 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:41 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:41 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:41 --> URI Class Initialized
+INFO - 2025-01-27 20:01:41 --> Router Class Initialized
+INFO - 2025-01-27 20:01:41 --> Output Class Initialized
+INFO - 2025-01-27 20:01:41 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:41 --> Input Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language Class Initialized
+INFO - 2025-01-27 20:01:41 --> Config Class Initialized
+INFO - 2025-01-27 20:01:41 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:41 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:41 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:41 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:41 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:41 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:41 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:41 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:41 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:41 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:41 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:41 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:41 --> Config Class Initialized
+INFO - 2025-01-27 20:01:41 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:41 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:41 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:41 --> URI Class Initialized
+INFO - 2025-01-27 20:01:41 --> Router Class Initialized
+INFO - 2025-01-27 20:01:41 --> Output Class Initialized
+INFO - 2025-01-27 20:01:41 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:41 --> Input Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language Class Initialized
+INFO - 2025-01-27 20:01:41 --> Config Class Initialized
+INFO - 2025-01-27 20:01:41 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:41 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:41 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:41 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:41 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:41 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:41 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:41 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:41 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:41 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 20:01:41 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 20:01:41 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:41 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:41 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 20:01:41 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+ERROR - 2025-01-27 20:01:41 --> Severity: Warning --> Use of undefined constant edit_my_details - assumed 'edit_my_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/controllers/Profile.php 38
+DEBUG - 2025-01-27 20:01:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:41 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:41 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:41 --> Total execution time: 0.0413
+INFO - 2025-01-27 20:01:42 --> Config Class Initialized
+INFO - 2025-01-27 20:01:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:42 --> URI Class Initialized
+INFO - 2025-01-27 20:01:42 --> Router Class Initialized
+INFO - 2025-01-27 20:01:42 --> Output Class Initialized
+INFO - 2025-01-27 20:01:42 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:42 --> Input Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language Class Initialized
+INFO - 2025-01-27 20:01:42 --> Config Class Initialized
+INFO - 2025-01-27 20:01:42 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:42 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:42 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/english/migration_lang.php
+INFO - 2025-01-27 20:01:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/english/crbs_lang.php
+INFO - 2025-01-27 20:01:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2025-01-27 20:01:42 --> Config Class Initialized
+INFO - 2025-01-27 20:01:42 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:42 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:42 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:42 --> URI Class Initialized
+INFO - 2025-01-27 20:01:42 --> Router Class Initialized
+INFO - 2025-01-27 20:01:42 --> Output Class Initialized
+INFO - 2025-01-27 20:01:42 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:42 --> Input Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language Class Initialized
+INFO - 2025-01-27 20:01:42 --> Config Class Initialized
+INFO - 2025-01-27 20:01:42 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:42 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:42 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:42 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:42 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:42 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:42 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:42 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:42 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:42 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:42 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:42 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:42 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:42 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:42 --> Model "Crud_model" initialized
+DEBUG - 2025-01-27 20:01:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/partials/submit.php
+DEBUG - 2025-01-27 20:01:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit.php
+DEBUG - 2025-01-27 20:01:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/profile/profile_edit_side.php
+ERROR - 2025-01-27 20:01:42 --> Severity: Warning --> Use of undefined constant edit_my_details - assumed 'edit_my_details' (this will throw an Error in a future version of PHP) /var/www/html/classroombookings/crbs-core/application/controllers/Profile.php 38
+DEBUG - 2025-01-27 20:01:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/columns.php
+DEBUG - 2025-01-27 20:01:42 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:42 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:42 --> Total execution time: 0.0379
+INFO - 2025-01-27 20:01:44 --> Config Class Initialized
+INFO - 2025-01-27 20:01:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:44 --> URI Class Initialized
+DEBUG - 2025-01-27 20:01:44 --> No URI present. Default controller set.
+INFO - 2025-01-27 20:01:44 --> Router Class Initialized
+INFO - 2025-01-27 20:01:44 --> Output Class Initialized
+INFO - 2025-01-27 20:01:44 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:44 --> Input Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language Class Initialized
+INFO - 2025-01-27 20:01:44 --> Config Class Initialized
+INFO - 2025-01-27 20:01:44 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:44 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:44 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:44 --> Config Class Initialized
+INFO - 2025-01-27 20:01:44 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:44 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:44 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:44 --> URI Class Initialized
+INFO - 2025-01-27 20:01:44 --> Router Class Initialized
+INFO - 2025-01-27 20:01:44 --> Output Class Initialized
+INFO - 2025-01-27 20:01:44 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:44 --> Input Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language Class Initialized
+INFO - 2025-01-27 20:01:44 --> Config Class Initialized
+INFO - 2025-01-27 20:01:44 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:44 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:44 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:44 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:44 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:44 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:44 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:44 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:44 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:44 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:44 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:44 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:44 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:44 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 20:01:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 20:01:44 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:44 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:44 --> Total execution time: 0.0349
+INFO - 2025-01-27 20:01:50 --> Config Class Initialized
+INFO - 2025-01-27 20:01:50 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:50 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:50 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:50 --> URI Class Initialized
+INFO - 2025-01-27 20:01:50 --> Router Class Initialized
+INFO - 2025-01-27 20:01:50 --> Output Class Initialized
+INFO - 2025-01-27 20:01:50 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:50 --> Input Class Initialized
+INFO - 2025-01-27 20:01:50 --> Language Class Initialized
+INFO - 2025-01-27 20:01:50 --> Config Class Initialized
+INFO - 2025-01-27 20:01:50 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:50 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:50 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:50 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:50 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:50 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:50 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:50 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:50 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:50 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:50 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:50 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:50 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:50 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:50 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 20:01:50 --> Helper loaded: result_helper
+INFO - 2025-01-27 20:01:50 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 20:01:50 --> Helper loaded: week_helper
+INFO - 2025-01-27 20:01:50 --> Helper loaded: colour_helper
+INFO - 2025-01-27 20:01:50 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Dates_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 20:01:50 --> Helper loaded: booking_helper
+INFO - 2025-01-27 20:01:50 --> Model "Access_control_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Rooms_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Room_groups_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Schedules_model" initialized
+INFO - 2025-01-27 20:01:50 --> Model "Periods_model" initialized
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/room.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/controls/session.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/header.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/col_date.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/row_period.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/booked_single.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings_grid/table/slot/available.php
+INFO - 2025-01-27 20:01:50 --> Parser Class Initialized
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/css/session-calendar.css
+DEBUG - 2025-01-27 20:01:50 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:50 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:50 --> Total execution time: 0.1031
+INFO - 2025-01-27 20:01:54 --> Config Class Initialized
+INFO - 2025-01-27 20:01:54 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:54 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:54 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:54 --> URI Class Initialized
+INFO - 2025-01-27 20:01:54 --> Router Class Initialized
+INFO - 2025-01-27 20:01:54 --> Output Class Initialized
+INFO - 2025-01-27 20:01:54 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:54 --> Input Class Initialized
+INFO - 2025-01-27 20:01:54 --> Language Class Initialized
+INFO - 2025-01-27 20:01:54 --> Config Class Initialized
+INFO - 2025-01-27 20:01:54 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:54 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:54 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:54 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:54 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:54 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:54 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:54 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:54 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:54 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:54 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:54 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:55 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:55 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:55 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:55 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:55 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:55 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 20:01:55 --> Helper loaded: result_helper
+INFO - 2025-01-27 20:01:55 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 20:01:55 --> Helper loaded: week_helper
+INFO - 2025-01-27 20:01:55 --> Helper loaded: colour_helper
+INFO - 2025-01-27 20:01:55 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 20:01:55 --> Model "Dates_model" initialized
+INFO - 2025-01-27 20:01:55 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 20:01:55 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 20:01:55 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 20:01:55 --> Helper loaded: booking_helper
+INFO - 2025-01-27 20:01:55 --> Calendar Class Initialized
+ERROR - 2025-01-27 20:01:55 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 20:01:55 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 20:01:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 20:01:55 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:55 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:55 --> Total execution time: 0.0687
+INFO - 2025-01-27 20:01:59 --> Config Class Initialized
+INFO - 2025-01-27 20:01:59 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:01:59 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:01:59 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:01:59 --> URI Class Initialized
+INFO - 2025-01-27 20:01:59 --> Router Class Initialized
+INFO - 2025-01-27 20:01:59 --> Output Class Initialized
+INFO - 2025-01-27 20:01:59 --> Security Class Initialized
+DEBUG - 2025-01-27 20:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:01:59 --> Input Class Initialized
+INFO - 2025-01-27 20:01:59 --> Language Class Initialized
+INFO - 2025-01-27 20:01:59 --> Config Class Initialized
+INFO - 2025-01-27 20:01:59 --> Loader Class Initialized
+INFO - 2025-01-27 20:01:59 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:01:59 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:01:59 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:01:59 --> Controller Class Initialized
+INFO - 2025-01-27 20:01:59 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:01:59 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:01:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:01:59 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:01:59 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:01:59 --> Migrations Class Initialized
+INFO - 2025-01-27 20:01:59 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:01:59 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:01:59 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:01:59 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:01:59 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:01:59 --> Language file loaded: language/french/bookings_lang.php
+INFO - 2025-01-27 20:01:59 --> Helper loaded: result_helper
+INFO - 2025-01-27 20:01:59 --> Model "Holidays_model" initialized
+INFO - 2025-01-27 20:01:59 --> Helper loaded: week_helper
+INFO - 2025-01-27 20:01:59 --> Helper loaded: colour_helper
+INFO - 2025-01-27 20:01:59 --> Model "Weeks_model" initialized
+INFO - 2025-01-27 20:01:59 --> Model "Dates_model" initialized
+INFO - 2025-01-27 20:01:59 --> Model "Sessions_model" initialized
+INFO - 2025-01-27 20:01:59 --> Model "Bookings_model" initialized
+INFO - 2025-01-27 20:01:59 --> Model "Multi_booking_model" initialized
+INFO - 2025-01-27 20:01:59 --> Helper loaded: booking_helper
+INFO - 2025-01-27 20:01:59 --> Calendar Class Initialized
+ERROR - 2025-01-27 20:01:59 --> Could not find the language line "bookings_monthly_title"
+ERROR - 2025-01-27 20:01:59 --> Could not find the language line "language_code"
+DEBUG - 2025-01-27 20:01:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/bookings/monthly.php
+DEBUG - 2025-01-27 20:01:59 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:01:59 --> Final output sent to browser
+DEBUG - 2025-01-27 20:01:59 --> Total execution time: 0.0604
+INFO - 2025-01-27 20:02:02 --> Config Class Initialized
+INFO - 2025-01-27 20:02:02 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:02:02 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:02:02 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:02:02 --> URI Class Initialized
+DEBUG - 2025-01-27 20:02:02 --> No URI present. Default controller set.
+INFO - 2025-01-27 20:02:02 --> Router Class Initialized
+INFO - 2025-01-27 20:02:02 --> Output Class Initialized
+INFO - 2025-01-27 20:02:02 --> Security Class Initialized
+DEBUG - 2025-01-27 20:02:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:02:02 --> Input Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language Class Initialized
+INFO - 2025-01-27 20:02:02 --> Config Class Initialized
+INFO - 2025-01-27 20:02:02 --> Loader Class Initialized
+INFO - 2025-01-27 20:02:02 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:02:02 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:02:02 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:02:02 --> Controller Class Initialized
+INFO - 2025-01-27 20:02:02 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:02:02 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:02:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:02:02 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:02:02 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:02:02 --> Migrations Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:02:02 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:02:02 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/calendar_lang.php
+INFO - 2025-01-27 20:02:02 --> Config Class Initialized
+INFO - 2025-01-27 20:02:02 --> Hooks Class Initialized
+DEBUG - 2025-01-27 20:02:02 --> UTF-8 Support Enabled
+INFO - 2025-01-27 20:02:02 --> Utf8 Class Initialized
+INFO - 2025-01-27 20:02:02 --> URI Class Initialized
+INFO - 2025-01-27 20:02:02 --> Router Class Initialized
+INFO - 2025-01-27 20:02:02 --> Output Class Initialized
+INFO - 2025-01-27 20:02:02 --> Security Class Initialized
+DEBUG - 2025-01-27 20:02:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-01-27 20:02:02 --> Input Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language Class Initialized
+INFO - 2025-01-27 20:02:02 --> Config Class Initialized
+INFO - 2025-01-27 20:02:02 --> Loader Class Initialized
+INFO - 2025-01-27 20:02:02 --> Helper loaded: url_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: form_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: date_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: cookie_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: directory_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: text_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: html_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: array_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: crbs_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: unpoly_helper
+INFO - 2025-01-27 20:02:02 --> Model "Settings_model" initialized
+INFO - 2025-01-27 20:02:02 --> Model "Menu_model" initialized
+INFO - 2025-01-27 20:02:02 --> Controller Class Initialized
+INFO - 2025-01-27 20:02:02 --> Helper loaded: file_helper
+INFO - 2025-01-27 20:02:02 --> Database Driver Class Initialized
+INFO - 2025-01-27 20:02:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-01-27 20:02:02 --> Form Validation Class Initialized
+INFO - 2025-01-27 20:02:02 --> Model "Users_model" initialized
+INFO - 2025-01-27 20:02:02 --> Migrations Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/migration_lang.php
+INFO - 2025-01-27 20:02:02 --> Database Forge Class Initialized
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/crbs_lang.php
+INFO - 2025-01-27 20:02:02 --> Helper loaded: language_helper
+INFO - 2025-01-27 20:02:02 --> Helper loaded: user_file_helper
+INFO - 2025-01-27 20:02:02 --> Language file loaded: language/french/calendar_lang.php
+DEBUG - 2025-01-27 20:02:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/setup/index.php
+DEBUG - 2025-01-27 20:02:02 --> File loaded: /var/www/html/classroombookings/crbs-core/application/views/layout.php
+INFO - 2025-01-27 20:02:02 --> Final output sent to browser
+DEBUG - 2025-01-27 20:02:02 --> Total execution time: 0.0363

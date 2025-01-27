@@ -128,7 +128,7 @@ echo ($show_department)
 // Who
 //
 $field = 'user_id';
-$label = form_label('Who', $field);
+$label = form_label(lang('bookings_who'), $field);
 if ($is_admin) {
 	$options = results_to_assoc($all_users, 'user_id', function($user) {
 		return !empty($user->displayname)
@@ -196,16 +196,16 @@ if ($is_admin) {
 	// Info
 	//
 	$field = 'recurring_info';
-	$label = form_label('Recurs', 'recurring_info');
-	$input = sprintf('Every %s on %s', $day_name, html_escape($week->name));
+	$label = form_label(lang(bookings_recurs), 'recurring_info');
+	$input = sprintf(lang(bookings_every) . ' %s on %s', $day_name, html_escape($week->name));
 	$recurring_fields[] = "<p>{$label}{$input}</p>";
 
 	// Starting from
 	//
 	$field = 'recurring_start';
-	$label = form_label('Starting from...', 'recurring_start');
+	$label = form_label(lang(bookings_starting_from), 'recurring_start');
 	$value = set_value($field, $date_info->date, FALSE);
-	$options = ['session' => '(Start of session)', 'Specific date...' => $recurring_date_options];
+	$options = ['session' => lang(bookings_start_of_session), 'Specific date...' => $recurring_date_options];
 	$input = form_dropdown([
 		'name' => 'recurring_start',
 		'options' => $options,
@@ -216,9 +216,9 @@ if ($is_admin) {
 	// Until
 	//
 	$field = 'recurring_end';
-	$label = form_label('Until...', 'recurring_end');
+	$label = form_label(lang(bookings_until), 'recurring_end');
 	$value = set_value($field, 'session', FALSE);
-	$options = ['session' => '(End of session)', 'Specific date...' => $recurring_date_options];
+	$options = ['session' => lang(bookings_end_of_session), 'Specific date...' => $recurring_date_options];
 	$input = form_dropdown([
 		'name' => 'recurring_end',
 		'options' => $options,

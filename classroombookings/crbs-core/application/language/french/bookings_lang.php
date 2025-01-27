@@ -43,6 +43,8 @@ $lang['bookings_create_booking'] = 'Créer une réservation';
 $lang['bookings_preview_recurring'] = 'Aperçu des réservations récurrentes';
 $lang['bookings_cancel'] = 'Annuler';
 $lang['bookings_recurring_yes'] = 'Oui';
+$lang['bookings_every'] = 'Chaque';
+
 
 
 $lang['calendar_day_monday'] = 'Lundi';
