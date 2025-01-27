@@ -10,13 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the Repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-
-      # Step 2: Deploy Application via SSH ProxyJump
-      - name: Deploy Application via SSH ProxyJump
+      - name: Deploy Source Files and Build on `ultratrail`
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
         run: |
@@ -25,30 +22,31 @@ jobs:
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
 
-          # Add SSH configuration with ProxyJump
+          # Add SSH configuration
           printf "Host patriot\n  HostName patriot.lkb.upmc.fr\n  User glorieux\n  IdentityFile ~/.ssh/id_rsa\n  StrictHostKeyChecking no\n" >> ~/.ssh/config
           printf "Host ultratrail\n  HostName ultratrail.lkb.upmc.fr\n  User adminultra\n  ProxyJump patriot\n  IdentityFile ~/.ssh/id_rsa\n  StrictHostKeyChecking no\n" >> ~/.ssh/config
           chmod 600 ~/.ssh/config
 
-          # Test SSH connection
-          ssh -o StrictHostKeyChecking=no ultratrail echo "SSH connection successful"
+          # Transfer source files to the server
+          rsync -avz -e "ssh -o StrictHostKeyChecking=no" ./ adminultra@ultratrail:/home/adminultra/classroombooking-source/
 
-          # Clone repository on the server
-          ssh ultratrail <<EOF
-            echo "Logging new deployment on $(date)" >> ~/deploy-log.txt
+          # SSH into the server, move directories, and copy assets/css
+          ssh ultratrail << 'EOF'
+            cd /home/adminultra/classroombooking-source
+            echo "Logging deployment on $(date)" >> ~/deploy-log.txt
 
-            echo "Cloning repository..."
-            if [ -d ~/classroombooking ]; then
-              rm -rf ~/classroombooking
-            fi
-            git clone https://github.com/quentinglorieux/classroombooking.git ~/classroombooking
-
-            echo "Moving core files to the target directory..."
+            echo "Preparing to move core files..."
             TARGET_DIR=~/classroombookings-3.0.0
             if [ -d $TARGET_DIR ]; then
               rm -rf $TARGET_DIR
             fi
-            mv ~/classroombooking/classroombookings/crbs-core/ $TARGET_DIR
+
+            # Move the core directory
+            mv classroombookings/crbs-core/ $TARGET_DIR
+
+            # Copy assets/css directory to the new location
+            echo "Copying assets/css..."
+            cp -r assets/css $TARGET_DIR/
 
             echo "Deployment completed successfully!"
           EOF
