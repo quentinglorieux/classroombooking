@@ -460,6 +460,16 @@ class Bookings extends MY_Controller
 		// Fetch bookings for the selected month
 		$bookings = $this->bookings_model->bookings_for_month($year, $month);
 	
+		// Group bookings by date
+		$grouped_bookings = [];
+		foreach ($bookings as $booking) {
+			$date = $booking->date;
+			if (!isset($grouped_bookings[$date])) {
+				$grouped_bookings[$date] = [];
+			}
+			$grouped_bookings[$date][] = $booking;
+		}
+	
 		// Generate the calendar
 		$config = [
 			'mode' => 'view',
@@ -474,7 +484,7 @@ class Bookings extends MY_Controller
 		$this->data['calendar_html'] = $calendar_html;
 		$this->data['year'] = $year;
 		$this->data['month'] = $month;
-		$this->data['bookings'] = $bookings;
+		$this->data['bookings'] = $grouped_bookings;
 	
 		$this->data['body'] = $this->load->view('bookings/monthly', $this->data, TRUE);
 		return $this->render();

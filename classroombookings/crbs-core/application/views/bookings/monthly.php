@@ -15,24 +15,27 @@
     </a>
 </div>
 
-<div class="calendar-container">
-    <?= $calendar_html ?>
-</div>
+
 
 <!-- Optional: Show bookings or events for the month -->
 <div class="bookings-list">
     <h2>Bookings for <?= date('F Y', strtotime("$year-$month-01")) ?></h2>
     <ul>
         <?php if (!empty($bookings)): ?>
-            <?php foreach ($bookings as $booking): ?>
+            <?php foreach ($bookings as $date => $daily_bookings): ?>
                 <li>
-                    <strong><?= !empty($booking->user_name) ? html_escape($booking->user_name) : 'No User' ?></strong><br>
-                    Room: <?= !empty($booking->room_name) ? html_escape($booking->room_name) : 'N/A' ?><br>
-                    Period: <?= !empty($booking->period_name) ? html_escape($booking->period_name) : 'N/A' ?><br>
-                    Date: <?= html_escape($booking->date) ?><br>
-                    Time: <?= !empty($booking->period_time_start) && !empty($booking->period_time_end)
-                        ? html_escape($booking->period_time_start) . ' - ' . html_escape($booking->period_time_end)
-                        : 'N/A' ?>
+                    <strong><?= date('l, F j, Y', strtotime($date)) ?></strong>
+                    <ul>
+                        <?php foreach ($daily_bookings as $booking): ?>
+                            <li>
+                                User: <?= !empty($booking->user_name) ? html_escape($booking->user_name) : 'N/A' ?><br>
+                                Room: <?= !empty($booking->room_name) ? html_escape($booking->room_name) : 'N/A' ?><br>
+                                Time: <?= !empty($booking->period_time_start) && !empty($booking->period_time_end)
+                                    ? html_escape($booking->period_time_start) . ' - ' . html_escape($booking->period_time_end)
+                                    : 'N/A' ?>
+                            </li>
+                        <?php endforeach; ?>
+                    </ul>
                 </li>
             <?php endforeach; ?>
         <?php else: ?>
@@ -40,5 +43,10 @@
         <?php endif; ?>
     </ul>
 </div>
+
+<!-- <div class="calendar-container">
+    <?= $calendar_html ?>
+</div>
+-->
 </body>
 </html>
